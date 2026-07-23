@@ -27,7 +27,8 @@ from sources import (  # noqa: E402
     FEEDS,
     CATEGORY_LABELS,
     is_health_topic,
-    is_arxiv_health,
+    is_ai_topic,
+    is_research_topic,
 )
 import summarize  # noqa: E402
 
@@ -125,25 +126,30 @@ def build_item(entry, feed_meta, pub_dt: datetime) -> dict:
 
 def classify(item: dict, feed_meta: dict) -> str | None:
     """返回最终分类；返回 None 表示丢弃。"""
-    cat = feed_meta["category"]
+    kind = feed_meta.get("kind", "general")
     text = f"{item['title']} {item['summary']}"
 
-    # arXiv 通用类目 -> 只保留医疗相关的
-    if "arxiv" in feed_meta["url"]:
-        if is_arxiv_health(text):
+    if kind == "medical":
+        # 医疗媒体：必须命中 AI 关键词才保留
+        if not is_ai_topic(text):
+            return None
+        # 命中研究关键词或源本身默认是 research 分类 → research
+        if is_research_topic(text) or feed_meta["category"] == "ai_health_research":
             return "ai_health_research"
-        return None
-
-    # 通用 AI 源里如果强医疗信号，晋升到 health_product
-    if cat == "ai_product" and is_health_topic(text):
         return "ai_health_product"
 
-    return cat
+    # general 通用 AI 媒体
+    if is_health_topic(text):
+        # 命中医疗关键词：晋升
+        if is_research_topic(text):
+            return "ai_health_research"
+        return "ai_health_product"
+    return "ai_product"
 
 
 def run(days: int) -> dict:
     now_cst = datetime.now(CST)
-    # 目标窗口：昨天 00:00 到 今天 00:00 (CST)
+    # 窗口：过去 N 天的 00:00 至 今天 00:00 (CST)
     today_start = now_cst.replace(hour=0, minute=0, second=0, microsecond=0)
     window_start = today_start - timedelta(days=days)
     window_end = today_start
@@ -201,8 +207,8 @@ def run(days: int) -> dict:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--days", type=int, default=1,
-                    help="窗口向前展开的天数（默认 1 = 昨天）")
+    ap.add_argument("--days", type=int, default=3,
+                    help="窗口向前展开的天数（默认 3 = 最近 3 天）")
     args = ap.parse_args()
 
     result = run(days=args.days)
