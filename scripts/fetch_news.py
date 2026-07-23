@@ -328,7 +328,7 @@ def run(days: int) -> dict:
 
     return {
         "generated_at": now_cst.isoformat(timespec="minutes"),
-        "window_start": window_start.isoformat(timespec="minutes"),
+        "window_start": default_start.isoformat(timespec="minutes"),
         "window_end": window_end.isoformat(timespec="minutes"),
         "category_labels": CATEGORY_LABELS,
         "category_order": CATEGORY_ORDER,
