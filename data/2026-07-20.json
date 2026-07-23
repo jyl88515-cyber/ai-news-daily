@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:02+08:00",
+  "generated_at": "2026-07-23T16:17+08:00",
   "window_start": "2026-07-20T00:00+08:00",
   "window_end": "2026-07-23T00:00+08:00",
   "category_labels": {
@@ -9,121 +9,11 @@
   },
   "counts": {
     "ai_product": 106,
-    "ai_health_product": 71,
-    "ai_health_research": 53
+    "ai_health_product": 88,
+    "ai_health_research": 48
   },
   "items": {
     "ai_product": [
-      {
-        "id": "23a1166e0caa",
-        "title": "Codex 之后，你现在能在 Claude 「蒸馏」自己了",
-        "link": "https://www.36kr.com/p/3907365426467969",
-        "summary": "每次发稿前，APPSO都要干一件重复性的活—— 整理配图。 官方截图挑出来放一边，AI 配图放另一边；文件名重新编号，最后补一份素材清单。手比脑子快，几分钟收工。 有天我想偷懒，把这活交给 AI，麻烦立刻来了。我得解释先看什么、为什么这么分、遇到重名怎么办、哪类文件绝对不能动——一件靠手感完成的小事，硬生生要写成一份谁也不想看的员工手册。 规则写到第三条，我放弃了。自己动手还快点。 所以昨晚刷到 Claude 的新功能时，我是真坐直了。 Cowork 新增了一个按钮，叫 Record a skill：开始录制后，你…",
-        "source": "36氪·AI",
-        "lang": "zh",
-        "published": "2026-07-22T23:54+08:00",
-        "published_ts": 1784735657,
-        "category": "ai_product"
-      },
-      {
-        "id": "2bf8661e49ad",
-        "title": "加速 AI Readiness：借助 Snowflake CoWork 从数据走向实时答案 ｜ Summit 2026",
-        "link": "https://www.infoq.cn/video/l6UhmOLGpL7Q4bHlsRXy",
-        "summary": "点击查看原文>",
-        "source": "InfoQ 中国",
-        "lang": "zh",
-        "published": "2026-07-22T21:49+08:00",
-        "published_ts": 1784728163,
-        "category": "ai_product"
-      },
-      {
-        "id": "ed30cc1f1022",
-        "title": "【中国青年报】报道西安交大“思政云宝”大模型 - 西安交通大学新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iZUpsb1E1bEZnVVZVb1VZMGZfNDlUd05mU0t2cW1mOXhxdGVIWUhGbEVwRktIRjdBT1FQSjgyaHJ0b0ZSdWFqVVYtUUNSQVBnUndYdFdWNA?oc=5",
-        "summary": "【中国青年报】报道西安交大“思政云宝”大模型 西安交通大学新闻网",
-        "source": "Google 新闻·大模型",
-        "lang": "zh",
-        "published": "2026-07-22T19:20+08:00",
-        "published_ts": 1784719222,
-        "category": "ai_product"
-      },
-      {
-        "id": "64c6c7d5a7e5",
-        "title": "驱动 Agentic Enterprise：让企业上下文转化为可治理的 Agentic 行动 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/shzCr5FsOcHUyBc8CEsj",
-        "summary": "点击查看原文>",
-        "source": "InfoQ 中国",
-        "lang": "zh",
-        "published": "2026-07-22T18:44+08:00",
-        "published_ts": 1784717099,
-        "category": "ai_product"
-      },
-      {
-        "id": "8668c0e6a4b3",
-        "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
-        "link": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0",
-        "summary": "点击查看原文>",
-        "source": "InfoQ 中国",
-        "lang": "zh",
-        "published": "2026-07-22T17:46+08:00",
-        "published_ts": 1784713610,
-        "category": "ai_product"
-      },
-      {
-        "id": "97d4a09dfa12",
-        "title": "阿里千问发布 Qwen-Image-3.0，文本输入长度提升4.5倍",
-        "link": "https://www.infoq.cn/article/jXQ5oQeOcEjLkuq2Qc0y",
-        "summary": "点击查看原文>",
-        "source": "InfoQ 中国",
-        "lang": "zh",
-        "published": "2026-07-22T17:42+08:00",
-        "published_ts": 1784713353,
-        "category": "ai_product"
-      },
-      {
-        "id": "c3d1a60db3d6",
-        "title": "广州人工智能相关企业已超2200家 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONVZoWVVOWXBpUVpBckJRNHp3cVNmTTdkb2x2eHd3c29fZEEzU1ZWcmxLMHBJaDdCdFZrLWZHMHc1TGtnVTFOMk1GNGNuM2xnWFdnek9WRXk0SGlya3NKQXVCNndRc0JsUDhGQWVOYkdsV0J6TVBjWWZydFVGV0FrUzBFdzRCU0plTldaQmd2cTBzeEg3MTRfMFBieGU1TXp4LTdGaWFyOFdLRkRZbVZuXzZQeEkxQjZoaENjTjVla2V3XzVramVQanhHenhDUXRaYVFMMUVOUzNQOGxuQUM5ejI0VmJqS0k4M1BCVDNLZXJHa0M5cVYtYg?oc=5",
-        "summary": "广州人工智能相关企业已超2200家 新浪网",
-        "source": "Google 新闻·大模型",
-        "lang": "zh",
-        "published": "2026-07-22T17:00+08:00",
-        "published_ts": 1784710812,
-        "category": "ai_product"
-      },
-      {
-        "id": "99c799ac605f",
-        "title": "首批AI智能体发放身份码 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0ZDRTc3QzWFV3Y05PQTRfMGprLU1ISkhLa3pjOXV0ZmRhNlFCZ0NIWm5nQXhFYktHQklVVGl0Q1lRb01xWTRDdE9waVlRRjJ6X3RvM2pxaTZqUldmOVFRU0NkUnVtVUlJUzVWcE1DV2dGSXdabmRrLUU1MFN4QQ?oc=5",
-        "summary": "首批AI智能体发放身份码 新浪网",
-        "source": "Google 新闻·AI Agent",
-        "lang": "zh",
-        "published": "2026-07-22T16:49+08:00",
-        "published_ts": 1784710180,
-        "category": "ai_product"
-      },
-      {
-        "id": "2da0fffccda4",
-        "title": "不靠最强模型也能赢？谷歌正用一款“冷冻”芯片复制搜索时代的“全栈碾压”",
-        "link": "https://www.infoq.cn/article/QGd73qDEWeoy1HxshQMH",
-        "summary": "点击查看原文>",
-        "source": "InfoQ 中国",
-        "lang": "zh",
-        "published": "2026-07-22T16:45+08:00",
-        "published_ts": 1784709924,
-        "category": "ai_product"
-      },
-      {
-        "id": "c21156234add",
-        "title": "云原生基础设施正成为可信代理式 AI 的基础",
-        "link": "https://www.infoq.cn/article/oM4mt43K2Ss3Qd7zdhhr",
-        "summary": "点击查看原文>",
-        "source": "InfoQ 中国",
-        "lang": "zh",
-        "published": "2026-07-22T16:25+08:00",
-        "published_ts": 1784708700,
-        "category": "ai_product"
-      },
       {
         "id": "d083e1ccccec",
         "title": "周鸿祎谈AI落地：企业不必急于“养龙虾” - 新浪网",
@@ -131,8 +21,8 @@
         "summary": "周鸿祎谈AI落地：企业不必急于“养龙虾” 新浪网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T15:55+08:00",
-        "published_ts": 1784706908,
+        "published": "2026-07-22T23:55+08:00",
+        "published_ts": 1784735708,
         "category": "ai_product"
       },
       {
@@ -142,8 +32,8 @@
         "summary": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线 新浪财经",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-22T15:45+08:00",
-        "published_ts": 1784706300,
+        "published": "2026-07-22T23:45+08:00",
+        "published_ts": 1784735100,
         "category": "ai_product"
       },
       {
@@ -153,8 +43,8 @@
         "summary": "智能体改变今年WAIC叙事主线，底层大模型之争持续上演 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T14:39+08:00",
-        "published_ts": 1784702340,
+        "published": "2026-07-22T22:39+08:00",
+        "published_ts": 1784731140,
         "category": "ai_product"
       },
       {
@@ -164,8 +54,8 @@
         "summary": "点击查看原文>",
         "source": "InfoQ 中国",
         "lang": "zh",
-        "published": "2026-07-22T14:12+08:00",
-        "published_ts": 1784700737,
+        "published": "2026-07-22T22:12+08:00",
+        "published_ts": 1784729537,
         "category": "ai_product"
       },
       {
@@ -175,8 +65,8 @@
         "summary": "点击查看原文>",
         "source": "InfoQ 中国",
         "lang": "zh",
-        "published": "2026-07-22T14:00+08:00",
-        "published_ts": 1784700000,
+        "published": "2026-07-22T22:00+08:00",
+        "published_ts": 1784728800,
         "category": "ai_product"
       },
       {
@@ -186,8 +76,8 @@
         "summary": "WAIC2026｜看完WAIC2026 中国电信给出的AI答案是什么？ 新浪网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-22T13:55+08:00",
-        "published_ts": 1784699700,
+        "published": "2026-07-22T21:55+08:00",
+        "published_ts": 1784728500,
         "category": "ai_product"
       },
       {
@@ -197,8 +87,8 @@
         "summary": "全球首款AI智能体手机努比亚NaviX Ultra配置曝光|Agent|像素|豆包|熊猫|按键_手机新浪网 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T13:40+08:00",
-        "published_ts": 1784698853,
+        "published": "2026-07-22T21:40+08:00",
+        "published_ts": 1784727653,
         "category": "ai_product"
       },
       {
@@ -208,8 +98,8 @@
         "summary": "点击查看原文>",
         "source": "InfoQ 中国",
         "lang": "zh",
-        "published": "2026-07-22T12:54+08:00",
-        "published_ts": 1784696043,
+        "published": "2026-07-22T20:54+08:00",
+        "published_ts": 1784724843,
         "category": "ai_product"
       },
       {
@@ -219,8 +109,8 @@
         "summary": "点击查看原文>",
         "source": "InfoQ 中国",
         "lang": "zh",
-        "published": "2026-07-22T12:36+08:00",
-        "published_ts": 1784694994,
+        "published": "2026-07-22T20:36+08:00",
+        "published_ts": 1784723794,
         "category": "ai_product"
       },
       {
@@ -230,8 +120,8 @@
         "summary": "点击查看原文>",
         "source": "InfoQ 中国",
         "lang": "zh",
-        "published": "2026-07-22T12:10+08:00",
-        "published_ts": 1784693435,
+        "published": "2026-07-22T20:10+08:00",
+        "published_ts": 1784722235,
         "category": "ai_product"
       },
       {
@@ -241,8 +131,8 @@
         "summary": "腾讯发布首个自研创意智能体 Miora - OSCHINA - 开源 × AI · 开发者生态社区 OSCHINA",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T11:04+08:00",
-        "published_ts": 1784689495,
+        "published": "2026-07-22T19:04+08:00",
+        "published_ts": 1784718295,
         "category": "ai_product"
       },
       {
@@ -252,8 +142,8 @@
         "summary": "点击查看原文>",
         "source": "InfoQ 中国",
         "lang": "zh",
-        "published": "2026-07-22T11:01+08:00",
-        "published_ts": 1784689318,
+        "published": "2026-07-22T19:01+08:00",
+        "published_ts": 1784718118,
         "category": "ai_product"
       },
       {
@@ -263,8 +153,8 @@
         "summary": "AI智能体周报：蚂蚁发布“嗞嗞” 平台；灵光迎来战略收缩；同花顺问财遭用户投诉“反向降级”… Sohu",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T10:20+08:00",
-        "published_ts": 1784686804,
+        "published": "2026-07-22T18:20+08:00",
+        "published_ts": 1784715604,
         "category": "ai_product"
       },
       {
@@ -274,8 +164,8 @@
         "summary": "信通院重磅发布《企业级智能体技术与应用研究报告》 360智语打造企业级Agent落地样本 驱动之家",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T10:13+08:00",
-        "published_ts": 1784686380,
+        "published": "2026-07-22T18:13+08:00",
+        "published_ts": 1784715180,
         "category": "ai_product"
       },
       {
@@ -285,8 +175,8 @@
         "summary": "AI智能体进入实干元年 | WAIC2026 新浪网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T10:11+08:00",
-        "published_ts": 1784686260,
+        "published": "2026-07-22T18:11+08:00",
+        "published_ts": 1784715060,
         "category": "ai_product"
       },
       {
@@ -296,8 +186,8 @@
         "summary": "双案例入选！ 同花顺",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-22T09:53+08:00",
-        "published_ts": 1784685193,
+        "published": "2026-07-22T17:53+08:00",
+        "published_ts": 1784713993,
         "category": "ai_product"
       },
       {
@@ -307,8 +197,8 @@
         "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
         "source": "少数派",
         "lang": "zh",
-        "published": "2026-07-22T09:43+08:00",
-        "published_ts": 1784684586,
+        "published": "2026-07-22T17:43+08:00",
+        "published_ts": 1784713386,
         "category": "ai_product"
       },
       {
@@ -318,8 +208,8 @@
         "summary": "对话OPPO姜昱辰：从APP到Agent，AI手机的生态位没有变 新浪网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T09:30+08:00",
-        "published_ts": 1784683857,
+        "published": "2026-07-22T17:30+08:00",
+        "published_ts": 1784712657,
         "category": "ai_product"
       },
       {
@@ -329,8 +219,8 @@
         "summary": "智能体商业生态亮相2026世界人工智能大会 中国科技网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T08:36+08:00",
-        "published_ts": 1784680585,
+        "published": "2026-07-22T16:36+08:00",
+        "published_ts": 1784709385,
         "category": "ai_product"
       },
       {
@@ -340,8 +230,8 @@
         "summary": "科锐国际亮相2026世界人工智能大会 探讨智能体应用机遇和挑战 中国科技网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T07:30+08:00",
-        "published_ts": 1784676611,
+        "published": "2026-07-22T15:30+08:00",
+        "published_ts": 1784705411,
         "category": "ai_product"
       },
       {
@@ -351,8 +241,8 @@
         "summary": "百度文心助手任务 Agent 登顶国际权威榜单，超越 Claude、GPT 拿下全球智能体冠军 雷峰网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T07:18+08:00",
-        "published_ts": 1784675880,
+        "published": "2026-07-22T15:18+08:00",
+        "published_ts": 1784704680,
         "category": "ai_product"
       },
       {
@@ -362,8 +252,8 @@
         "summary": "腾讯发布 AI 创意智能体 Miora 品玩",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T07:14+08:00",
-        "published_ts": 1784675647,
+        "published": "2026-07-22T15:14+08:00",
+        "published_ts": 1784704447,
         "category": "ai_product"
       },
       {
@@ -373,8 +263,8 @@
         "summary": "从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。 查看全文",
         "source": "少数派",
         "lang": "zh",
-        "published": "2026-07-22T07:00+08:00",
-        "published_ts": 1784674800,
+        "published": "2026-07-22T15:00+08:00",
+        "published_ts": 1784703600,
         "category": "ai_product"
       },
       {
@@ -384,8 +274,8 @@
         "summary": "腾讯AI创意智能体Miora全量上线 具备记忆与多智能体协作能力 观点网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T05:56+08:00",
-        "published_ts": 1784670968,
+        "published": "2026-07-22T13:56+08:00",
+        "published_ts": 1784699768,
         "category": "ai_product"
       },
       {
@@ -395,8 +285,8 @@
         "summary": "AI PC重磅发布 国家人工智能应用中试基地亮相世界人工智能大会 新浪广东",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-22T05:01+08:00",
-        "published_ts": 1784667660,
+        "published": "2026-07-22T13:01+08:00",
+        "published_ts": 1784696460,
         "category": "ai_product"
       },
       {
@@ -406,8 +296,8 @@
         "summary": "努比亚NaviX Ultra值得买吗？AI智能体手机深度评测+FAQ 新浪网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T05:00+08:00",
-        "published_ts": 1784667651,
+        "published": "2026-07-22T13:00+08:00",
+        "published_ts": 1784696451,
         "category": "ai_product"
       },
       {
@@ -417,8 +307,8 @@
         "summary": "去哪儿旅行签约接入国家级AI协同生态 新浪网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T03:44+08:00",
-        "published_ts": 1784663061,
+        "published": "2026-07-22T11:44+08:00",
+        "published_ts": 1784691861,
         "category": "ai_product"
       },
       {
@@ -428,8 +318,8 @@
         "summary": "上海建工亮相2026世界人工智能大会 发布云工大模型 中华网科技频道",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-22T02:50+08:00",
-        "published_ts": 1784659821,
+        "published": "2026-07-22T10:50+08:00",
+        "published_ts": 1784688621,
         "category": "ai_product"
       },
       {
@@ -439,8 +329,8 @@
         "summary": "恶意插件100%得手！伯克利、UIUC和NUS等给智能体做了次安全体检 智源社区",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T02:10+08:00",
-        "published_ts": 1784657400,
+        "published": "2026-07-22T10:10+08:00",
+        "published_ts": 1784686200,
         "category": "ai_product"
       },
       {
@@ -450,8 +340,8 @@
         "summary": "声音只是其中一个切片。客观来看，它记录的是我的创作环境如何不断迭代；但从个人经历来看，它真正映照的是我对创作这件事的理解如何变化。 查看全文",
         "source": "少数派",
         "lang": "zh",
-        "published": "2026-07-22T02:04+08:00",
-        "published_ts": 1784657069,
+        "published": "2026-07-22T10:04+08:00",
+        "published_ts": 1784685869,
         "category": "ai_product"
       },
       {
@@ -461,8 +351,8 @@
         "summary": "英伟达推出合成视频检测器 NIM、WordPress 曝出高危漏洞等。 查看全文",
         "source": "少数派",
         "lang": "zh",
-        "published": "2026-07-22T00:30+08:00",
-        "published_ts": 1784651400,
+        "published": "2026-07-22T08:30+08:00",
+        "published_ts": 1784680200,
         "category": "ai_product"
       },
       {
@@ -472,8 +362,8 @@
         "summary": "济南市7个案例入选工信部人工智能应用典型案例数量居全省首位- 科教文卫 济南新闻",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-21T23:57+08:00",
-        "published_ts": 1784649430,
+        "published": "2026-07-22T07:57+08:00",
+        "published_ts": 1784678230,
         "category": "ai_product"
       },
       {
@@ -483,8 +373,8 @@
         "summary": "AI Agent 满天飞，谁来给它们“排 Sprint”？ 53AI",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T23:25+08:00",
-        "published_ts": 1784647556,
+        "published": "2026-07-22T07:25+08:00",
+        "published_ts": 1784676356,
         "category": "ai_product"
       },
       {
@@ -494,8 +384,8 @@
         "summary": "公司的重点是否是要开发一批大模型？ 协创数据回应 MSN",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-21T16:15+08:00",
-        "published_ts": 1784621735,
+        "published": "2026-07-22T00:15+08:00",
+        "published_ts": 1784650535,
         "category": "ai_product"
       },
       {
@@ -505,8 +395,8 @@
         "summary": "WAIC观察丨AI走出屏幕，智能体与Token同时爆发 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T13:37+08:00",
-        "published_ts": 1784612239,
+        "published": "2026-07-21T21:37+08:00",
+        "published_ts": 1784641039,
         "category": "ai_product"
       },
       {
@@ -516,8 +406,8 @@
         "summary": "CSDI峰会开启：Agentic AI 落地应用的黄金期，智能系统重塑生产力 机器人大讲堂",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T12:52+08:00",
-        "published_ts": 1784609556,
+        "published": "2026-07-21T20:52+08:00",
+        "published_ts": 1784638356,
         "category": "ai_product"
       },
       {
@@ -527,8 +417,8 @@
         "summary": "WAIC观察丨AI走出屏幕，智能体与Token同时爆发 新浪网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T12:39+08:00",
-        "published_ts": 1784608784,
+        "published": "2026-07-21T20:39+08:00",
+        "published_ts": 1784637584,
         "category": "ai_product"
       },
       {
@@ -538,8 +428,8 @@
         "summary": "大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T11:35+08:00",
-        "published_ts": 1784604923,
+        "published": "2026-07-21T19:35+08:00",
+        "published_ts": 1784633723,
         "category": "ai_product"
       },
       {
@@ -549,8 +439,8 @@
         "summary": "NVIDIA Agent Toolkit 扩展全新 Omniverse 库，赋能 AI 智能体构建“仿真就绪”世界 电子工程专辑",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T10:00+08:00",
-        "published_ts": 1784599200,
+        "published": "2026-07-21T18:00+08:00",
+        "published_ts": 1784628000,
         "category": "ai_product"
       },
       {
@@ -560,8 +450,8 @@
         "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
         "source": "少数派",
         "lang": "zh",
-        "published": "2026-07-21T09:00+08:00",
-        "published_ts": 1784595600,
+        "published": "2026-07-21T17:00+08:00",
+        "published_ts": 1784624400,
         "category": "ai_product"
       },
       {
@@ -571,8 +461,8 @@
         "summary": "一文回顾WAIC：机器人打工、智能体喷涌、AI硬件还在卷- 零售 亿邦动力网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T08:58+08:00",
-        "published_ts": 1784595513,
+        "published": "2026-07-21T16:58+08:00",
+        "published_ts": 1784624313,
         "category": "ai_product"
       },
       {
@@ -582,8 +472,8 @@
         "summary": "WAIC 2026｜从算力底座到Agent，全栈AI基础设施赋能Token经济 飞象网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T08:21+08:00",
-        "published_ts": 1784593295,
+        "published": "2026-07-21T16:21+08:00",
+        "published_ts": 1784622095,
         "category": "ai_product"
       },
       {
@@ -593,8 +483,8 @@
         "summary": "千问进苹果，大模型开始「隐身」 手机网易网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-21T08:14+08:00",
-        "published_ts": 1784592873,
+        "published": "2026-07-21T16:14+08:00",
+        "published_ts": 1784621673,
         "category": "ai_product"
       },
       {
@@ -604,8 +494,8 @@
         "summary": "WAIC观察|不只是一副眼镜，而是一个AI Agent入口——致敬未知的生态野望 VR陀螺",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T08:12+08:00",
-        "published_ts": 1784592753,
+        "published": "2026-07-21T16:12+08:00",
+        "published_ts": 1784621553,
         "category": "ai_product"
       },
       {
@@ -615,8 +505,8 @@
         "summary": "贵州企业AI获客观察：GEO智能化路径解析 新华报业网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T07:28+08:00",
-        "published_ts": 1784590080,
+        "published": "2026-07-21T15:28+08:00",
+        "published_ts": 1784618880,
         "category": "ai_product"
       },
       {
@@ -626,8 +516,8 @@
         "summary": "NVIDIA 在 SIGGRAPH 上展示代理式 AI 与物理 AI 成果，推动图形与仿真技术进步 NVIDIA",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T07:03+08:00",
-        "published_ts": 1784588583,
+        "published": "2026-07-21T15:03+08:00",
+        "published_ts": 1784617383,
         "category": "ai_product"
       },
       {
@@ -637,8 +527,8 @@
         "summary": "给 Surface Pro 5 安装上仍在积极更新的 Linux 发行版，它会成为一台更可用的设备吗？ 查看全文",
         "source": "少数派",
         "lang": "zh",
-        "published": "2026-07-21T07:00+08:00",
-        "published_ts": 1784588400,
+        "published": "2026-07-21T15:00+08:00",
+        "published_ts": 1784617200,
         "category": "ai_product"
       },
       {
@@ -648,8 +538,8 @@
         "summary": "智能体：AI从\"能聊\"到\"能干\"，一场生产力革命正在爆发 Sohu",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T06:00+08:00",
-        "published_ts": 1784584806,
+        "published": "2026-07-21T14:00+08:00",
+        "published_ts": 1784613606,
         "category": "ai_product"
       },
       {
@@ -659,8 +549,8 @@
         "summary": "大模型竞争转向应用层办公、智能体、金融加速落地 QQ News",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-21T05:59+08:00",
-        "published_ts": 1784584740,
+        "published": "2026-07-21T13:59+08:00",
+        "published_ts": 1784613540,
         "category": "ai_product"
       },
       {
@@ -670,8 +560,8 @@
         "summary": "智能体嵌入调研流程 益普索提出“HI主导、AI增强”路线 cb.com.cn",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T05:44+08:00",
-        "published_ts": 1784583840,
+        "published": "2026-07-21T13:44+08:00",
+        "published_ts": 1784612640,
         "category": "ai_product"
       },
       {
@@ -681,8 +571,8 @@
         "summary": "星环科技发布GPU原生数据库 试水AI Agent数据底座 钛媒体",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-21T04:46+08:00",
-        "published_ts": 1784580360,
+        "published": "2026-07-21T12:46+08:00",
+        "published_ts": 1784609160,
         "category": "ai_product"
       },
       {
@@ -692,8 +582,8 @@
         "summary": "麦耘AI新品举行发布会 探索AI赋能企业增长新路径 新浪网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T04:09+08:00",
-        "published_ts": 1784578193,
+        "published": "2026-07-21T12:09+08:00",
+        "published_ts": 1784606993,
         "category": "ai_product"
       },
       {
@@ -703,8 +593,8 @@
         "summary": "NVIDIA Agent Toolkit 扩展全新 Omniverse 库，赋能 AI 智能体构建“仿真就绪”世界 NVIDIA",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T04:09+08:00",
-        "published_ts": 1784578166,
+        "published": "2026-07-21T12:09+08:00",
+        "published_ts": 1784606966,
         "category": "ai_product"
       },
       {
@@ -714,8 +604,8 @@
         "summary": "中国电信完成5G无线网络规划大模型现网试点应用 观点网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-21T03:28+08:00",
-        "published_ts": 1784575681,
+        "published": "2026-07-21T11:28+08:00",
+        "published_ts": 1784604481,
         "category": "ai_product"
       },
       {
@@ -725,8 +615,8 @@
         "summary": "作为有多年专业音视频开发经验的技术工作者，我给自己，以及可能也有类似需求的你，做了一个把「从长视频里截取片段」这件事做到极致的产品。 查看全文",
         "source": "少数派",
         "lang": "zh",
-        "published": "2026-07-21T03:00+08:00",
-        "published_ts": 1784574002,
+        "published": "2026-07-21T11:00+08:00",
+        "published_ts": 1784602802,
         "category": "ai_product"
       },
       {
@@ -736,8 +626,8 @@
         "summary": "AI Agent平台推荐丨海外AI为何在中国企业“水土不服”？九科信息bit-Agent揭秘企业级智能体破局之道 中华网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T02:33+08:00",
-        "published_ts": 1784572432,
+        "published": "2026-07-21T10:33+08:00",
+        "published_ts": 1784601232,
         "category": "ai_product"
       },
       {
@@ -747,8 +637,8 @@
         "summary": "瑞莱智慧完成数亿元B轮融资，专注AI安全技术 投资界",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-21T02:31+08:00",
-        "published_ts": 1784572260,
+        "published": "2026-07-21T10:31+08:00",
+        "published_ts": 1784601060,
         "category": "ai_product"
       },
       {
@@ -758,8 +648,8 @@
         "summary": "AI应用WAIC“抢跑”：热闹是真，但差异化是假 thepaper.cn",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T02:12+08:00",
-        "published_ts": 1784571120,
+        "published": "2026-07-21T10:12+08:00",
+        "published_ts": 1784599920,
         "category": "ai_product"
       },
       {
@@ -769,8 +659,8 @@
         "summary": "深圳AI智能体(AI Agent)开发服务商推荐：数商云的技术实力与行业价值解析 手机网易网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T02:09+08:00",
-        "published_ts": 1784570949,
+        "published": "2026-07-21T10:09+08:00",
+        "published_ts": 1784599749,
         "category": "ai_product"
       },
       {
@@ -780,8 +670,8 @@
         "summary": "启明创投周志峰：AI算力需求和大模型迭代超预期、应用低于预期 财新",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-21T01:15+08:00",
-        "published_ts": 1784567700,
+        "published": "2026-07-21T09:15+08:00",
+        "published_ts": 1784596500,
         "category": "ai_product"
       },
       {
@@ -791,8 +681,8 @@
         "summary": "三步部署、30分钟跑通Agent：英伟达将AI智能体装进了桌面工作站 华尔街见闻",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T22:36+08:00",
-        "published_ts": 1784558215,
+        "published": "2026-07-21T06:36+08:00",
+        "published_ts": 1784587015,
         "category": "ai_product"
       },
       {
@@ -802,8 +692,8 @@
         "summary": "国产AI大模型规模有望超700亿元 机构预测8只概念股高增长 东方财富",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T18:30+08:00",
-        "published_ts": 1784543424,
+        "published": "2026-07-21T02:30+08:00",
+        "published_ts": 1784572224,
         "category": "ai_product"
       },
       {
@@ -813,8 +703,8 @@
         "summary": "英伟达Agent工具包通过新增Omniverse库进一步扩展，让AI智能体着手构建可用于仿真的世界 Moomoo",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T15:00+08:00",
-        "published_ts": 1784530800,
+        "published": "2026-07-20T23:00+08:00",
+        "published_ts": 1784559600,
         "category": "ai_product"
       },
       {
@@ -824,8 +714,8 @@
         "summary": "WAIC观察|迈富时梁铮：以智能体基建，扩大AI能力边界 C114通信网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T13:10+08:00",
-        "published_ts": 1784524200,
+        "published": "2026-07-20T21:10+08:00",
+        "published_ts": 1784553000,
         "category": "ai_product"
       },
       {
@@ -835,8 +725,8 @@
         "summary": "Agent支付时代加速到来 直击WAIC：无需切换App，一句话就可完成消费 QQ News",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T12:13+08:00",
-        "published_ts": 1784520780,
+        "published": "2026-07-20T20:13+08:00",
+        "published_ts": 1784549580,
         "category": "ai_product"
       },
       {
@@ -846,19 +736,8 @@
         "summary": "加速AI走向业务生产力，容联云发布企业Agent全栈战略 shobserver.com",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T11:35+08:00",
-        "published_ts": 1784518500,
-        "category": "ai_product"
-      },
-      {
-        "id": "d075c8e9dc5c",
-        "title": "海康威视WAIC 2026：海康观澜大模型体系亮相 加速AI落地物理世界 - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wbUNqREstRElyNEJURHl4TU4ySHl6RWprMnVaaHNSZWgxenZYcVNRRFpRekQwRC1ISlZ6N0poWmxDc2VRUmFaZ1h1MzFZb0YwWlZHWk5YLVBpWTQ5RkZWdHBn?oc=5",
-        "summary": "海康威视WAIC 2026：海康观澜大模型体系亮相 加速AI落地物理世界 手机网易网",
-        "source": "Google 新闻·大模型",
-        "lang": "zh",
-        "published": "2026-07-20T11:20+08:00",
-        "published_ts": 1784517620,
+        "published": "2026-07-20T19:35+08:00",
+        "published_ts": 1784547300,
         "category": "ai_product"
       },
       {
@@ -868,8 +747,8 @@
         "summary": "WAIC观察 | 大模型之后，趣丸科技打造AI应用新范式 手机网易网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T11:06+08:00",
-        "published_ts": 1784516801,
+        "published": "2026-07-20T19:06+08:00",
+        "published_ts": 1784545601,
         "category": "ai_product"
       },
       {
@@ -879,8 +758,8 @@
         "summary": "AI 公司，集体走进视频播客 36 Kr",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-20T10:50+08:00",
-        "published_ts": 1784515800,
+        "published": "2026-07-20T18:50+08:00",
+        "published_ts": 1784544600,
         "category": "ai_product"
       },
       {
@@ -890,8 +769,8 @@
         "summary": "中科创达AquaClaw for IoT，从智能汽车到原生AI，打造统一Agent OS 财富号",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T09:52+08:00",
-        "published_ts": 1784512320,
+        "published": "2026-07-20T17:52+08:00",
+        "published_ts": 1784541120,
         "category": "ai_product"
       },
       {
@@ -901,8 +780,8 @@
         "summary": "AI智能体发动网络攻击？Hugging Face平台中招了 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T09:35+08:00",
-        "published_ts": 1784511348,
+        "published": "2026-07-20T17:35+08:00",
+        "published_ts": 1784540148,
         "category": "ai_product"
       },
       {
@@ -912,8 +791,8 @@
         "summary": "智法共生·法律大模型推理革新与应用生态论坛在沪成功举办——2026WAIC法律科技专业论坛集中发布六项成果 手机网易网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T09:23+08:00",
-        "published_ts": 1784510639,
+        "published": "2026-07-20T17:23+08:00",
+        "published_ts": 1784539439,
         "category": "ai_product"
       },
       {
@@ -923,8 +802,8 @@
         "summary": "中国石油昆仑大模型亮相2026世界人工智能大会 新华网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T09:12+08:00",
-        "published_ts": 1784509923,
+        "published": "2026-07-20T17:12+08:00",
+        "published_ts": 1784538723,
         "category": "ai_product"
       },
       {
@@ -934,8 +813,8 @@
         "summary": "月访问量登顶！腾讯WorkBuddy持续领跑AI办公智能体赛道|CodeBuddy|环球网|Agent|AI代码生成|腾讯混元_手机新浪网 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T09:08+08:00",
-        "published_ts": 1784509736,
+        "published": "2026-07-20T17:08+08:00",
+        "published_ts": 1784538536,
         "category": "ai_product"
       },
       {
@@ -945,8 +824,8 @@
         "summary": "WAIC观察|奕行智能石贤帅：聚焦AI研发新范式，智能体已开始设计芯片 C114通信网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T08:38+08:00",
-        "published_ts": 1784507880,
+        "published": "2026-07-20T16:38+08:00",
+        "published_ts": 1784536680,
         "category": "ai_product"
       },
       {
@@ -956,8 +835,8 @@
         "summary": "2026年新一批AI智能体培训启动啦：学习开发和搭建智能体（AI Agent）！20岁以上可报 手机网易网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T08:31+08:00",
-        "published_ts": 1784507466,
+        "published": "2026-07-20T16:31+08:00",
+        "published_ts": 1784536266,
         "category": "ai_product"
       },
       {
@@ -967,8 +846,8 @@
         "summary": "香港灯塔资本布局AI Agent支付底座，抢占交易新入口 中华网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T07:57+08:00",
-        "published_ts": 1784505454,
+        "published": "2026-07-20T15:57+08:00",
+        "published_ts": 1784534254,
         "category": "ai_product"
       },
       {
@@ -978,8 +857,8 @@
         "summary": "业界首个完整AI决策产品体系亮相2026世界人工智能大会 中国科技网",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-20T07:50+08:00",
-        "published_ts": 1784505020,
+        "published": "2026-07-20T15:50+08:00",
+        "published_ts": 1784533820,
         "category": "ai_product"
       },
       {
@@ -989,8 +868,8 @@
         "summary": "智合受邀亮相2026世界人工智能大会，正式发布智合AI 3.0 中华网",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-20T07:42+08:00",
-        "published_ts": 1784504525,
+        "published": "2026-07-20T15:42+08:00",
+        "published_ts": 1784533325,
         "category": "ai_product"
       },
       {
@@ -1000,8 +879,8 @@
         "summary": "2026 CCF BDCI首批赛题聚焦AI Agent：三大实战方向引领智能体技术新浪潮 新华报业网",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T06:17+08:00",
-        "published_ts": 1784499420,
+        "published": "2026-07-20T14:17+08:00",
+        "published_ts": 1784528220,
         "category": "ai_product"
       },
       {
@@ -1011,8 +890,8 @@
         "summary": "《海康观澜大模型白皮书》 发布，全面呈现观澜大模型技术体系 手机网易网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T06:15+08:00",
-        "published_ts": 1784499342,
+        "published": "2026-07-20T14:15+08:00",
+        "published_ts": 1784528142,
         "category": "ai_product"
       },
       {
@@ -1022,8 +901,8 @@
         "summary": "WAIC 2026 | 直观体验AI与数据深度融合 星环科技发布GPU原生认知数据库 东方财富",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T05:35+08:00",
-        "published_ts": 1784496921,
+        "published": "2026-07-20T13:35+08:00",
+        "published_ts": 1784525721,
         "category": "ai_product"
       },
       {
@@ -1033,8 +912,8 @@
         "summary": "行业洗牌后AI智能体如何改变普通人工作方式？ 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T04:24+08:00",
-        "published_ts": 1784492666,
+        "published": "2026-07-20T12:24+08:00",
+        "published_ts": 1784521466,
         "category": "ai_product"
       },
       {
@@ -1044,8 +923,8 @@
         "summary": "AI洗牌下一个风口：垂直应用与智能体爆发 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T04:23+08:00",
-        "published_ts": 1784492592,
+        "published": "2026-07-20T12:23+08:00",
+        "published_ts": 1784521392,
         "category": "ai_product"
       },
       {
@@ -1055,8 +934,8 @@
         "summary": "此芯科技Danny Zhang：全球首款智能体专用CPU，是怎样炼成的？ 智东西",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T04:00+08:00",
-        "published_ts": 1784491237,
+        "published": "2026-07-20T12:00+08:00",
+        "published_ts": 1784520037,
         "category": "ai_product"
       },
       {
@@ -1066,8 +945,8 @@
         "summary": "聚焦WAIC | 金融大模型“六层路径”，探索普惠信贷安全增长新范式 紫牛新闻",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T03:49+08:00",
-        "published_ts": 1784490540,
+        "published": "2026-07-20T11:49+08:00",
+        "published_ts": 1784519340,
         "category": "ai_product"
       },
       {
@@ -1077,8 +956,8 @@
         "summary": "中国电信研究院两项科研成果入选工信部人工智能应用典型案例名单 凤凰网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T03:44+08:00",
-        "published_ts": 1784490252,
+        "published": "2026-07-20T11:44+08:00",
+        "published_ts": 1784519052,
         "category": "ai_product"
       },
       {
@@ -1088,8 +967,8 @@
         "summary": "中科闻歌WAIC2026发布业界首个全系决策智能产品 中国日报网",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-20T03:31+08:00",
-        "published_ts": 1784489460,
+        "published": "2026-07-20T11:31+08:00",
+        "published_ts": 1784518260,
         "category": "ai_product"
       },
       {
@@ -1099,8 +978,8 @@
         "summary": "Grab 构建安全的智能体 AI 工作负载平台 Infoq.cn",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T03:11+08:00",
-        "published_ts": 1784488300,
+        "published": "2026-07-20T11:11+08:00",
+        "published_ts": 1784517100,
         "category": "ai_product"
       },
       {
@@ -1110,8 +989,19 @@
         "summary": "从能聊到能干，人机交互彻底变天，“Agent Ready”已来 上观新闻",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T02:55+08:00",
-        "published_ts": 1784487300,
+        "published": "2026-07-20T10:55+08:00",
+        "published_ts": 1784516100,
+        "category": "ai_product"
+      },
+      {
+        "id": "f75e0d71f8f2",
+        "title": "2026世界人工智能大会：智能体带来新机遇，行业共绘“AI实践图景” - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTHpOZTV0UV9pRWFRZlBnNmtJMWRqQVJCeGVQcTJ2VWcxa1ZiTC1GSFA1MkxZektqb3pPUXlBU09GUnprcmExcUNhNm5jNUg3SkhXUVBkZTRacW15ZzlVTFdvaEJuSmx2NGR5R0lQdV9yVnQ2ZEFxRFJNVUNNZXlqejJHZDkzNUtzRmdVT0lBQU0tbDdrOVB3WVk4QzR4ZzNwQ1A0MVBUeXQyaXhTMkwwdVpSdkJadThLYy05cEYyVFhiYlotRmJacjV2cHVUU3VYb2x2Yw?oc=5",
+        "summary": "2026世界人工智能大会：智能体带来新机遇，行业共绘“AI实践图景” 新浪财经",
+        "source": "Google 新闻·AI Agent",
+        "lang": "zh",
+        "published": "2026-07-20T10:52+08:00",
+        "published_ts": 1784515920,
         "category": "ai_product"
       },
       {
@@ -1121,8 +1011,8 @@
         "summary": "2026世界人工智能大会：智能体带来新机遇，行业共绘“AI实践图景” Sohu",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T02:51+08:00",
-        "published_ts": 1784487072,
+        "published": "2026-07-20T10:51+08:00",
+        "published_ts": 1784515872,
         "category": "ai_product"
       },
       {
@@ -1132,8 +1022,8 @@
         "summary": "2026怀柔区大模型推广提速，服务商助力企业AI转型 手机网易网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T01:39+08:00",
-        "published_ts": 1784482771,
+        "published": "2026-07-20T09:39+08:00",
+        "published_ts": 1784511571,
         "category": "ai_product"
       },
       {
@@ -1143,8 +1033,8 @@
         "summary": "“安徽神玑”亮相世界人工智能大会 发布多款前沿AI算力产品 ahyouth.com",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-20T01:17+08:00",
-        "published_ts": 1784481453,
+        "published": "2026-07-20T09:17+08:00",
+        "published_ts": 1784510253,
         "category": "ai_product"
       },
       {
@@ -1154,8 +1044,8 @@
         "summary": "界面财联社发布多项AI赋能产品与合作项目 guan.media",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
-        "published": "2026-07-20T01:07+08:00",
-        "published_ts": 1784480820,
+        "published": "2026-07-20T09:07+08:00",
+        "published_ts": 1784509620,
         "category": "ai_product"
       },
       {
@@ -1165,8 +1055,8 @@
         "summary": "大厂集体涨薪，风向变了。。 电子工程专辑",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-20T01:00+08:00",
-        "published_ts": 1784480400,
+        "published": "2026-07-20T09:00+08:00",
+        "published_ts": 1784509200,
         "category": "ai_product"
       },
       {
@@ -1176,21 +1066,131 @@
         "summary": "大模型迭代提速！AI智能体赛道景气向好 18股业绩倍增可期 东方财富",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-20T00:00+08:00",
-        "published_ts": 1784476818,
+        "published": "2026-07-20T08:00+08:00",
+        "published_ts": 1784505618,
+        "category": "ai_product"
+      },
+      {
+        "id": "92ecb8b1471a",
+        "title": "奇富科技首倡金融大模型“六层路径” 探索普惠信贷安全增长新范式 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbVlKV0hEWk51X3JkVXItMFRYRklENmd5ZjhSaFN3aVQ2UDA0dDdEMEs4WU1xaWtyQ3BxZllUSllGcFJKVUR4VEFYcHM0QUF0S0VlUnR1b1lYUWswdWl1Yg?oc=5",
+        "summary": "奇富科技首倡金融大模型“六层路径” 探索普惠信贷安全增长新范式 东方财富",
+        "source": "Google 新闻·大模型",
+        "lang": "zh",
+        "published": "2026-07-20T07:50+08:00",
+        "published_ts": 1784505040,
+        "category": "ai_product"
+      },
+      {
+        "id": "b3c81a44a47c",
+        "title": "防范“数字形式主义”，上海发布全国首部法律服务领域大模型部署应用指引 - 上观新闻",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQlBqY3V2YWZaMGZhWld3dlgtdk04RjlWTG1jallvNGxlTFVHT1QydGtRbHh5QTJsUU81cC11Z21sdXdSXzJfOHQydFpmY1VqX2ROTHRkQQ?oc=5",
+        "summary": "防范“数字形式主义”，上海发布全国首部法律服务领域大模型部署应用指引 上观新闻",
+        "source": "Google 新闻·大模型",
+        "lang": "zh",
+        "published": "2026-07-20T06:39+08:00",
+        "published_ts": 1784500740,
+        "category": "ai_product"
+      },
+      {
+        "id": "59cd701adfb1",
+        "title": "AI产品榜：千问MAU涨552%达2.03亿，成全球增速最高AI应用 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uekxPclF5T3dzMjktYXJqY09IbXpBSDhJZkhHa3JSTGxyRGRYZWwyM0tuMkVJeGdCX3J3M0FyVWVCcnZZNjcydmZ1RUVVNWVHMmJn?oc=5",
+        "summary": "AI产品榜：千问MAU涨552%达2.03亿，成全球增速最高AI应用 第一财经",
+        "source": "Google 新闻·AI 产品",
+        "lang": "zh",
+        "published": "2026-07-20T06:30+08:00",
+        "published_ts": 1784500221,
+        "category": "ai_product"
+      },
+      {
+        "id": "e1738ec71954",
+        "title": "写报告、做分析、校差错，蜜度三款AI智能体在WAIC“找班上” - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VM2Uwc3VwQjYtekRUYXFoSjE1cy04RUF3OG5Ud2NCTXVNY0JGU1hwSkJfbkNCa2pVTXlzNGVER3c3alZVVXg2aVFWUlVyLU5DMGNlQ1ZIYUVBOUFXZGRVdA?oc=5",
+        "summary": "写报告、做分析、校差错，蜜度三款AI智能体在WAIC“找班上” 东方财富",
+        "source": "Google 新闻·AI Agent",
+        "lang": "zh",
+        "published": "2026-07-20T06:02+08:00",
+        "published_ts": 1784498544,
+        "category": "ai_product"
+      },
+      {
+        "id": "575d35f67cf3",
+        "title": "华为云WAIC“亮剑”企业AI，周跃峰拆解智能体规模化落地步骤 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOY2E4N01wUGppRll6NmpfUEpXOG1nR2VNV1VrREVQMlc5UVpITXFxZXVwcjVxbG1UWjQ3N0pHbnFnSG5UenhfSHN4OGRtRXA5cnQxU2VMR1RnSXBKOGc5SUVfNGV4bnNOTkZmVVpSbWtYaFBzeGhvYkc3UEhPVjg4aWdSSVpHNTNpZ0ZuTzZMYzNZUC1uR0Z6MFlXQWUzYndlMWlRSnZhWTRGdkw4U21HTGEtbldMOTFXcm9pazZZa0RJWjNVVWF4aVpvQ19wYWlub3N1Wl9ObXJkVzBkbWJxWC0xZkRrOV9kOWpib3FiVTc2Z2VJSldUMDN6TU4wVUJNN0c5WmtPTEprYUpKdlB4S1g5ZkxkUkx1cHBxX3ExSzI1MlJkUWVhQ3BTd28tYno0VU81bHlrZzNva2hmRTJPbmdfQVQtNUNMd3I4Uk5ITG5BVUpwem9vbVRsNnZUS2ZDTnZYWjJQVlp0VGNNYkZ6anYyZkhWb2NMX1hSVVdRbWFwLUttSnJ0UnFXTi16RUJXWE9qN1hmcDJXUEdmUVRJNkJ6LVQybWpsV1ZublhVMjNlSTdvZkwtSENiNkJKWGlZVjFsU0RFRGQ3NzZObWJUMFhtLXRtMElWRk1lTDJjT0stSHRvcUtEMEtjS2FMWDQ3VmVaRnNzRTdFZnlTaEJQWXVJQmFoN3Z2S2REVEJpSmd0MkZtVXk0cnAyNTBHbkF4OUNyOUFxRnZGWTFnXzdLSHhhRTZubzg?oc=5",
+        "summary": "华为云WAIC“亮剑”企业AI，周跃峰拆解智能体规模化落地步骤 新浪财经",
+        "source": "Google 新闻·AI Agent",
+        "lang": "zh",
+        "published": "2026-07-20T05:00+08:00",
+        "published_ts": 1784494814,
+        "category": "ai_product"
+      },
+      {
+        "id": "8959a70c4a7b",
+        "title": "《海康观澜大模型白皮书》发布 全面呈现观澜大模型技术体系 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaTJ0MkM0X0R3c3p5SHg4VXJCNGNzTnFNSGJtTHVNZ09iN2Naa3psSlkxQmNiV3NmZi1lU2NhcU9CTV8wZ0dtMnE0UWRzemtOUkNQMHpUaG9ENDIwNmhF?oc=5",
+        "summary": "《海康观澜大模型白皮书》发布 全面呈现观澜大模型技术体系 东方财富",
+        "source": "Google 新闻·大模型",
+        "lang": "zh",
+        "published": "2026-07-20T04:34+08:00",
+        "published_ts": 1784493281,
+        "category": "ai_product"
+      },
+      {
+        "id": "ce67a2ba1019",
+        "title": "Agent支付时代加速到来！WAIC现场直击：一句话完成消费支付，重构企业跨境资金链路 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeGQ2dGlhUGZ6X0htby1PVHFoNTJaQnMtWlp6a05sYnhSUVpLaElhekpuNVpLd1czak9vR3Y5LUplU3FkVDNjeW9hS2ZERUhMOGtQTXpGZVpWSENscjZHRFotYTF6RHRjMkdudDZhVWZpUHhwVlF2NXAyVXZqZGdQNTY0eDRHWi0zM0N5bDdYX2hrc2RORnZ6TndmRXVMU3h1M1g5RUxyM05oMlo5NlY5TUdBNVEwWkZwbmUweE5xUU02cDlmZUdmdVVuWUpZQlAtUDFJaVJ5dU02VTF0Skx4YmVIOENrTlJvUmMzaTdsVHVUcTFtUlBnVHRKbTNLcm9uUktSTHgyMDBkX3B4cmJLZDJVSHVURjRMRVByX0Zfc3RXUnphTkFoMWU5QQ?oc=5",
+        "summary": "Agent支付时代加速到来！WAIC现场直击：一句话完成消费支付，重构企业跨境资金链路 新浪财经",
+        "source": "Google 新闻·AI Agent",
+        "lang": "zh",
+        "published": "2026-07-20T03:50+08:00",
+        "published_ts": 1784490619,
+        "category": "ai_product"
+      },
+      {
+        "id": "4e1e4af86ede",
+        "title": "对话｜腾讯云副总裁吴运声：企业Token账本不能只用价格高低判断 - 蓝鲸财经",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoWkhHOGg4YUpmX1AzVUJLeTIzcG5qN3U5VHd3TmV6NktOSVhXWlFNM2l6M3dWUTZkSnhsdjJKNFp4WFIyRjVfd2NqY1MtR3ZtZTNPTUE4a2dsMmM?oc=5",
+        "summary": "对话｜腾讯云副总裁吴运声：企业Token账本不能只用价格高低判断 蓝鲸财经",
+        "source": "Google 新闻·AI Agent",
+        "lang": "zh",
+        "published": "2026-07-20T03:22+08:00",
+        "published_ts": 1784488920,
+        "category": "ai_product"
+      },
+      {
+        "id": "3e080377aaf8",
+        "title": "推动工业自动化工程迈向“智能体驱动”，西门子面向中国市场首发工程智能体 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2Nfb2s2UWRybTVBVm92VTE5V0xsSlVkbjdtcC1BeEFxNUwyUVlHcjdad0lobWEySVMyTGR4LXhmUEM5dERvX2F0YkFRRE1wQzBYaDN3eUF5dWNaUlVyWHJ1MWhtLUh5RGFuV1BLZy1Ib0VJaGljc0xTV0FCNHlURXJ2WVBhRE0?oc=5",
+        "summary": "推动工业自动化工程迈向“智能体驱动”，西门子面向中国市场首发工程智能体 新浪财经",
+        "source": "Google 新闻·AI Agent",
+        "lang": "zh",
+        "published": "2026-07-20T01:17+08:00",
+        "published_ts": 1784481448,
+        "category": "ai_product"
+      },
+      {
+        "id": "97751591e13d",
+        "title": "Agent商业化元年：模型退居二线|2026世界人工智能大会|Kimi K3|北京商报|大模型|月之暗面_手机新浪网 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkcyaDFQRV9WWmNFNkZqOUxfUzY5SktfNzg0QzZEMmF3LW1iVldVbGU5WDUyTEVPRlpXemx0MmRSUERjYmhRb2NrM0NkdmZrbmlpRGNjVlliOHlhSW1ucEhlaFczYVkySVpFLVJySFhJZjJCaXhRa0lXb3BYS1RSSmxDS1dhOEhzZlppM0YtbnB6S2pycVFob0x2c3dWeElCTGZBTG1rOA?oc=5",
+        "summary": "Agent商业化元年：模型退居二线|2026世界人工智能大会|Kimi K3|北京商报|大模型|月之暗面_手机新浪网 新浪财经",
+        "source": "Google 新闻·AI Agent",
+        "lang": "zh",
+        "published": "2026-07-20T00:55+08:00",
+        "published_ts": 1784480128,
         "category": "ai_product"
       }
     ],
     "ai_health_product": [
       {
-        "id": "8dca7e3f363f",
-        "title": "AI不仅拯救了阿尔茨海默病，也为产品经理带来了机遇 - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzS0ExbzBsdGJUemdReFFRLVdOdlcxbUltRy00SW5CVDFQOWl2MWVwTUx2OVdSNmpOdXFiRGVRYldJWXplbEpiakticllTNk1QSmRCcEJRSTA2T2JPNHdld0dn?oc=5",
-        "summary": "AI不仅拯救了阿尔茨海默病，也为产品经理带来了机遇 手机网易网",
-        "source": "Google 新闻·AI 医疗产品",
+        "id": "0dcd9db122f5",
+        "title": "科大讯飞发布星火Token Factory - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BdzVGa3p5NWVydEowNWVMMFdsUGFsRlFUZ05jelB2UGhQRzlDcUJFMEprTEpLLXNsN2NnU1RqUEhnaEZQNVJNNDFKUDd6QzlmOVZtazhZNjZVZmtXMTB3?oc=5",
+        "summary": "科大讯飞发布星火Token Factory 东方财富",
+        "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-22T18:58+08:00",
-        "published_ts": 1784717929,
+        "published": "2026-07-22T23:41+08:00",
+        "published_ts": 1784734888,
         "category": "ai_health_product"
       },
       {
@@ -1200,8 +1200,8 @@
         "summary": "医院人工智能也在“现场导向型”战略方面展开竞争……Medipal 和 Daemire 扩大了人工智能代理的部署。 벤처스퀘어",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-22T13:39+08:00",
-        "published_ts": 1784698763,
+        "published": "2026-07-22T21:39+08:00",
+        "published_ts": 1784727563,
         "category": "ai_health_product"
       },
       {
@@ -1211,8 +1211,8 @@
         "summary": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 Sohu",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-22T13:36+08:00",
-        "published_ts": 1784698570,
+        "published": "2026-07-22T21:36+08:00",
+        "published_ts": 1784727370,
         "category": "ai_health_product"
       },
       {
@@ -1222,8 +1222,8 @@
         "summary": "数据筑基 场景牵引 “人工智能+”让“我的健康我掌握”成为现实 Sohu",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-22T13:05+08:00",
-        "published_ts": 1784696700,
+        "published": "2026-07-22T21:05+08:00",
+        "published_ts": 1784725500,
         "category": "ai_health_product"
       },
       {
@@ -1233,8 +1233,8 @@
         "summary": "以场景引项目：广州发布国资、卫生健康领域541个AI应用场景 21财经",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-22T11:33+08:00",
-        "published_ts": 1784691180,
+        "published": "2026-07-22T19:33+08:00",
+        "published_ts": 1784719980,
         "category": "ai_health_product"
       },
       {
@@ -1244,8 +1244,8 @@
         "summary": "手术机器人，AI大战开打了 新浪财经",
         "source": "Google 新闻·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-07-22T11:19+08:00",
-        "published_ts": 1784690340,
+        "published": "2026-07-22T19:19+08:00",
+        "published_ts": 1784719140,
         "category": "ai_health_product"
       },
       {
@@ -1255,8 +1255,8 @@
         "summary": "以AI为智能伙伴 共筑健康未来——讯飞医疗全栈数智方案亮相2026世界人工智能大会 中国日报网",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-22T08:52+08:00",
-        "published_ts": 1784681541,
+        "published": "2026-07-22T16:52+08:00",
+        "published_ts": 1784710341,
         "category": "ai_health_product"
       },
       {
@@ -1266,8 +1266,8 @@
         "summary": "科大讯飞发布星火Token Factory 打造企业级AI新底座 中国科技网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-22T08:29+08:00",
-        "published_ts": 1784680167,
+        "published": "2026-07-22T16:29+08:00",
+        "published_ts": 1784708967,
         "category": "ai_health_product"
       },
       {
@@ -1277,8 +1277,8 @@
         "summary": "AI医疗行业周报(07.14 - 07.21) : AI医疗突破 手机网易网",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-22T08:19+08:00",
-        "published_ts": 1784679545,
+        "published": "2026-07-22T16:19+08:00",
+        "published_ts": 1784708345,
         "category": "ai_health_product"
       },
       {
@@ -1288,8 +1288,8 @@
         "summary": "AI医疗行业周报(07.14 - 07.21) : AI医疗突破 Sohu",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-22T08:17+08:00",
-        "published_ts": 1784679420,
+        "published": "2026-07-22T16:17+08:00",
+        "published_ts": 1784708220,
         "category": "ai_health_product"
       },
       {
@@ -1299,8 +1299,8 @@
         "summary": "社区卫生所引入人工智能，推动医疗卫生部的医疗AI转型 亚洲日报",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-22T08:16+08:00",
-        "published_ts": 1784679360,
+        "published": "2026-07-22T16:16+08:00",
+        "published_ts": 1784708160,
         "category": "ai_health_product"
       },
       {
@@ -1310,8 +1310,19 @@
         "summary": "AI赋能千行百业一线观察｜站在医生身旁的“好帮手” 新华网",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-22T08:10+08:00",
-        "published_ts": 1784679012,
+        "published": "2026-07-22T16:10+08:00",
+        "published_ts": 1784707812,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "cdaba5c5f779",
+        "title": "从保健所到急诊室全面推进医疗人工智能转型……连接72家责任医疗机构- 阿视亚经济 - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zRHRlZ3E5Z3RtR1kyWF9WUjEwSVlweGRCY1lNSWxiQWFpTllLLWhLNFpGYW0takZySTZUM0NRbkdRTDd0Ry13UUR1MHc2aUcySjBIYmgtUHlaQ2VJbGMwWUIxVWJCdw?oc=5",
+        "summary": "从保健所到急诊室全面推进医疗人工智能转型……连接72家责任医疗机构- 阿视亚经济 아시아경제",
+        "source": "Google 新闻·AI 医院应用",
+        "lang": "zh",
+        "published": "2026-07-22T13:03+08:00",
+        "published_ts": 1784696632,
         "category": "ai_health_product"
       },
       {
@@ -1321,8 +1332,8 @@
         "summary": "“中保”观察 | AI重塑健管服务链路，商业健康险迎来价值拐点？ 新浪网",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-22T04:51+08:00",
-        "published_ts": 1784667099,
+        "published": "2026-07-22T12:51+08:00",
+        "published_ts": 1784695899,
         "category": "ai_health_product"
       },
       {
@@ -1332,19 +1343,19 @@
         "summary": "对话联影集团薛敏：医疗AI正在从模型竞争，走向医疗体系的重构 智东西",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-22T04:34+08:00",
-        "published_ts": 1784666097,
+        "published": "2026-07-22T12:34+08:00",
+        "published_ts": 1784694897,
         "category": "ai_health_product"
       },
       {
-        "id": "7e4d55246668",
+        "id": "74788d5a1344",
         "title": "轻松健康集团马孝武：让AI走进真实健康服务现场 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNN0paWnN4MFVOaThoMUs5Wm1zWEhmV2YwOE5HWGVsaUVuUkdLRzMwVmR5ZzJIQk94cnJNZmt6Q3RMbVNlSnVYM1ZuTVptakM1VGlRellSd0ZsdDk2TndLOE5pT21JMXl2aWoyY1otVkJCVk8wQUMxOG5fU2VNQV80Vmg3SUtBRS0xT2hkMk5RcHdWaHVHSXliTVZ3VUFBYi1kZ19WRlZmQXFVaG9taUNHLWZ6OGJieW15cld6TWZ4aFBCSC1YWHM5aVFwalA1d2pxaTlsN2ZIcjZzbFhEQ21EMm1SaENhcHNXZGIwUUNvcUtGQ2xLVEVZSEM1NHcxb2hVOTB4aV8tMEg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONTVzRllVR1k4bWwybmZFZEoxSXpEdndaXzNXTHpDRlJ0cDl0Y3hQc2MzUkQyNEVLbUJSNDJNaWc2TnBpcTY1X3ZWb2dWZC12Z2VqWXMzcEdNLTRoRURyUWV5Z2xrRi14V0RoSkx6Wm16bG9WbzBJOUd4VDUzbGJWUE9oNnBpVTc1VDl5OF9DRk1NdXFiYTVqcnI1aXlLVGtjVzVQcl9SZjZrRjRsVWl6d19FSEtQRDJwS2FnWDhSWHVzamlUS1B3Q2thTXNQQXJTcDhHN1BzbmxoYTROeWtUR3FGQjVHT0E4aVBHNmFOQWV5amZSUnVNdUlYRE1OWU9BenNfSDB6bHRpTHVzRnBSNzQ1Vjk?oc=5",
         "summary": "轻松健康集团马孝武：让AI走进真实健康服务现场 新浪财经",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-22T04:08+08:00",
-        "published_ts": 1784664533,
+        "published": "2026-07-22T12:16+08:00",
+        "published_ts": 1784693817,
         "category": "ai_health_product"
       },
       {
@@ -1354,8 +1365,8 @@
         "summary": "AI医生做手术出了事故谁该承担责任？ 新浪网",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-22T03:49+08:00",
-        "published_ts": 1784663340,
+        "published": "2026-07-22T11:49+08:00",
+        "published_ts": 1784692140,
         "category": "ai_health_product"
       },
       {
@@ -1365,8 +1376,8 @@
         "summary": "癌前拦截新利器！拱墅企业用光谱AI“算”出肠隐患 gongshunews.com",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-22T03:27+08:00",
-        "published_ts": 1784662020,
+        "published": "2026-07-22T11:27+08:00",
+        "published_ts": 1784690820,
         "category": "ai_health_product"
       },
       {
@@ -1376,8 +1387,8 @@
         "summary": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座 手机网易网",
         "source": "Google 新闻·大模型",
         "lang": "zh",
-        "published": "2026-07-22T03:06+08:00",
-        "published_ts": 1784660776,
+        "published": "2026-07-22T11:06+08:00",
+        "published_ts": 1784689576,
         "category": "ai_health_product"
       },
       {
@@ -1387,8 +1398,8 @@
         "summary": "平安科技亮相奇点智能产品大会 全面展示AI创新应用实践 TOM科技",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-22T03:02+08:00",
-        "published_ts": 1784660520,
+        "published": "2026-07-22T11:02+08:00",
+        "published_ts": 1784689320,
         "category": "ai_health_product"
       },
       {
@@ -1398,8 +1409,30 @@
         "summary": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff Sohu",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-22T02:25+08:00",
-        "published_ts": 1784658300,
+        "published": "2026-07-22T10:25+08:00",
+        "published_ts": 1784687100,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "f13dbb394136",
+        "title": "医学影像技术AI虚实融合智慧实训室，破解传统教学困境，重塑未来智慧教育 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rQVNycDFBNFZ3TWxaUUw0UWJDVDJKaUh0WUNkbzVrRV9qckthZW8xMW5TQkFmY2tUSGlqSVduVURiaXBCSnl2ejhHdjR6QlVBMGhvM3ExTTNlRmZiRTBaNkd3?oc=5",
+        "summary": "医学影像技术AI虚实融合智慧实训室，破解传统教学困境，重塑未来智慧教育 手机网易网",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-22T10:04+08:00",
+        "published_ts": 1784685892,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "862e2684abd6",
+        "title": "WAIC 2026医疗观察：三类影像AI同台亮相，平台型方案打开增长新空间 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQU8yQTlrUlRlcE1qY2pOSzNCNzVxSjhfZ2RFVEZCQ21jamgwMVJaVDAtdUtFX1VMblM4TmdPY252QVNaWDNUVWY1LVdQQ01TaUZMSlU1Ml90czhQQWFhbDFsRzRJRHVCVFcyQW5TMUdQclZTTTJaOTlLLTVleWUtS0hMX0dXVEhT?oc=5",
+        "summary": "WAIC 2026医疗观察：三类影像AI同台亮相，平台型方案打开增长新空间 Sohu",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-22T08:00+08:00",
+        "published_ts": 1784678400,
         "category": "ai_health_product"
       },
       {
@@ -1409,8 +1442,19 @@
         "summary": "瞄准诊疗痛点发力 医疗AI颠覆百姓就医体验 新浪网",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T23:51+08:00",
-        "published_ts": 1784649087,
+        "published": "2026-07-22T07:51+08:00",
+        "published_ts": 1784677887,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "37de75b8cfd5",
+        "title": "AI“千里马” 跑出健康“加速度” - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRE5VVjVWd3U0ODkyUHBLbjNnQmUzUHJmWmZ5ZGtMNGtmOTR3dnp2UU02UUJLMUJwRDZSUFJhQnAxMDB4RUdJbkVQTW92VW9KdWNfMEFYaWpoWDU1aXh0Y1ZZaW9qckY3R0o1OUdZZmVTWVRNZ0Nrd2daVXVEeWk3ek5lYTdWaGFEUmw3bA?oc=5",
+        "summary": "AI“千里马” 跑出健康“加速度” Sohu",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-22T07:00+08:00",
+        "published_ts": 1784674839,
         "category": "ai_health_product"
       },
       {
@@ -1420,8 +1464,8 @@
         "summary": "21专访丨商汤医疗钱琨：AI医疗走到转折点 信任仍是最难破局环节 21财经",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T23:00+08:00",
-        "published_ts": 1784646000,
+        "published": "2026-07-22T07:00+08:00",
+        "published_ts": 1784674800,
         "category": "ai_health_product"
       },
       {
@@ -1431,19 +1475,8 @@
         "summary": "蜜度科技CTO刘益东：当Agent进入专业场景 垂直大模型的价值开始显现|财专访 财联社",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-21T22:43+08:00",
-        "published_ts": 1784644980,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "53fef14a2e2a",
-        "title": "多模态大模型重塑医疗边界 产业加速共探“元医院”数智路径 - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZFF4WWRnLUZNR29qdjdIcGZfZkxfZHZuNUYtbVFvYkhUZkl0SlV5SVJQUHlkMm9STkphLWNIdldpbS1id3BQN19kenRtcWxuUHVmZw?oc=5",
-        "summary": "多模态大模型重塑医疗边界 产业加速共探“元医院”数智路径 第一财经",
-        "source": "Google 新闻·大模型医疗",
-        "lang": "zh",
-        "published": "2026-07-21T20:11+08:00",
-        "published_ts": 1784635883,
+        "published": "2026-07-22T06:43+08:00",
+        "published_ts": 1784673780,
         "category": "ai_health_product"
       },
       {
@@ -1453,8 +1486,19 @@
         "summary": "孪心医疗以物理AI 探索医疗范式转换 MSN",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-21T18:29+08:00",
-        "published_ts": 1784629744,
+        "published": "2026-07-22T02:29+08:00",
+        "published_ts": 1784658544,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "40367af3b0e0",
+        "title": "AI医生做手术的安全性和成功率如何？ - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZVh0eUVOcUZsUUpXaVdiR2FLZWNfMGluVUUxNVFvaGpNMlREQW80V1hqOThtcnV2QldISGdmMUFjZ0xSSG9zOUpmZDEtd2pJVlNCSHYtWkRhc0tQcTJJY0NYVWYxeWp3VUJ2NVpmWVlVeThfTWQzMlNTei13aktqZkRB?oc=5",
+        "summary": "AI医生做手术的安全性和成功率如何？ 新浪网",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-22T02:02+08:00",
+        "published_ts": 1784656920,
         "category": "ai_health_product"
       },
       {
@@ -1464,19 +1508,19 @@
         "summary": "AI医生能取代真人吗 辅助而非替代 中华网",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-21T15:00+08:00",
-        "published_ts": 1784617202,
+        "published": "2026-07-21T23:00+08:00",
+        "published_ts": 1784646002,
         "category": "ai_health_product"
       },
       {
-        "id": "4e8f9427da8d",
-        "title": "医疗级AI数据模型引擎沐松科技完成天使轮融资，布局具身智能医疗场景数据集 - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LclpsYjVCb1ZTako4TUtZM1U0SU5tQTFLUmhqck9HUjhIMi1GT0FzTFNYazAwU2d6MThqWXJkQ1pRSUQ1ZFpyS3BDNXpOdlhlTUlzUEJEMm5IeHJIWkltb0dB?oc=5",
-        "summary": "医疗级AI数据模型引擎沐松科技完成天使轮融资，布局具身智能医疗场景数据集 手机网易网",
+        "id": "ffe717fd5fca",
+        "title": "医疗级AI数据模型引擎沐松科技完成天使轮融资，布局具身智能医疗场景数据集 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zZXBmdTJHeXJNVlVVYThKNzY4NnptYnNBcEdiSlRZRENYeEpHR2hpSVVFS2o3TGF5Xzh5ZnIzbkFrWE8zRlZCckg4RDBEU3EzTC0tQ1ctald4WHlsS1NEZXlrdGRneUl4UkxScFNCQ1ZZQUtkNHk0RUdZUjNndw?oc=5",
+        "summary": "医疗级AI数据模型引擎沐松科技完成天使轮融资，布局具身智能医疗场景数据集 新浪财经",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-21T14:49+08:00",
-        "published_ts": 1784616542,
+        "published": "2026-07-21T22:48+08:00",
+        "published_ts": 1784645334,
         "category": "ai_health_product"
       },
       {
@@ -1486,8 +1530,30 @@
         "summary": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff 智源社区",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T14:30+08:00",
-        "published_ts": 1784615400,
+        "published": "2026-07-21T22:30+08:00",
+        "published_ts": 1784644200,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "8e07a25b4d34",
+        "title": "宠物医疗AI影像诊断上线三个月诊断破万例，开启宠物医疗精准影像新纪元 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwSTFCdTVrcmRXZmYxLS1nRWVOQzRCTzQzSkQtZ3h1V09VX1A0SzNkNGplcUZyckl5RHp0S05aR0k5MmJFOU1wU1ExNFpVZ2JhejdDQUtQWXF6TlBVZE9qVUlR?oc=5",
+        "summary": "宠物医疗AI影像诊断上线三个月诊断破万例，开启宠物医疗精准影像新纪元 手机网易网",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-21T22:19+08:00",
+        "published_ts": 1784643569,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "0ce74f254978",
+        "title": "急诊疑似肺炎：仅基于胸部X线（CXR）的深度学习模型可预测住院收治风险 - Vera Health",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0FIazNTc3ZIekIteEJHOFI3cjFnY2Fxclcyd0UzdG43QmNrd201cHhubkFoaXFORzQ2SDU1VkkweWdYZjlfRFU2ZHpzQm1zT1oyNWpxNVRibzFWTlMtbWdnNlFkcHYzdVExNG0ycFpPaDE1NmlLVEZJaE1VZ0lpRndPMDBnVFJYUkwyRmtwcTJ0R004alFtWGJLay1falFpYldHNXliZVZlQW82TmFz?oc=5",
+        "summary": "急诊疑似肺炎：仅基于胸部X线（CXR）的深度学习模型可预测住院收治风险 Vera Health",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-21T21:14+08:00",
+        "published_ts": 1784639691,
         "category": "ai_health_product"
       },
       {
@@ -1497,8 +1563,8 @@
         "summary": "论道数智健康，创业慧康分享全栈医疗AI方案 新浪网",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T11:33+08:00",
-        "published_ts": 1784604836,
+        "published": "2026-07-21T19:33+08:00",
+        "published_ts": 1784633636,
         "category": "ai_health_product"
       },
       {
@@ -1508,8 +1574,8 @@
         "summary": "医疗大语言模型与基础模型市场规模 Global Market Insights Inc.",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-21T11:10+08:00",
-        "published_ts": 1784603425,
+        "published": "2026-07-21T19:10+08:00",
+        "published_ts": 1784632225,
         "category": "ai_health_product"
       },
       {
@@ -1519,8 +1585,8 @@
         "summary": "中国人工智能核心产业规模突破万亿，哪些领域贡献最大？ 新浪网",
         "source": "Google 新闻·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-07-21T10:58+08:00",
-        "published_ts": 1784602723,
+        "published": "2026-07-21T18:58+08:00",
+        "published_ts": 1784631523,
         "category": "ai_health_product"
       },
       {
@@ -1530,8 +1596,8 @@
         "summary": "患者少跑腿、医生减负担，AI人工智能推动佛山智慧医疗提效 Foshanplus",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T10:52+08:00",
-        "published_ts": 1784602320,
+        "published": "2026-07-21T18:52+08:00",
+        "published_ts": 1784631120,
         "category": "ai_health_product"
       },
       {
@@ -1541,8 +1607,8 @@
         "summary": "携手多位院士、医学专家，小荷健康推出医疗大模型真实疑难病例诊疗能力评测基准 chinanews.com.cn",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-21T09:27+08:00",
-        "published_ts": 1784597247,
+        "published": "2026-07-21T17:27+08:00",
+        "published_ts": 1784626047,
         "category": "ai_health_product"
       },
       {
@@ -1552,8 +1618,8 @@
         "summary": "“不好用、不敢用、不会用”，业界呼吁为AI医疗应用立法 手机网易网",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-21T08:49+08:00",
-        "published_ts": 1784594983,
+        "published": "2026-07-21T16:49+08:00",
+        "published_ts": 1784623783,
         "category": "ai_health_product"
       },
       {
@@ -1563,8 +1629,8 @@
         "summary": "新加坡押注人工智能于医疗保健领域，但成功与否将取决于商业可持续性 The Business Times",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T08:43+08:00",
-        "published_ts": 1784594580,
+        "published": "2026-07-21T16:43+08:00",
+        "published_ts": 1784623380,
         "category": "ai_health_product"
       },
       {
@@ -1574,8 +1640,8 @@
         "summary": "WAIC观察：医疗大模型从拼参数到抢入口 新浪财经",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-21T08:18+08:00",
-        "published_ts": 1784593080,
+        "published": "2026-07-21T16:18+08:00",
+        "published_ts": 1784621880,
         "category": "ai_health_product"
       },
       {
@@ -1585,8 +1651,19 @@
         "summary": "卫宁健康携八大AI产品亮相第二届南方数智医疗健康大会 同花顺财经",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-21T06:30+08:00",
-        "published_ts": 1784586655,
+        "published": "2026-07-21T14:30+08:00",
+        "published_ts": 1784615455,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "5b454fa18a2d",
+        "title": "查出“癌王”不用开刀了？这项AI技术突破，正在改写无数家庭的命运 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlbW5FZkE4Ukg3LXpXZ05ieHRwWkZVQXlYaW10R0RabnpzYnM0VExwMDBfRlRkcWRYeUdYZ2xhZDZELVloVlVCQk5yaVFGVWFTMlIzRmZtY1ZpZDVsc0V1NkNn?oc=5",
+        "summary": "查出“癌王”不用开刀了？这项AI技术突破，正在改写无数家庭的命运 手机网易网",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-21T14:10+08:00",
+        "published_ts": 1784614233,
         "category": "ai_health_product"
       },
       {
@@ -1596,8 +1673,8 @@
         "summary": "AI让健康触手可及｜生生纪携 AI 心探、本若岚亮相 2026 世界人工智能大会 手机网易网",
         "source": "Google 新闻·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-07-21T05:51+08:00",
-        "published_ts": 1784584288,
+        "published": "2026-07-21T13:51+08:00",
+        "published_ts": 1784613088,
         "category": "ai_health_product"
       },
       {
@@ -1607,8 +1684,8 @@
         "summary": "智慧眼亮相WAIC 2026| 砭石多模态大模型赋能中医数智化新范式 观察者",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-21T05:15+08:00",
-        "published_ts": 1784582100,
+        "published": "2026-07-21T13:15+08:00",
+        "published_ts": 1784610900,
         "category": "ai_health_product"
       },
       {
@@ -1618,8 +1695,8 @@
         "summary": "2026年中盘点 | 从创新药到智能平台：医疗AI升温，生命科学产业飞跃 新浪网",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-21T05:01+08:00",
-        "published_ts": 1784581275,
+        "published": "2026-07-21T13:01+08:00",
+        "published_ts": 1784610075,
         "category": "ai_health_product"
       },
       {
@@ -1629,8 +1706,8 @@
         "summary": "梅奥诊所用AI整理病历节省医生就诊时间| 乌克兰新闻 Межа. Новини України.",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T04:28+08:00",
-        "published_ts": 1784579280,
+        "published": "2026-07-21T12:28+08:00",
+        "published_ts": 1784608080,
         "category": "ai_health_product"
       },
       {
@@ -1640,8 +1717,8 @@
         "summary": "实力出圈，安杰莱科技荣获“2026医健+AI创新卓越伙伴” 中华网",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-21T04:11+08:00",
-        "published_ts": 1784578280,
+        "published": "2026-07-21T12:11+08:00",
+        "published_ts": 1784607080,
         "category": "ai_health_product"
       },
       {
@@ -1651,8 +1728,19 @@
         "summary": "平安智享家医亮相WAIC，“AI+真人”双引擎构筑主动健康管理新范式 Sohu",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-21T03:31+08:00",
-        "published_ts": 1784575876,
+        "published": "2026-07-21T11:31+08:00",
+        "published_ts": 1784604676,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "6a828fa4efd7",
+        "title": "中国平安亮相世界人工智能大会 AI赋能产品升级 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWhCVmJNb0hjdHB0TWhRa0tfXy15XzRORVA1blJlb1E0bG1sSTVPdjlNdmZSRDdYRE9aUzlVZGdueVBpRFlnNEFDbE9VT21WVDBDd1pxck04SzhPRHplOGRxMWtTZ3d6T3lHWEViYmVnamhRTVE5NEsweGYxVmxqMlliVzlKNzA0SHlJ?oc=5",
+        "summary": "中国平安亮相世界人工智能大会 AI赋能产品升级 手机网易网",
+        "source": "Google 新闻·AI 医疗产品",
+        "lang": "zh",
+        "published": "2026-07-21T10:38+08:00",
+        "published_ts": 1784601493,
         "category": "ai_health_product"
       },
       {
@@ -1662,8 +1750,8 @@
         "summary": "WAIC 2026丨医策科技携手院士与全球标杆，发起世界智慧医疗创新联盟 中华网",
         "source": "Google 新闻·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-07-21T02:14+08:00",
-        "published_ts": 1784571275,
+        "published": "2026-07-21T10:14+08:00",
+        "published_ts": 1784600075,
         "category": "ai_health_product"
       },
       {
@@ -1673,8 +1761,8 @@
         "summary": "中山医院顾建英：探索打造国内首个AI原生医院 chyyyygl.com",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T01:52+08:00",
-        "published_ts": 1784569979,
+        "published": "2026-07-21T09:52+08:00",
+        "published_ts": 1784598779,
         "category": "ai_health_product"
       },
       {
@@ -1684,8 +1772,8 @@
         "summary": "中国平安亮相世界人工智能大会，发布医疗、保险、支付领域最新AI成果 nfplus.nfnews.com",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-21T01:43+08:00",
-        "published_ts": 1784569402,
+        "published": "2026-07-21T09:43+08:00",
+        "published_ts": 1784598202,
         "category": "ai_health_product"
       },
       {
@@ -1695,8 +1783,30 @@
         "summary": "澳醫學會昆州分會：醫院應對AI致害負全責 大纪元",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-21T00:49+08:00",
-        "published_ts": 1784566140,
+        "published": "2026-07-21T08:49+08:00",
+        "published_ts": 1784594940,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "ba1383208bd9",
+        "title": "医疗AI“进化论”：从工具走向伙伴 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxOcVowQW1nbG4tNzk5ekdhZGxJc2cxdWpfa3dqWEVYdzkxelBjckd3cEFBLUt1bWdFZVNDT2hQc0JrUWwtUk1fZjhiQ203dXRMYVM4ZlFoZkEzQmJ3djlhdWtIT202d3h5bWNKak9nSzlSVmlEVlBfMm5qQ1F1eXVFYV9VUXZzYXZmb2FYUUJHdzF6TmxpZEVzSzBFam5FbzBNdnlaemlVWTVfbUhwZmlabF9jVXhzZi11YmdsOU1oT0JtbHF4TWU1MThrQzRLQXZJV3hYaFNidHBmZkt3MHJYR2xEYnJDcFpvY1JYamlJQ2k1dGN1ejMtM0VBeVNCUU43N2RQMm1WZ0czTEJwbjhQb2ZuektTRUVyUUZBN08xNmtHdG5fN1pEMWVhR3c4MHMybWVTTGU0a1E5Y2g1S1RyNi04d3ltQTl6VzhEUGkzc3NVVGhhX2ptanhLS2ljOTVhelVoLVZDY3NEYXIyS3hwZDk3QkNOOHE4YlJ3MG1aeENfRHAzZzZLUWViZERtX3FFTWRKcUdQTlU5ejZLNkFlQ01ueEU3ZDdjUWpWa3JHbThOQklEZENaX0NLUW1yX2swMzN6dWRqUU56M2thTy14dTdtT0NXdjRRbTBLeWxMTzN1XzE3UTVEUmdVUHBrSVNrZVJWRnF4S25HT1ZTZGJJel9Yd2RqUjNUdk1KeFEtcFNGSFk5N1c4aExCeFJ6R210bWhjRGhocXBiLU11c0l3U0diUW1SLTR2N2dQbzBMU2tvZw?oc=5",
+        "summary": "医疗AI“进化论”：从工具走向伙伴 新浪财经",
+        "source": "Google 新闻·AI 医院应用",
+        "lang": "zh",
+        "published": "2026-07-21T07:41+08:00",
+        "published_ts": 1784590913,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "6acffbd98970",
+        "title": "AI+医疗，如何更好守护公众健康 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmNNWkNqUm1SdUlTcktsaW5PZTA4X0NkVDRYOWw3Y1BxdWxDSVcwMXVyMk1TMVNEZ1JpTlYydHVFaEFoRThBLS0zRFdXTUpRLXhxZV9NdWlpTFV5NzhNeEJZZVpza29jM1gwczYtVm9zLWFpNVdtM05rSVJOczdwUkcwNA?oc=5",
+        "summary": "AI+医疗，如何更好守护公众健康 人民日报",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-21T05:53+08:00",
+        "published_ts": 1784584385,
         "category": "ai_health_product"
       },
       {
@@ -1706,30 +1816,19 @@
         "summary": "AI+医疗、AI视频生成……这些风口赛道，到底会给生活带来哪些变化？｜WAIC 2026 新浪网",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T19:39+08:00",
-        "published_ts": 1784547599,
+        "published": "2026-07-21T03:39+08:00",
+        "published_ts": 1784576399,
         "category": "ai_health_product"
       },
       {
-        "id": "ee8c68887048",
-        "title": "医疗AI“进化论”：从工具走向伙伴 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXzFVUUo1ajRuWURMRTE1SHpwcXY1eVdzYzQxNWIyQ0hUcDJwTjZnVU8teTV3UlNNNlNZeFM2N3hrUEV5UUhtTzlLbkU0ZDNjNTVOTXIwM2UwRUh3clgzWmdmUFE1V3h0YS1nN2s1d2ljMGJvV0t6T1JXQTZaaFBHUV90WjhxVGxKZE40bGxMcFRReWdfeE5xV3F2eUZ4WkVwU3lWNUl4QjVFTERYQjB5blJn?oc=5",
-        "summary": "医疗AI“进化论”：从工具走向伙伴 新浪财经",
-        "source": "Google 新闻·AI 医院应用",
+        "id": "889ea9239dad",
+        "title": "一分钟，你能说出多少种水果？直击WAIC，20分钟预测痴呆风险 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14UWp6RjE1U29TaGtfNkc2X3hzQWNQS2cydGFVaC1ISkhNcUdhU3djNG8xT0VrMDhGMzY2ZGFzeUN4aTkzeko1VDZnS2c4QmtGZXlMX0tudWVuSmU5TGoxc1I4cEs1MWwwYjl0RWtMa3g1S0pPNlB2eXZyQkc?oc=5",
+        "summary": "一分钟，你能说出多少种水果？直击WAIC，20分钟预测痴呆风险 手机网易网",
+        "source": "Google 新闻·AI 影像诊断",
         "lang": "zh",
-        "published": "2026-07-20T18:41+08:00",
-        "published_ts": 1784544089,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "ffbb203de444",
-        "title": "具身大模型在零售药房与酒店洗烘两大场景中能如何应用？ - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWx3WjRhc1pwcDNEeE8xeFlBSmV1YTloVktiaGxmbTU3SjRDY1A1aFE0NUVyeEszUWZ2bzlKSW8tU0J2ZGl2eVRxS3U3ZGJFMEFUeFdfbDU3cEhqZDM1dkdRYms1NXE5S3VCb2Joa2lHT2hhMlE0NGktNFExeHlVa09mbUpNajhuaHY5OHM3RXo4bGNkMkdRZW5WM25VemNkU1pnclMwbw?oc=5",
-        "summary": "具身大模型在零售药房与酒店洗烘两大场景中能如何应用？ 新浪财经",
-        "source": "Google 新闻·大模型",
-        "lang": "zh",
-        "published": "2026-07-20T18:41+08:00",
-        "published_ts": 1784544063,
+        "published": "2026-07-20T23:20+08:00",
+        "published_ts": 1784560822,
         "category": "ai_health_product"
       },
       {
@@ -1739,8 +1838,19 @@
         "summary": "一分钟，你能说出多少种水果？直击WAIC，20分钟预测痴呆风险 Sohu",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T15:18+08:00",
-        "published_ts": 1784531918,
+        "published": "2026-07-20T23:18+08:00",
+        "published_ts": 1784560718,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "ac57cd4c77c2",
+        "title": "一分钟，你能说出多少种水果？直击WAIC，20分钟预测痴呆风险 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOENTUXpxXy1YVjRlUWlEc3J2OWdRSVlJTktFMGgzMktIQjZsUGRSamtEZWZEZkFJSlIweW92MlphQ3FGZE9HUlN3Q1RnbDdmallCZnMzeEhaRWtOMGFUVVJ3bW1wZmFzRWswdVIxT2FIX2pLLXpXSXNtM0dsNU9ZWXY2d0dYU1lZbGFicA?oc=5",
+        "summary": "一分钟，你能说出多少种水果？直击WAIC，20分钟预测痴呆风险 Sohu",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-20T23:18+08:00",
+        "published_ts": 1784560718,
         "category": "ai_health_product"
       },
       {
@@ -1750,8 +1860,8 @@
         "summary": "一分钟，你能说出多少种水果？直击WAIC，20分钟预测痴呆风险 上观新闻",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T15:18+08:00",
-        "published_ts": 1784531880,
+        "published": "2026-07-20T23:18+08:00",
+        "published_ts": 1784560680,
         "category": "ai_health_product"
       },
       {
@@ -1761,8 +1871,19 @@
         "summary": "从高血压诊疗入手，北京安贞医院让医疗大模型走出聊天框 手机网易网",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-20T14:25+08:00",
-        "published_ts": 1784528713,
+        "published": "2026-07-20T22:25+08:00",
+        "published_ts": 1784557513,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "0c99843c127d",
+        "title": "高质量数据集的建设对人工智能的发展有哪些影响？ - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OX21peFR3V2xYV05HZXlkVl9VMWhwZXRuemNTcHJiQjJRWU9UbkxtQkRlSnBzSGRjbElwUG95UEVoZTJWRlpCUmg5YXpxN2tqd05wQXNsNzI2UHhiYk1VZXNwanRZTjN0Zm52UVU2WmQ4OXJaVjhsOTBNYlpXd2s?oc=5",
+        "summary": "高质量数据集的建设对人工智能的发展有哪些影响？ 新浪网",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-20T21:58+08:00",
+        "published_ts": 1784555880,
         "category": "ai_health_product"
       },
       {
@@ -1772,19 +1893,19 @@
         "summary": "看懂云胶片、在家查AD！2026WAIC两款全球首发AI应用亮相，让数智诊疗走进家庭 手机网易网",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T13:50+08:00",
-        "published_ts": 1784526605,
+        "published": "2026-07-20T21:50+08:00",
+        "published_ts": 1784555405,
         "category": "ai_health_product"
       },
       {
-        "id": "15155431e2f5",
-        "title": "观察｜从想象到实践，在WAIC看到“未来医疗” - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2ducGFwT2NvRGlPMnlCX0ktZkk3T1dMam15SU5BTDVRMWFsS0FkVW05UkNiT05uMjVwdzZGbjFhelhCeHJpTndQUlItXzVBY0d5MFhlS2lRb2dURm9MQ3VSUVp0Y2EyMnAxWVlwYlVxSkpMaDhUdVo5QWZ3WHFIdk9SM0ZfWk9CbWY3aDBsQU5NN2JrbWlsR3ptSTVCTlZq?oc=5",
-        "summary": "观察｜从想象到实践，在WAIC看到“未来医疗” Sohu",
+        "id": "846169dc3574",
+        "title": "观察｜从想象到实践，在WAIC看到“未来医疗” - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JSDRFUHJTU0Z6SmwyVVk4TjdhdDJWbGFGM09GV3A1XzBUZ2N4elpVOW83cDhlQ0lxdDh0M3pfdGVvZGZzV0lWc2J1YlBnd3NfY3U1QzVPYlZFcjFyalF0Znhn?oc=5",
+        "summary": "观察｜从想象到实践，在WAIC看到“未来医疗” 手机网易网",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T12:32+08:00",
-        "published_ts": 1784521953,
+        "published": "2026-07-20T20:32+08:00",
+        "published_ts": 1784550751,
         "category": "ai_health_product"
       },
       {
@@ -1794,8 +1915,8 @@
         "summary": "观察｜从想象到实践，在WAIC看到“未来医疗” thepaper.cn",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-20T12:30+08:00",
-        "published_ts": 1784521800,
+        "published": "2026-07-20T20:30+08:00",
+        "published_ts": 1784550600,
         "category": "ai_health_product"
       },
       {
@@ -1805,19 +1926,8 @@
         "summary": "观察｜从想象到实践，在WAIC看到“未来医疗” thepaper.cn",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T12:30+08:00",
-        "published_ts": 1784521800,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "5c154cafc414",
-        "title": "谷歌AMIE医疗大模型的知识储备有多少？ - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcm1MdFRXdnlmLWxyZXlKY2pmX2I5aTVta2xhNE1BX3FDN3lSVmZuaUR6Vm55MjBxNHEtSVJLOTR2RjVEYk1lMHlpdms2a000b2JSeFYzV0VPdkdxREhBZlE3dGlDN2V3Wlc0RHFHVzRtZFZISndHT0pVeTVEWW8?oc=5",
-        "summary": "谷歌AMIE医疗大模型的知识储备有多少？ 新浪网",
-        "source": "Google 新闻·大模型医疗",
-        "lang": "zh",
-        "published": "2026-07-20T11:54+08:00",
-        "published_ts": 1784519696,
+        "published": "2026-07-20T20:30+08:00",
+        "published_ts": 1784550600,
         "category": "ai_health_product"
       },
       {
@@ -1827,8 +1937,8 @@
         "summary": "平安专病AI产品矩阵，如何驱动医险协同再升级？ thepaper.cn",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-20T11:36+08:00",
-        "published_ts": 1784518560,
+        "published": "2026-07-20T19:36+08:00",
+        "published_ts": 1784547360,
         "category": "ai_health_product"
       },
       {
@@ -1838,8 +1948,8 @@
         "summary": "“AI吃AI会完蛋”是伪命题，真正的产品风险是缺乏数据纠错机制 36 Kr",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-20T10:45+08:00",
-        "published_ts": 1784515500,
+        "published": "2026-07-20T18:45+08:00",
+        "published_ts": 1784544300,
         "category": "ai_health_product"
       },
       {
@@ -1849,8 +1959,8 @@
         "summary": "AI驱动生命健康产业全链条革新——2026世界人工智能大会生命健康专区系列活动在上海举行 中华网科技频道",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T09:18+08:00",
-        "published_ts": 1784510335,
+        "published": "2026-07-20T17:18+08:00",
+        "published_ts": 1784539135,
         "category": "ai_health_product"
       },
       {
@@ -1860,8 +1970,8 @@
         "summary": "AI应用侧机会涌现 医疗AI下半场比拼“全栈能力” 财联社",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T07:23+08:00",
-        "published_ts": 1784503427,
+        "published": "2026-07-20T15:23+08:00",
+        "published_ts": 1784532227,
         "category": "ai_health_product"
       },
       {
@@ -1871,8 +1981,30 @@
         "summary": "2026年AI搜索服务商汇总，分享陕西附大医院疤愈医疗诊疗如何联系，好用吗 中华网科技频道",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T07:19+08:00",
-        "published_ts": 1784503189,
+        "published": "2026-07-20T15:19+08:00",
+        "published_ts": 1784531989,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "88259a2c3da4",
+        "title": "健康有美年，信赖有三心 | 当体检遇上 AI！合肥美年数智化，让体检更准、更高效、更懂你（第六期） - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIUkdQb1lwcmVtaWtET2JSMDhkcmpDX2Q0Y1NaVWh4RG5EaWlwdjZZdWMyc2Q4OVM2UkVkaVY3d2JndldqMzJ4U2RuUl9kM0FZNlVUYjBuX1h2YVRJOWdqQzBn?oc=5",
+        "summary": "健康有美年，信赖有三心 | 当体检遇上 AI！合肥美年数智化，让体检更准、更高效、更懂你（第六期） 手机网易网",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-20T15:06+08:00",
+        "published_ts": 1784531180,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "60481482af62",
+        "title": "具身大模型在零售药房与酒店洗烘两大场景中能如何应用？ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOV1I3eTZqTDZCa2dJazB0cWJNLWp1MUpMcGs1aExjX3lsdWlXNHM0SldYeFRPRW5FYmZZbEZvR2w2clltYmMteHV2Z3JsYUlqcWFfdC1XZ0lpVExhLVVkZGtvTlZOS0Q0a3gzU3NHd1VFRHliWk1TRGVPSXVRLTVNNTFvVjNtaVFTb3NCY2MwOW9IamYtRXhYSlhMbzg1cDM2YVFRZnl4SE9vQ3Y5LTRsSGdBME5lcWQwcF94STU5X1B3V1c0VFJzTlV6Yi1YQmsxaV9wTTZxVDVFcU0tazNYelRPMDMwUTM5MlZHZkt2U1Mta0pFbW9MZzUtbVdwdURsWEh2QzZRVTQxQlBGVjlyNlRnVXlkMDA2UjdramY5akMyUHQ1ZkwxZVRkS3dwRXNyN051bW8wY1RGLUZmRExyUkNFWHJ4ejgtWU5oMUJ4aUdLLXFYbkhldmhzel9KQUdKWUNPZnlrYkhVbVBZdVZRVXBmQURqeWdWRmwyZi0yUmNJMElZTGhkVTBGRU00elYxZ2xONkpJY3BUMW50VmlmSFhrR0YwRmFQZGpQOXZreEtIc0VkR1dYOXBPeXpjUTE1S1JjV3dwUzN2WkJMSGNhenkyQzVaTVAydUIyTnJoeEd3aGNPNU9Ib0k3ZWJyUkpzeHpiUEdVVWhvY09ET3diaE4tcTNka0ZGOXFaS1VkbjRiUlR5bWlGQlZuQUdQdjgydnlMS2xCaEpjVHNWSnRFM09Qb1BKZWljOTVlelpaX2FRQ3NVdFFFb2NoSm4zRlNiT3hUT1VGcjVqY3Z4Nkk1R0pBY1NzLTc2bW1xVXhvamxRZw?oc=5",
+        "summary": "具身大模型在零售药房与酒店洗烘两大场景中能如何应用？ 新浪财经",
+        "source": "Google 新闻·大模型",
+        "lang": "zh",
+        "published": "2026-07-20T15:00+08:00",
+        "published_ts": 1784530800,
         "category": "ai_health_product"
       },
       {
@@ -1882,8 +2014,8 @@
         "summary": "专访商汤医疗钱琨：AI医疗走到转折点 信任仍是最难破局环节 21财经",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T07:00+08:00",
-        "published_ts": 1784502000,
+        "published": "2026-07-20T15:00+08:00",
+        "published_ts": 1784530800,
         "category": "ai_health_product"
       },
       {
@@ -1893,8 +2025,8 @@
         "summary": "白梅医院推动与台湾地区领先医疗伙伴的国际合作** Bệnh viện Bạch Mai",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T07:00+08:00",
-        "published_ts": 1784502000,
+        "published": "2026-07-20T15:00+08:00",
+        "published_ts": 1784530800,
         "category": "ai_health_product"
       },
       {
@@ -1904,8 +2036,8 @@
         "summary": "工信部：上半年AI开源大模型全球累计下载量突破百亿次 手机网易网",
         "source": "Google 新闻·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-07-20T06:05+08:00",
-        "published_ts": 1784498714,
+        "published": "2026-07-20T14:05+08:00",
+        "published_ts": 1784527514,
         "category": "ai_health_product"
       },
       {
@@ -1915,8 +2047,19 @@
         "summary": "AI开源大模型全球累计下载量破100亿次，全球首款侵入式脑机接口医疗器械获批上市 Sohu",
         "source": "Google 新闻·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-07-20T05:48+08:00",
-        "published_ts": 1784497680,
+        "published": "2026-07-20T13:48+08:00",
+        "published_ts": 1784526480,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "cc3e6278b83d",
+        "title": "算力互联网 开启AI落地规模化时代-CSDN博客 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxS1VtT1BqblA1U2dKZ2l6VjJPQ3laRGhGcHBZZGtjSXQxNkdiYUxvbkx0YjE4MVdWZVVfaUhFbG42S0Vka3NGN0VUemN4aUQ0ak1pQXI3ODRMZ1ZpRlNERGNXdFhnTWtuZUlSUldBblpDN05WejRCQ19rb2tYQXM?oc=5",
+        "summary": "算力互联网 开启AI落地规模化时代-CSDN博客 新浪财经",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-20T13:33+08:00",
+        "published_ts": 1784525598,
         "category": "ai_health_product"
       },
       {
@@ -1926,8 +2069,8 @@
         "summary": "工信部：中国人工智能开源大模型全球累计下载量突破100亿次 新浪财经",
         "source": "Google 新闻·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-07-20T04:49+08:00",
-        "published_ts": 1784494140,
+        "published": "2026-07-20T12:49+08:00",
+        "published_ts": 1784522940,
         "category": "ai_health_product"
       },
       {
@@ -1937,8 +2080,8 @@
         "summary": "工信部：上半年规上制造业企业AI技术应用普及率超30％，开源大模型全球累计下载量突破100亿次｜快讯 Sohu",
         "source": "Google 新闻·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-07-20T03:26+08:00",
-        "published_ts": 1784489160,
+        "published": "2026-07-20T11:26+08:00",
+        "published_ts": 1784517960,
         "category": "ai_health_product"
       },
       {
@@ -1948,8 +2091,19 @@
         "summary": "医院的“围墙”会被AI打破吗？2026WAIC“人机共辩”未来医疗图景， 手机网易网",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T03:13+08:00",
-        "published_ts": 1784488386,
+        "published": "2026-07-20T11:13+08:00",
+        "published_ts": 1784517186,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "fa4c956bbbf9",
+        "title": "联影智能发布“元医院”战略，让人工智能+医疗服务超越物理边界 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUxLWGVoWml2U0xaTGpkYi1teHozNGwxdFB3ZnZkS2VLTkpjb1J6YzFCWFpNSnh3aDZySkZxMnFxRlVVTDVZTHAxSTVDZktmOC1hQjVOMzJVczlyRVpmNDhkNzZqTTNpd2Y0dWhNeV9mVGZLRWZfb213cjd1emFXY1RLdC11eE0?oc=5",
+        "summary": "联影智能发布“元医院”战略，让人工智能+医疗服务超越物理边界 新浪财经",
+        "source": "Google 新闻·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-07-20T09:38+08:00",
+        "published_ts": 1784511527,
         "category": "ai_health_product"
       },
       {
@@ -1959,34 +2113,45 @@
         "summary": "大熊制药向三星首尔医院智能病房供应人工智能病床监测系统“Think” 아시아경제",
         "source": "Google 新闻·AI 医院应用",
         "lang": "zh",
-        "published": "2026-07-20T00:18+08:00",
-        "published_ts": 1784477916,
+        "published": "2026-07-20T08:18+08:00",
+        "published_ts": 1784506716,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "1832481590ae",
+        "title": "联影智能发布“元医院”战略，让人工智能+医疗服务超越物理边界 - 上观新闻",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VNXpBbE9qSXhvRHBZdDJEVmowdnRtYWFVVmlDX3haWkNOMDQ5VEE4WENWQThTY3B4RDRYMGg3akRHYlRpV3JQLVBhVklGOEFEaG9mNG5rNA?oc=5",
+        "summary": "联影智能发布“元医院”战略，让人工智能+医疗服务超越物理边界 上观新闻",
+        "source": "Google 新闻·AI 医院应用",
+        "lang": "zh",
+        "published": "2026-07-20T06:00+08:00",
+        "published_ts": 1784498400,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "fb1358058ab1",
+        "title": "中国平安亮相世界人工智能大会发布医疗、保险、支付领域最新AI成果 AI驱动“综合金融+医疗养老”服务升级 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ha1NldENZZVBWdkFmRXM2ajRqZENTTWg5Rml2c3FwanNRazlIekZqekZ2M2NOYmJJY0RTQ1FLc3dhRWV0RWZvTEJJZ1BVMXUyWGxwSk9PaGZ1d2NwelduOA?oc=5",
+        "summary": "中国平安亮相世界人工智能大会发布医疗、保险、支付领域最新AI成果 AI驱动“综合金融+医疗养老”服务升级 东方财富",
+        "source": "Google 新闻·AI 产品",
+        "lang": "zh",
+        "published": "2026-07-20T04:54+08:00",
+        "published_ts": 1784494490,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "feaef48db3e7",
+        "title": "跨越“最难一公里”：望里科技跑通商业闭环，AI心理诊疗开始变现 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03RzlQNlEzTFRsZzNWV0IwWno0VzVac05UbS1hNVoxclRPeFhLbjg2RjIzT09kYWVjSE9YcldkbTFnYl9qczRfM0VIU2M4RThxQlVDSGQ1d3VEcW5OY1dneEp3?oc=5",
+        "summary": "跨越“最难一公里”：望里科技跑通商业闭环，AI心理诊疗开始变现 手机网易网",
+        "source": "Google 新闻·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-07-20T00:14+08:00",
+        "published_ts": 1784477680,
         "category": "ai_health_product"
       }
     ],
     "ai_health_research": [
-      {
-        "id": "0bf5086490ed",
-        "title": "荣耀Magic8 Pro的AI离焦护眼能降低近视吗？ - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUFUQzk2Qjh4ZmlQOGNpYkNFTUphUmtKYmtuazBqYlZxbEFRZlhVVGJTN1Ftbi1WeVBMOTRtQklSLVpKR0NxN1JJRFpvamNybTV6dGNhaFZiQnN5U0N4cXYxeFB0aHB2NG9ZUGpkSGNscmY5S2kwZm1SanpEeEJNRDln?oc=5",
-        "summary": "荣耀Magic8 Pro的AI离焦护眼能降低近视吗？ 新浪网",
-        "source": "Google 新闻·AI 医学研究",
-        "lang": "zh",
-        "published": "2026-07-22T23:45+08:00",
-        "published_ts": 1784735152,
-        "category": "ai_health_research"
-      },
-      {
-        "id": "5691479c7c55",
-        "title": "孙颖：让AI扎根临床，以匠心守护健康 - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5COGlkdWJ0V1hjV3dFRVdqNW9Ka0JjSFh1bWdxV3BRQVBMSThtS1pidnZNRko3R0FFaDQ2Qk9fenlmVWhYXzJFaDh0NFo4RFVNWnBRUVVKWHh5SGJJYnk5djF3?oc=5",
-        "summary": "孙颖：让AI扎根临床，以匠心守护健康 手机网易网",
-        "source": "Google 新闻·AI 医学研究",
-        "lang": "zh",
-        "published": "2026-07-22T17:14+08:00",
-        "published_ts": 1784711685,
-        "category": "ai_health_research"
-      },
       {
         "id": "9b1b6ebf0955",
         "title": "美国宣布投入50亿美元，利用AI攻克慢性病、加速药物研发等 - 凤凰网科技",
@@ -1994,8 +2159,8 @@
         "summary": "美国宣布投入50亿美元，利用AI攻克慢性病、加速药物研发等 凤凰网科技",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-22T14:30+08:00",
-        "published_ts": 1784701844,
+        "published": "2026-07-22T22:30+08:00",
+        "published_ts": 1784730644,
         "category": "ai_health_research"
       },
       {
@@ -2005,8 +2170,8 @@
         "summary": "全球首家！BMS拿下英伟达最牛超算，AI制药一举提速50%！ 新浪网",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-22T13:59+08:00",
-        "published_ts": 1784699979,
+        "published": "2026-07-22T21:59+08:00",
+        "published_ts": 1784728779,
         "category": "ai_health_research"
       },
       {
@@ -2016,8 +2181,8 @@
         "summary": "以AI+CRO赋能产业革新，美迪西当选上海市工商联生物医药商会AI专委会副主任委员单位 新浪网",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-22T12:37+08:00",
-        "published_ts": 1784695044,
+        "published": "2026-07-22T20:37+08:00",
+        "published_ts": 1784723844,
         "category": "ai_health_research"
       },
       {
@@ -2027,8 +2192,8 @@
         "summary": "AI赋能千行百业一线观察｜站在医生身旁的“好帮手” 新华网客户端",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-22T08:24+08:00",
-        "published_ts": 1784679859,
+        "published": "2026-07-22T16:24+08:00",
+        "published_ts": 1784708659,
         "category": "ai_health_research"
       },
       {
@@ -2038,8 +2203,8 @@
         "summary": "量子系统可区分态的构建新方法-人工智能 至顶网",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-22T07:41+08:00",
-        "published_ts": 1784677316,
+        "published": "2026-07-22T15:41+08:00",
+        "published_ts": 1784706116,
         "category": "ai_health_research"
       },
       {
@@ -2049,8 +2214,8 @@
         "summary": "钱锋：AI尚未颠覆药物研发 Sohu",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-22T06:24+08:00",
-        "published_ts": 1784672642,
+        "published": "2026-07-22T14:24+08:00",
+        "published_ts": 1784701442,
         "category": "ai_health_research"
       },
       {
@@ -2060,8 +2225,8 @@
         "summary": "WAIC2026｜对话望石智慧周杰龙：用微观世界模型重构AI制药未来 手机网易网",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-22T05:51+08:00",
-        "published_ts": 1784670664,
+        "published": "2026-07-22T13:51+08:00",
+        "published_ts": 1784699464,
         "category": "ai_health_research"
       },
       {
@@ -2071,8 +2236,8 @@
         "summary": "当血液科医生遇上“抗感染难题”：除了请会诊，你还需要一个靠谱的AI ihemato.com",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-22T03:13+08:00",
-        "published_ts": 1784661185,
+        "published": "2026-07-22T11:13+08:00",
+        "published_ts": 1784689985,
         "category": "ai_health_research"
       },
       {
@@ -2082,8 +2247,8 @@
         "summary": "追问daily | Science：树突是个微型计算机；中年让频繁刷视频加速大脑萎缩与白质病变 手机网易网",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-22T02:29+08:00",
-        "published_ts": 1784658573,
+        "published": "2026-07-22T10:29+08:00",
+        "published_ts": 1784687373,
         "category": "ai_health_research"
       },
       {
@@ -2093,19 +2258,8 @@
         "summary": "ChatGPT、Claude还是Gemini？大型药企正在重新选择AI合作伙伴 智源社区",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-22T02:10+08:00",
-        "published_ts": 1784657400,
-        "category": "ai_health_research"
-      },
-      {
-        "id": "f13dbb394136",
-        "title": "医学影像技术AI虚实融合智慧实训室，破解传统教学困境，重塑未来智慧教育 - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rQVNycDFBNFZ3TWxaUUw0UWJDVDJKaUh0WUNkbzVrRV9qckthZW8xMW5TQkFmY2tUSGlqSVduVURiaXBCSnl2ejhHdjR6QlVBMGhvM3ExTTNlRmZiRTBaNkd3?oc=5",
-        "summary": "医学影像技术AI虚实融合智慧实训室，破解传统教学困境，重塑未来智慧教育 手机网易网",
-        "source": "Google 新闻·AI 医学影像论文",
-        "lang": "zh",
-        "published": "2026-07-22T02:04+08:00",
-        "published_ts": 1784657092,
+        "published": "2026-07-22T10:10+08:00",
+        "published_ts": 1784686200,
         "category": "ai_health_research"
       },
       {
@@ -2115,8 +2269,8 @@
         "summary": "阿里健康氢离子集齐三大医学顶刊，成国内首个获 NEJM、JAMA、BMJ 全文授权的医学 AI 平台 article.9466.com",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-22T01:26+08:00",
-        "published_ts": 1784654760,
+        "published": "2026-07-22T09:26+08:00",
+        "published_ts": 1784683560,
         "category": "ai_health_research"
       },
       {
@@ -2124,10 +2278,10 @@
         "title": "综述：儿科神经影像学中的人工智能 - 生物通",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fUENPb3c3Q3VjbE1JQXFvd3I0aGU2Y2w3X3pKb1J4R2tKVXd1ZUFJMzNQNEZ5eTN4bjE5X1ZqS0JCeEFXUE1yMFl4bFpwSmowSWFXeDYyVlY5N3ItZWY2VDlqYUQ5NEJyRHk3NQ?oc=5",
         "summary": "综述：儿科神经影像学中的人工智能 生物通",
-        "source": "Google 新闻·AI 临床研究",
+        "source": "Google 新闻·AI 影像诊断",
         "lang": "zh",
-        "published": "2026-07-22T00:32+08:00",
-        "published_ts": 1784651576,
+        "published": "2026-07-22T08:32+08:00",
+        "published_ts": 1784680376,
         "category": "ai_health_research"
       },
       {
@@ -2137,8 +2291,8 @@
         "summary": "综述：AI健康素养作为医疗中负责任AI的基础：一个可信实施框架 生物通",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-21T23:57+08:00",
-        "published_ts": 1784649475,
+        "published": "2026-07-22T07:57+08:00",
+        "published_ts": 1784678275,
         "category": "ai_health_research"
       },
       {
@@ -2148,8 +2302,8 @@
         "summary": "综述：人工智能能否使儿科PET/CT实现低剂量？机遇、证据与警示 生物通",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-21T23:57+08:00",
-        "published_ts": 1784649475,
+        "published": "2026-07-22T07:57+08:00",
+        "published_ts": 1784678275,
         "category": "ai_health_research"
       },
       {
@@ -2159,8 +2313,8 @@
         "summary": "21专访丨德勤孙晓臻：AI医疗从“尝鲜”到“刚需”还有多远？ 21财经",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T23:00+08:00",
-        "published_ts": 1784646000,
+        "published": "2026-07-22T07:00+08:00",
+        "published_ts": 1784674800,
         "category": "ai_health_research"
       },
       {
@@ -2170,19 +2324,8 @@
         "summary": "\"美国 AI 护城河已不如预期\"；《第九区》导演发布首部完全由 AI 生成的短片；面壁智能发布首个具身智能成果｜AI快报 手机网易网",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T17:12+08:00",
-        "published_ts": 1784625121,
-        "category": "ai_health_research"
-      },
-      {
-        "id": "23dbcaad9b9a",
-        "title": "尼日利亚拉各斯医疗机构中医疗专业人员的人工智能使用：一项横断面研究 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PZGxSektHQ3dOYkRTdVZhVm5XSjJJUFpaemdMSnlRalg4Q1pUNnBLRUpWLUR1Yzd0WEpOUDZEbXdDNGsyR3VpbHNBNm1sTUt6cmd4WTdUU1hpb01EWVRsM3M5NHByOHpESTJUYg?oc=5",
-        "summary": "尼日利亚拉各斯医疗机构中医疗专业人员的人工智能使用：一项横断面研究 生物通",
-        "source": "Google 新闻·AI 临床研究",
-        "lang": "zh",
-        "published": "2026-07-21T16:02+08:00",
-        "published_ts": 1784620939,
+        "published": "2026-07-22T01:12+08:00",
+        "published_ts": 1784653921,
         "category": "ai_health_research"
       },
       {
@@ -2192,8 +2335,8 @@
         "summary": "AI制药，加剧“猴荒”？ Sohu",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T14:43+08:00",
-        "published_ts": 1784616224,
+        "published": "2026-07-21T22:43+08:00",
+        "published_ts": 1784645024,
         "category": "ai_health_research"
       },
       {
@@ -2203,8 +2346,8 @@
         "summary": "阿里健康旗下医学AI平台“氢离子”与JAMA达成独家内容合作 东方财富",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T12:08+08:00",
-        "published_ts": 1784606926,
+        "published": "2026-07-21T20:08+08:00",
+        "published_ts": 1784635726,
         "category": "ai_health_research"
       },
       {
@@ -2214,8 +2357,8 @@
         "summary": "晶泰科技亮相CPIC 2026：深度解码AI自主科学发现，以技术闭环重构药物研发范式 ByDrug",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T11:32+08:00",
-        "published_ts": 1784604720,
+        "published": "2026-07-21T19:32+08:00",
+        "published_ts": 1784633520,
         "category": "ai_health_research"
       },
       {
@@ -2225,8 +2368,8 @@
         "summary": "AI赋能生命健康全链条革新—产业领袖共探人工智能驱动医疗创新新路径 中华网",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-21T11:22+08:00",
-        "published_ts": 1784604174,
+        "published": "2026-07-21T19:22+08:00",
+        "published_ts": 1784632974,
         "category": "ai_health_research"
       },
       {
@@ -2236,8 +2379,8 @@
         "summary": "以AI突破药物研发“死亡之谷” 太美医疗科技CSO陈杰博士专著全球发行 新浪网",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T10:13+08:00",
-        "published_ts": 1784600000,
+        "published": "2026-07-21T18:13+08:00",
+        "published_ts": 1784628800,
         "category": "ai_health_research"
       },
       {
@@ -2247,8 +2390,19 @@
         "summary": "阿里健康旗下医学AI “氢离子”成为JAMA在中国独家合作的医学AI平台 Sohu",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T09:40+08:00",
-        "published_ts": 1784598045,
+        "published": "2026-07-21T17:40+08:00",
+        "published_ts": 1784626845,
+        "category": "ai_health_research"
+      },
+      {
+        "id": "7ddf7e01afe8",
+        "title": "百时美施贵宝采购英伟达最新 Vera Rubin 架构计算系统，用 AI 加速药物研发 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Gc3JNSzVzZjF4TFR6U21xZkhUVVplX3RQQzZPb3NRUnFycERwUGJ3ZzRYYmgxY3YzcWlZTE9kNlI1MUVwcW5jbG83eGdTMlQ4dGFaVkI4c3RqZlpnaFVMSmhnZmpzUTRCOU9UMkNPc1dGVWt1?oc=5",
+        "summary": "百时美施贵宝采购英伟达最新 Vera Rubin 架构计算系统，用 AI 加速药物研发 新浪网",
+        "source": "Google 新闻·AI 药物研发",
+        "lang": "zh",
+        "published": "2026-07-21T16:40+08:00",
+        "published_ts": 1784623239,
         "category": "ai_health_research"
       },
       {
@@ -2258,8 +2412,8 @@
         "summary": "蚂蚁集团研究院院长李振华：让AI模型对齐人类价值伦理 china.caixin.com",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
-        "published": "2026-07-21T08:21+08:00",
-        "published_ts": 1784593260,
+        "published": "2026-07-21T16:21+08:00",
+        "published_ts": 1784622060,
         "category": "ai_health_research"
       },
       {
@@ -2269,8 +2423,8 @@
         "summary": "百时美施贵宝携手英伟达打造最强AI工厂 Sohu",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T07:56+08:00",
-        "published_ts": 1784591760,
+        "published": "2026-07-21T15:56+08:00",
+        "published_ts": 1784620560,
         "category": "ai_health_research"
       },
       {
@@ -2280,19 +2434,8 @@
         "summary": "清华大学药学院院长钱锋：AI不可低估，但尚未颠覆药物研发 eeo.com.cn",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T07:20+08:00",
-        "published_ts": 1784589600,
-        "category": "ai_health_research"
-      },
-      {
-        "id": "57ff2efe3a4f",
-        "title": "百时美施贵宝采购英伟达最新 Vera Rubin 架构计算系统，用 AI 加速药物研发 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNb0ZSQkhEcUx4NGkySGdad0lNS3h0TlE1bW1rMndhY01vTnExV0NHZUdLbFJUcHItQlBNZmhxakhfWFJrT1I4alNKck5XaUQxV1hXdFZTV0t5ZGdHRm12WDA4bEk4QWctZUpZU0NUaVNBUi1aS1pma0VGcFhhRUdaYnBUMDJlX2dPTUNYUlM0R3MxX2drR0JDbEZHdDlWSW1rSkdVbjJYcVpCSmFqNjZhYVNERVhaY3lvcmpVWWFSXzNPSVBkX1hvZWFWVmhBTHpKcktNY1VuQzFOYTZKUUhPVjkzV1FaeG1ud1I4aDZtUVo0YnRHWG1mSUwxc1R1bldvTjRrNElHVjcyUHRWWWRxMlMwQjZGTDU3cWxuMU9lSERTdDU1aF9ORGJZZmhuUGwzUmVhci12aXI0ZVVnYjVpeDczNWlpdzI5bUR4NkVuYllPUVhfRmYxc1JwNUJGR2ZnWnJyUVJFbHZLY245RmFTZUl3OW1ickVFaHBqclBoUzAxTHpfaG9IQ2NwNTMxNGozSUVJTHhkX2p2dWFORUtHU2kyYmlMZDI3anBXTkJXSTNmZjNDdHIzanQzejd4OGcxdVlYNXRJaUlXelZ5eFJGYUtPbGx1TDdvY19WZlc0a2tFUlBRc29YcUhKS3VKQzNTUHpXelMzbkQ5cEdZVEthYlE5ZEVHS1lmTWJUb21FSkN5UE9PS2FvZHpRWVBHTGFtVlpHTm5MR0JFdw?oc=5",
-        "summary": "百时美施贵宝采购英伟达最新 Vera Rubin 架构计算系统，用 AI 加速药物研发 新浪财经",
-        "source": "Google 新闻·AI 药物研发",
-        "lang": "zh",
-        "published": "2026-07-21T07:00+08:00",
-        "published_ts": 1784588400,
+        "published": "2026-07-21T15:20+08:00",
+        "published_ts": 1784618400,
         "category": "ai_health_research"
       },
       {
@@ -2302,8 +2445,8 @@
         "summary": "阿里健康医学AI“氢离子”获全球三大医学刊物内容授权 Sohu",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T05:48+08:00",
-        "published_ts": 1784584080,
+        "published": "2026-07-21T13:48+08:00",
+        "published_ts": 1784612880,
         "category": "ai_health_research"
       },
       {
@@ -2313,8 +2456,8 @@
         "summary": "自然常数：以AI技术打造创新药研发决策基础设施平台 东方财富",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T03:53+08:00",
-        "published_ts": 1784577229,
+        "published": "2026-07-21T11:53+08:00",
+        "published_ts": 1784606029,
         "category": "ai_health_research"
       },
       {
@@ -2324,8 +2467,8 @@
         "summary": "2026世界人工智能大会“AI赋能生命健康新范式论坛”在沪举行 中华网",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T03:36+08:00",
-        "published_ts": 1784576177,
+        "published": "2026-07-21T11:36+08:00",
+        "published_ts": 1784604977,
         "category": "ai_health_research"
       },
       {
@@ -2335,8 +2478,8 @@
         "summary": "以岭药业AI案例入选《2026智能经济新形态：智能体创新实践汇编》_公司新闻 证券之星",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T03:16+08:00",
-        "published_ts": 1784574969,
+        "published": "2026-07-21T11:16+08:00",
+        "published_ts": 1784603769,
         "category": "ai_health_research"
       },
       {
@@ -2346,8 +2489,8 @@
         "summary": "课程嵌入的两次基于AI聊天机器人的韩医学诊断学问诊实习 生物通",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T01:54+08:00",
-        "published_ts": 1784570096,
+        "published": "2026-07-21T09:54+08:00",
+        "published_ts": 1784598896,
         "category": "ai_health_research"
       },
       {
@@ -2357,8 +2500,8 @@
         "summary": "茗视光眼科首席专家朱思泉教授当选全国卫生产业企业管理协会医学AI智能体专委会主委 中华网科技频道",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T01:23+08:00",
-        "published_ts": 1784568207,
+        "published": "2026-07-21T09:23+08:00",
+        "published_ts": 1784597007,
         "category": "ai_health_research"
       },
       {
@@ -2368,8 +2511,8 @@
         "summary": "从经验驱动到智能驱动 AI融入生命科学全流程 新浪新闻_手机新浪网",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-21T01:05+08:00",
-        "published_ts": 1784567100,
+        "published": "2026-07-21T09:05+08:00",
+        "published_ts": 1784595900,
         "category": "ai_health_research"
       },
       {
@@ -2379,8 +2522,8 @@
         "summary": "首尔圣母医院开发预测儿科手术中血液二氧化碳的AI模型 아시아경제",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-21T00:55+08:00",
-        "published_ts": 1784566521,
+        "published": "2026-07-21T08:55+08:00",
+        "published_ts": 1784595321,
         "category": "ai_health_research"
       },
       {
@@ -2390,8 +2533,8 @@
         "summary": "WAIC 2026｜AI+量子切入百亿美元体内CAR-T市场：英矽智能参投元码智药，并携手沙丘量子达成三方合作 新浪网",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T00:40+08:00",
-        "published_ts": 1784565635,
+        "published": "2026-07-21T08:40+08:00",
+        "published_ts": 1784594435,
         "category": "ai_health_research"
       },
       {
@@ -2401,8 +2544,8 @@
         "summary": "WAIC 2026｜AI+量子切入百亿美元体内CAR-T市场：英矽智能参投元码智药， 并携手沙丘量子达成三方合作 美通社",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-21T00:30+08:00",
-        "published_ts": 1784565000,
+        "published": "2026-07-21T08:30+08:00",
+        "published_ts": 1784593800,
         "category": "ai_health_research"
       },
       {
@@ -2412,8 +2555,8 @@
         "summary": "教皇发布首份AI通谕：4万字10个观点，AI焦虑被说透了 36 Kr",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-20T18:40+08:00",
-        "published_ts": 1784544000,
+        "published": "2026-07-21T02:40+08:00",
+        "published_ts": 1784572800,
         "category": "ai_health_research"
       },
       {
@@ -2423,8 +2566,8 @@
         "summary": "氢离子成为国内唯一提供医生个人阅读 NEJM 全文内容服务的医学 AI 平台 极客公园",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-20T16:19+08:00",
-        "published_ts": 1784535568,
+        "published": "2026-07-21T00:19+08:00",
+        "published_ts": 1784564368,
         "category": "ai_health_research"
       },
       {
@@ -2434,8 +2577,8 @@
         "summary": "世界人工智能大会生命健康专区系列活动在沪举行 新浪网",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-20T16:16+08:00",
-        "published_ts": 1784535360,
+        "published": "2026-07-21T00:16+08:00",
+        "published_ts": 1784564160,
         "category": "ai_health_research"
       },
       {
@@ -2445,8 +2588,8 @@
         "summary": "对话获“年度AI特别贡献人物”的蔡磊：要抓住机遇继续努力 手机网易网",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-20T15:09+08:00",
-        "published_ts": 1784531350,
+        "published": "2026-07-20T23:09+08:00",
+        "published_ts": 1784560150,
         "category": "ai_health_research"
       },
       {
@@ -2456,8 +2599,8 @@
         "summary": "爱思唯尔全球调研：中国临床医护人员AI信任度高于全球平均水平 shobserver.com",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-20T14:51+08:00",
-        "published_ts": 1784530260,
+        "published": "2026-07-20T22:51+08:00",
+        "published_ts": 1784559060,
         "category": "ai_health_research"
       },
       {
@@ -2467,8 +2610,8 @@
         "summary": "普通患者何时能用上AI设计的药物？ 新浪网",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-20T14:43+08:00",
-        "published_ts": 1784529825,
+        "published": "2026-07-20T22:43+08:00",
+        "published_ts": 1784558625,
         "category": "ai_health_research"
       },
       {
@@ -2478,8 +2621,8 @@
         "summary": "WAIC2026｜对话望石智慧周杰龙：用微观世界模型重构AI制药未来 新浪财经",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-20T13:20+08:00",
-        "published_ts": 1784524858,
+        "published": "2026-07-20T21:20+08:00",
+        "published_ts": 1784553658,
         "category": "ai_health_research"
       },
       {
@@ -2489,19 +2632,8 @@
         "summary": "WAIC“AI未来发展论坛：产学研深度融合”发布罕见病、病理诊断等成果 上观新闻",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-20T08:36+08:00",
-        "published_ts": 1784507760,
-        "category": "ai_health_research"
-      },
-      {
-        "id": "b6de84879788",
-        "title": "将机器反学习作为临床人工智能发展的治理要求 - cdn.ebiotrade.com",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SbzRQd0dYbnJScVRBLXV3M2p1YkxNNFdDSXd5b2Zmek9zN3dsNU9NTVBVTnV4ZGdzWm91LXNkMmdQSElyM0VhU0pabm15QVJUQUlUbm0wV2pRS1ZUenlvTHItckd1NnVJTXFfY1p3?oc=5",
-        "summary": "将机器反学习作为临床人工智能发展的治理要求 cdn.ebiotrade.com",
-        "source": "Google 新闻·AI 临床研究",
-        "lang": "zh",
-        "published": "2026-07-20T05:45+08:00",
-        "published_ts": 1784497549,
+        "published": "2026-07-20T16:36+08:00",
+        "published_ts": 1784536560,
         "category": "ai_health_research"
       },
       {
@@ -2511,8 +2643,8 @@
         "summary": "无尽方舟1个月连融两轮近亿瞄准AI抗衰药 手机网易网",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-20T05:36+08:00",
-        "published_ts": 1784496991,
+        "published": "2026-07-20T13:36+08:00",
+        "published_ts": 1784525791,
         "category": "ai_health_research"
       },
       {
@@ -2522,8 +2654,8 @@
         "summary": "英矽智能与腾讯健康达成战略合作：共建生命科学AI专精模型，探索新药研发新边界 新民周刊",
         "source": "Google 新闻·AI 药物研发",
         "lang": "zh",
-        "published": "2026-07-20T05:10+08:00",
-        "published_ts": 1784495400,
+        "published": "2026-07-20T13:10+08:00",
+        "published_ts": 1784524200,
         "category": "ai_health_research"
       },
       {
@@ -2533,8 +2665,8 @@
         "summary": "亮相WAIC 2026临床实证赋能康养升级 无芯科技定义AI疗愈新范式 中华网",
         "source": "Google 新闻·AI 临床研究",
         "lang": "zh",
-        "published": "2026-07-20T04:11+08:00",
-        "published_ts": 1784491900,
+        "published": "2026-07-20T12:11+08:00",
+        "published_ts": 1784520700,
         "category": "ai_health_research"
       },
       {
@@ -2544,8 +2676,8 @@
         "summary": "AI赋能解析染色质折叠：上海交大吴强团队揭示三维基因组环挤出的“分子刹车”Wiz 上海交通大学 新闻网",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
-        "published": "2026-07-20T02:20+08:00",
-        "published_ts": 1784485231,
+        "published": "2026-07-20T10:20+08:00",
+        "published_ts": 1784514031,
         "category": "ai_health_research"
       }
     ]
