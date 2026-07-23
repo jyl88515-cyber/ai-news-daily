@@ -33,7 +33,13 @@
     </div>
   </header>
 
-  <nav class="flex flex-wrap gap-2 mb-6" id="tabs"></nav>
+  <nav class="flex flex-wrap gap-2 mb-3" id="tabs"></nav>
+
+  <div class="mb-6 flex items-center gap-2">
+    <input id="search" type="search" placeholder="按标题 / 摘要 / 来源搜索…"
+      class="flex-1 border border-slate-300 rounded-md px-3 py-2 text-sm bg-white focus:outline-none focus:border-slate-500" />
+    <span id="searchCount" class="text-xs text-slate-500 whitespace-nowrap"></span>
+  </div>
 
   <main id="list" class="space-y-3"></main>
 
@@ -80,13 +86,16 @@
 
 <script>
 const CATS = [
-  { key: "ai_product",         label: "AI 产品应用" },
-  { key: "ai_health_product",  label: "AI 医疗健康产品" },
-  { key: "ai_health_research", label: "AI 医疗健康研究" },
+  { key: "ai_health_product",    label: "AI 医疗健康产品" },
+  { key: "ai_health_project",    label: "AI 医疗健康项目" },
+  { key: "ai_health_funding",    label: "AI 医疗健康投融资" },
+  { key: "ai_hospital_speech",   label: "关于 AI 院长讲话" },
+  { key: "ai_health_gov_speech", label: "关于 AI 卫健委讲话" },
 ];
 
 let DATA = null;
-let current = "ai_product";
+let current = "ai_health_product";
+let searchQ = "";
 
 // ------- 仓库信息推断 -------
 function detectRepo() {
@@ -110,26 +119,44 @@ function fmtDate(iso) {
 
 function renderTabs() {
   const el = document.getElementById("tabs");
-  el.innerHTML = CATS.map(c => {
-    const n = DATA?.counts?.[c.key] ?? 0;
-    const active = c.key === current;
-    return `<button data-k="${c.key}"
+  // 允许 DATA 中提供 category_order 覆盖前端顺序
+  const order = DATA?.category_order || CATS.map(c => c.key);
+  const labels = DATA?.category_labels || Object.fromEntries(CATS.map(c => [c.key, c.label]));
+  el.innerHTML = order.map(k => {
+    const n = DATA?.counts?.[k] ?? 0;
+    const active = k === current;
+    return `<button data-k="${k}"
       class="px-3 py-1.5 rounded-full text-sm border transition
              ${active ? "bg-slate-900 text-white border-slate-900"
                       : "bg-white text-slate-700 border-slate-200 hover:border-slate-400"}">
-      ${c.label} <span class="ml-1 opacity-70">${n}</span></button>`;
+      ${labels[k] || k} <span class="ml-1 opacity-70">${n}</span></button>`;
   }).join("");
   el.querySelectorAll("button").forEach(b => {
     b.onclick = () => { current = b.dataset.k; renderTabs(); renderList(); };
   });
 }
 
+function filterItems(items) {
+  const q = searchQ.trim().toLowerCase();
+  if (!q) return items;
+  return items.filter(it =>
+    (it.title || "").toLowerCase().includes(q) ||
+    (it.summary || "").toLowerCase().includes(q) ||
+    (it.source || "").toLowerCase().includes(q)
+  );
+}
+
 function renderList() {
-  const items = DATA?.items?.[current] ?? [];
+  const all = DATA?.items?.[current] ?? [];
+  const items = filterItems(all);
   const wrap = document.getElementById("list");
+  const countEl = document.getElementById("searchCount");
+  countEl.textContent = searchQ
+    ? `匹配 ${items.length} / ${all.length}`
+    : `共 ${all.length}`;
   if (!items.length) {
     wrap.innerHTML = `<div class="text-slate-500 text-sm p-6 bg-white rounded-lg border border-slate-200">
-      该分类当前窗口内无新条目。</div>`;
+      ${searchQ ? "未匹配到任何条目。" : "该分类当前窗口内无新条目。"}</div>`;
     return;
   }
   wrap.innerHTML = items.map(it => `
@@ -241,12 +268,30 @@ async function triggerRefresh() {
 }
 document.getElementById("refreshBtn").onclick = triggerRefresh;
 
+// ------- 搜索 -------
+const searchEl = document.getElementById("search");
+let searchTimer = null;
+searchEl.addEventListener("input", () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    searchQ = searchEl.value;
+    renderList();
+  }, 120);
+});
+// 按 Esc 清空
+searchEl.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") { searchEl.value = ""; searchQ = ""; renderList(); }
+});
+
 // ------- 启动 -------
 async function boot(silent) {
   try {
     const r = await fetch("data/latest.json?_=" + Date.now());
     if (!r.ok) throw new Error("HTTP " + r.status);
     DATA = await r.json();
+    // 如果默认 current 不在数据里，切到 category_order 里的第一项
+    const order = DATA.category_order || CATS.map(c => c.key);
+    if (!order.includes(current)) current = order[0];
     document.getElementById("meta").textContent =
       `窗口 ${fmtDate(DATA.window_start)} — ${fmtDate(DATA.window_end)} · 生成于 ${fmtDate(DATA.generated_at)}`;
     renderTabs();
