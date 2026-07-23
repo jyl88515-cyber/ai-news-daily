@@ -15,12 +15,18 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
 
 import feedparser
 import requests
+
+try:
+    from googlenewsdecoder import gnewsdecoder  # type: ignore
+except Exception:
+    gnewsdecoder = None
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from sources import (  # noqa: E402
@@ -86,6 +92,79 @@ def fetch_feed(url: str):
     except Exception as e:
         print(f"  [warn] fetch fail {url}: {e}", file=sys.stderr)
         return None
+
+
+def resolve_google_links(buckets: dict) -> None:
+    """把 Google News 跳转链接解码为真实原文链接。
+
+    带缓存：解码结果写入 data/link_cache.json，下次运行同一条目直接命中缓存。
+    带时间预算：单次调用最多花 RESOLVE_BUDGET 秒，超时未解码的条目保持原链接。
+    """
+    cache_file = DATA_DIR / "link_cache.json"
+    cache: dict[str, str] = {}
+    if cache_file.exists():
+        try:
+            cache = json.loads(cache_file.read_text(encoding="utf-8"))
+        except Exception:
+            cache = {}
+
+    # 分类：命中缓存 & 需要在线解码
+    hits: list[dict] = []
+    to_decode: list[dict] = []
+    for bucket in buckets.values():
+        for it in bucket:
+            link = it.get("link", "")
+            if "news.google.com" not in link:
+                continue
+            if link in cache:
+                it["link"] = cache[link]
+                it["id"] = hashlib.md5(it["link"].encode("utf-8")).hexdigest()[:12]
+                hits.append(it)
+            else:
+                to_decode.append(it)
+
+    print(f"Google News links: cache hits={len(hits)}, need online decode={len(to_decode)}")
+    if not to_decode or gnewsdecoder is None:
+        return
+
+    def _decode(orig_url: str):
+        try:
+            r = gnewsdecoder(orig_url, interval=1)
+            if r.get("status") and r.get("decoded_url"):
+                return orig_url, r["decoded_url"]
+        except Exception:
+            pass
+        return orig_url, None
+
+    RESOLVE_BUDGET = 240  # 秒；剩余未完成的直接放弃，下次再解
+    t0 = time.time()
+    ok = 0
+    with ThreadPoolExecutor(max_workers=10) as pool:
+        futures = {pool.submit(_decode, it["link"]): it for it in to_decode}
+        by_url = {it["link"]: it for it in to_decode}
+        try:
+            for fut in as_completed(futures, timeout=RESOLVE_BUDGET):
+                orig, real = fut.result()
+                if real:
+                    it = by_url.get(orig)
+                    if it:
+                        cache[orig] = real
+                        it["link"] = real
+                        it["id"] = hashlib.md5(real.encode("utf-8")).hexdigest()[:12]
+                        ok += 1
+        except TimeoutError:
+            print(f"  [warn] decode budget {RESOLVE_BUDGET}s exhausted, remaining fall back to Google News URLs")
+            for fut in futures:
+                fut.cancel()
+
+    print(f"  decoded {ok}/{len(to_decode)} in {time.time() - t0:.1f}s (cache now {len(cache)} entries)")
+
+    # 限制缓存大小
+    if len(cache) > 5000:
+        cache = dict(list(cache.items())[-5000:])
+    cache_file.write_text(
+        json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8"
+    )
 
 
 def build_item(entry, feed_meta, pub_dt: datetime) -> dict:
@@ -220,6 +299,20 @@ def run(days: int) -> dict:
     # 每类按时间倒序
     for k in buckets:
         buckets[k].sort(key=lambda x: x["published_ts"], reverse=True)
+
+    # 解码 Google News 跳转链接为真实原文链接
+    resolve_google_links(buckets)
+
+    # 按最终链接再次去重（解码后可能有跨源重复）
+    for k in buckets:
+        seen_links: set[str] = set()
+        deduped = []
+        for it in buckets[k]:
+            if it["link"] in seen_links:
+                continue
+            seen_links.add(it["link"])
+            deduped.append(it)
+        buckets[k] = deduped
 
     return {
         "generated_at": now_cst.isoformat(timespec="minutes"),
