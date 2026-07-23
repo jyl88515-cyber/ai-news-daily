@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>每日 AI 资讯</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+  .card:hover { transform: translateY(-1px); box-shadow: 0 6px 20px rgba(0,0,0,.06); }
+  .card { transition: transform .15s, box-shadow .15s; }
+</style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+<div class="max-w-5xl mx-auto px-4 py-8">
+
+  <header class="mb-6">
+    <h1 class="text-2xl font-semibold">每日 AI 资讯</h1>
+    <p id="meta" class="text-sm text-slate-500 mt-1">加载中…</p>
+  </header>
+
+  <nav class="flex flex-wrap gap-2 mb-6" id="tabs"></nav>
+
+  <main id="list" class="space-y-3"></main>
+
+  <footer class="text-center text-xs text-slate-400 mt-12">
+    数据来源：各站点公开 RSS。点击标题查看原文。
+  </footer>
+</div>
+
+<script>
+const CATS = [
+  { key: "ai_product",         label: "AI 产品应用" },
+  { key: "ai_health_product",  label: "AI 医疗健康产品" },
+  { key: "ai_health_research", label: "AI 医疗健康研究" },
+];
+
+let DATA = null;
+let current = "ai_product";
+
+function fmtDate(iso) {
+  try { return iso.replace("T", " ").slice(0, 16); } catch { return iso; }
+}
+
+function renderTabs() {
+  const el = document.getElementById("tabs");
+  el.innerHTML = CATS.map(c => {
+    const n = DATA?.counts?.[c.key] ?? 0;
+    const active = c.key === current;
+    return `<button data-k="${c.key}"
+      class="px-3 py-1.5 rounded-full text-sm border transition
+             ${active ? "bg-slate-900 text-white border-slate-900"
+                      : "bg-white text-slate-700 border-slate-200 hover:border-slate-400"}">
+      ${c.label} <span class="ml-1 opacity-70">${n}</span></button>`;
+  }).join("");
+  el.querySelectorAll("button").forEach(b => {
+    b.onclick = () => { current = b.dataset.k; renderTabs(); renderList(); };
+  });
+}
+
+function renderList() {
+  const items = DATA?.items?.[current] ?? [];
+  const wrap = document.getElementById("list");
+  if (!items.length) {
+    wrap.innerHTML = `<div class="text-slate-500 text-sm p-6 bg-white rounded-lg border border-slate-200">
+      该分类当日无新条目。可以扩大窗口重跑：<code>python scripts/fetch_news.py --days 3</code></div>`;
+    return;
+  }
+  wrap.innerHTML = items.map(it => `
+    <article class="card bg-white rounded-lg border border-slate-200 p-4">
+      <a href="${it.link}" target="_blank" rel="noopener noreferrer"
+         class="block text-base font-semibold text-slate-900 hover:text-blue-600">
+        ${escapeHtml(it.title)}
+      </a>
+      <div class="mt-1 text-xs text-slate-500">
+        ${escapeHtml(it.source)} · ${fmtDate(it.published)}
+        <span class="ml-2 uppercase">${it.lang}</span>
+      </div>
+      <p class="mt-2 text-sm text-slate-700 leading-relaxed">${escapeHtml(it.summary)}</p>
+    </article>
+  `).join("");
+}
+
+function escapeHtml(s) {
+  return (s ?? "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+
+async function boot() {
+  try {
+    const r = await fetch("data/latest.json?_=" + Date.now());
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    DATA = await r.json();
+    document.getElementById("meta").textContent =
+      `窗口 ${fmtDate(DATA.window_start)} — ${fmtDate(DATA.window_end)} · 生成于 ${fmtDate(DATA.generated_at)}`;
+    renderTabs();
+    renderList();
+  } catch (e) {
+    document.getElementById("meta").textContent = "数据尚未生成。请先运行 python scripts/fetch_news.py";
+    document.getElementById("list").innerHTML = "";
+  }
+}
+boot();
+</script>
+</body>
+</html>

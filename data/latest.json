@@ -1,0 +1,485 @@
+{
+  "generated_at": "2026-07-23T15:16+08:00",
+  "window_start": "2026-07-21T00:00+08:00",
+  "window_end": "2026-07-23T00:00+08:00",
+  "category_labels": {
+    "ai_product": "AI 产品应用",
+    "ai_health_product": "AI 医疗健康产品",
+    "ai_health_research": "AI 医疗健康研究"
+  },
+  "counts": {
+    "ai_product": 30,
+    "ai_health_product": 5,
+    "ai_health_research": 7
+  },
+  "items": {
+    "ai_product": [
+      {
+        "id": "0500c91aefe2",
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
+        "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T23:47+08:00",
+        "published_ts": 1784735274,
+        "category": "ai_product"
+      },
+      {
+        "id": "d4d9444f2d5c",
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business",
+        "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T22:01+08:00",
+        "published_ts": 1784728912,
+        "category": "ai_product"
+      },
+      {
+        "id": "bc815679f542",
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable",
+        "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T20:49+08:00",
+        "published_ts": 1784724543,
+        "category": "ai_product"
+      },
+      {
+        "id": "9653ca3befe0",
+        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+        "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T19:11+08:00",
+        "published_ts": 1784718706,
+        "category": "ai_product"
+      },
+      {
+        "id": "02ac6854dff1",
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z",
+        "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T18:50+08:00",
+        "published_ts": 1784717444,
+        "category": "ai_product"
+      },
+      {
+        "id": "1af6a37317ae",
+        "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+        "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads",
+        "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private com…",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T18:13+08:00",
+        "published_ts": 1784715238,
+        "category": "ai_product"
+      },
+      {
+        "id": "fc1699f9e30c",
+        "title": "Monday.com lays off hundreds to focus on AI",
+        "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai",
+        "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T17:54+08:00",
+        "published_ts": 1784714054,
+        "category": "ai_product"
+      },
+      {
+        "id": "1ffa788719ec",
+        "title": "Here’s what Samsung’s smart glasses actually look like",
+        "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+        "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyew…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-22T16:35+08:00",
+        "published_ts": 1784709334,
+        "category": "ai_product"
+      },
+      {
+        "id": "0436557b8983",
+        "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+        "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous",
+        "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T16:24+08:00",
+        "published_ts": 1784708648,
+        "category": "ai_product"
+      },
+      {
+        "id": "514c4b40b17e",
+        "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+        "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai",
+        "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T16:23+08:00",
+        "published_ts": 1784708589,
+        "category": "ai_product"
+      },
+      {
+        "id": "8aca5e4d8ce0",
+        "title": "OpenAI’s AI spending spree has ballooned to $750B",
+        "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b",
+        "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T16:13+08:00",
+        "published_ts": 1784708010,
+        "category": "ai_product"
+      },
+      {
+        "id": "ce017b45b910",
+        "title": "AMD commits up to $5 billion to Anthropic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+        "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-22T14:44+08:00",
+        "published_ts": 1784702667,
+        "category": "ai_product"
+      },
+      {
+        "id": "ae0750764e79",
+        "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+        "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently",
+        "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud b…",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T14:00+08:00",
+        "published_ts": 1784700000,
+        "category": "ai_product"
+      },
+      {
+        "id": "868723098930",
+        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+        "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026",
+        "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T13:20+08:00",
+        "published_ts": 1784697635,
+        "category": "ai_product"
+      },
+      {
+        "id": "684ebe23a5a9",
+        "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+        "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us",
+        "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T13:00+08:00",
+        "published_ts": 1784696400,
+        "category": "ai_product"
+      },
+      {
+        "id": "d822ef4f614f",
+        "title": "Meta made its own AI detection system. It should have just used Google’s",
+        "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+        "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible wa…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-22T11:00+08:00",
+        "published_ts": 1784689200,
+        "category": "ai_product"
+      },
+      {
+        "id": "190df8c6e736",
+        "title": "Utility companies promise to spare us from AI’s energy bill",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+        "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizatio…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-22T10:12+08:00",
+        "published_ts": 1784686333,
+        "category": "ai_product"
+      },
+      {
+        "id": "ab619cea71d6",
+        "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+        "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era",
+        "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T10:00+08:00",
+        "published_ts": 1784685600,
+        "category": "ai_product"
+      },
+      {
+        "id": "a12e3270f7ea",
+        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+        "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching",
+        "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T08:00+08:00",
+        "published_ts": 1784678400,
+        "category": "ai_product"
+      },
+      {
+        "id": "fc5c8553d221",
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
+        "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-22T03:20+08:00",
+        "published_ts": 1784661657,
+        "category": "ai_product"
+      },
+      {
+        "id": "c26839b81ff3",
+        "title": "Meta is testing an AI bedtime story app for people with no imagination",
+        "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination",
+        "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-21T23:55+08:00",
+        "published_ts": 1784649310,
+        "category": "ai_product"
+      },
+      {
+        "id": "8cb5d4d41e54",
+        "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+        "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+        "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production compa…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-21T22:06+08:00",
+        "published_ts": 1784642803,
+        "category": "ai_product"
+      },
+      {
+        "id": "202a0e7e6bd6",
+        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-21T21:48+08:00",
+        "published_ts": 1784641734,
+        "category": "ai_product"
+      },
+      {
+        "id": "32e7d7e815d4",
+        "title": "OpenAI says Hugging Face was breached by its pre-release models",
+        "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
+        "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-21T20:56+08:00",
+        "published_ts": 1784638615,
+        "category": "ai_product"
+      },
+      {
+        "id": "2909da30d4a5",
+        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+        "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents",
+        "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+        "source": "TechCrunch · AI",
+        "lang": "en",
+        "published": "2026-07-21T19:43+08:00",
+        "published_ts": 1784634221,
+        "category": "ai_product"
+      },
+      {
+        "id": "479948011bc9",
+        "title": "Substack adds an AI detector to help spot blogs written by no one",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+        "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI ass…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-21T19:22+08:00",
+        "published_ts": 1784632948,
+        "category": "ai_product"
+      },
+      {
+        "id": "9e86e0fbb2cf",
+        "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+        "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes …",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-21T16:53+08:00",
+        "published_ts": 1784624017,
+        "category": "ai_product"
+      },
+      {
+        "id": "5462dce82ab6",
+        "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+        "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+        "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to l…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-21T15:00+08:00",
+        "published_ts": 1784617200,
+        "category": "ai_product"
+      },
+      {
+        "id": "11ac057f121b",
+        "title": "Halliday’s latest smart glasses feature a much-improved display",
+        "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+        "summary": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interestin…",
+        "source": "The Verge · AI",
+        "lang": "en",
+        "published": "2026-07-21T13:00+08:00",
+        "published_ts": 1784610000,
+        "category": "ai_product"
+      },
+      {
+        "id": "048202fb005a",
+        "title": "Advancing next-gen AI with materials science innovation",
+        "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation",
+        "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advance…",
+        "source": "MIT Tech Review · AI",
+        "lang": "en",
+        "published": "2026-07-21T10:37+08:00",
+        "published_ts": 1784601454,
+        "category": "ai_product"
+      }
+    ],
+    "ai_health_product": [
+      {
+        "id": "18afcd1cb609",
+        "title": "STAT+: What is a ‘world model’? Nabla’s Alex LeBrun explains",
+        "link": "https://www.statnews.com/2026/07/22/what-is-a-world-model-nabla-alex-lebrun-explains-ai-prognosis",
+        "summary": "In this edition of AI Prognosis, Brittany Trang talks to Alex LeBrun, AI scribe company Nabla's executive chairman, about an alternative to LLMs",
+        "source": "STAT · Health Tech",
+        "lang": "en",
+        "published": "2026-07-22T21:22+08:00",
+        "published_ts": 1784726527,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "3589c54460b5",
+        "title": "STAT+: ‘Cochlear implant for blindness’ debuts in Europe, could launch in U.S. in 2027",
+        "link": "https://www.statnews.com/2026/07/22/prima-retinal-implant-for-macular-degeneration-us-timeline",
+        "summary": "Science Corporation announced the European launch of its retinal implant for patients with age-related macular degeneration.",
+        "source": "STAT · Health Tech",
+        "lang": "en",
+        "published": "2026-07-22T10:00+08:00",
+        "published_ts": 1784685600,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "8fe2ab785116",
+        "title": "Opinion: STAT+: Hospitals’ AI may be drifting. Who’s watching?",
+        "link": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance",
+        "summary": "Senior leaders must treat AI governance as their own daily job, not something the technology committee handles quarterly, write Peter Pronovost, Justin Norden, and Kedar Mate.",
+        "source": "STAT · Health Tech",
+        "lang": "en",
+        "published": "2026-07-22T08:30+08:00",
+        "published_ts": 1784680200,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "48ea2a1f9437",
+        "title": "Is there an exodus underway at Epic?",
+        "link": "https://www.statnews.com/2026/07/21/is-there-an-exodus-underway-at-epic-health-tech",
+        "summary": "In this edition of STAT Health Tech: executive departures at Epic Systems, new CEO takes over at Nabla, and more health tech news.",
+        "source": "STAT · Health Tech",
+        "lang": "en",
+        "published": "2026-07-21T13:43+08:00",
+        "published_ts": 1784612623,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "67ef52688235",
+        "title": "STAT+: Nabla’s new CEO on plan to gain market share in a competitive AI scribe environment",
+        "link": "https://www.statnews.com/2026/07/21/ai-scribe-nabla-new-ceo-plan-gain-marketshare",
+        "summary": "Ambient scribe developer Nabla said Brian Manning will be the Paris-based company's new CEO as it looks to grow in a highly competitive market.",
+        "source": "STAT · Health Tech",
+        "lang": "en",
+        "published": "2026-07-21T12:00+08:00",
+        "published_ts": 1784606400,
+        "category": "ai_health_product"
+      }
+    ],
+    "ai_health_research": [
+      {
+        "id": "e8279df0d960",
+        "title": "Shaping the future of cancer screening with artificial intelligence-empowered multi-cancer early detection",
+        "link": "https://www.nature.com/articles/s41746-026-03047-w",
+        "summary": "npj Digital Medicine, Published online: 22 July 2026; doi:10.1038/s41746-026-03047-w Shaping the future of cancer screening with artificial intelligence-empowered multi-cancer early detection",
+        "source": "npj Digital Medicine",
+        "lang": "en",
+        "published": "2026-07-22T00:00+08:00",
+        "published_ts": 1784649600,
+        "category": "ai_health_research"
+      },
+      {
+        "id": "b1019a59a721",
+        "title": "Video observed therapy (VOT) for people with tuberculosis (TB): a scoping review",
+        "link": "https://www.nature.com/articles/s41746-026-03049-8",
+        "summary": "npj Digital Medicine, Published online: 22 July 2026; doi:10.1038/s41746-026-03049-8 Video observed therapy (VOT) for people with tuberculosis (TB): a scoping review",
+        "source": "npj Digital Medicine",
+        "lang": "en",
+        "published": "2026-07-22T00:00+08:00",
+        "published_ts": 1784649600,
+        "category": "ai_health_research"
+      },
+      {
+        "id": "7d60abf38efb",
+        "title": "Can Laws Be Flexible? Rethinking Legislation for Innovation",
+        "link": "https://www.nature.com/articles/s41746-026-02846-5",
+        "summary": "npj Digital Medicine, Published online: 22 July 2026; doi:10.1038/s41746-026-02846-5 Agile legislation adapts principles from agile software development to lawmaking, emphasizing iteration, multi-stakeholder feedback, and embedded revision. We outline this lea…",
+        "source": "npj Digital Medicine",
+        "lang": "en",
+        "published": "2026-07-22T00:00+08:00",
+        "published_ts": 1784649600,
+        "category": "ai_health_research"
+      },
+      {
+        "id": "da52b19acd75",
+        "title": "Large language models for interpretation of health checkup results",
+        "link": "https://www.nature.com/articles/s41746-026-02467-y",
+        "summary": "npj Digital Medicine, Published online: 22 July 2026; doi:10.1038/s41746-026-02467-y Large language models for interpretation of health checkup results",
+        "source": "npj Digital Medicine",
+        "lang": "en",
+        "published": "2026-07-22T00:00+08:00",
+        "published_ts": 1784649600,
+        "category": "ai_health_research"
+      },
+      {
+        "id": "510494d667c3",
+        "title": "Large-scale bilateral cardiovascular monitoring via wearable rings",
+        "link": "https://www.nature.com/articles/s41746-026-03036-z",
+        "summary": "npj Digital Medicine, Published online: 21 July 2026; doi:10.1038/s41746-026-03036-z Large-scale bilateral cardiovascular monitoring via wearable rings",
+        "source": "npj Digital Medicine",
+        "lang": "en",
+        "published": "2026-07-21T00:00+08:00",
+        "published_ts": 1784563200,
+        "category": "ai_health_research"
+      },
+      {
+        "id": "7f9ab0fded26",
+        "title": "Real-world deployment of remote sleep monitoring technologies reveals distinct patterns associated with cognitive decline",
+        "link": "https://www.nature.com/articles/s41746-026-02964-0",
+        "summary": "npj Digital Medicine, Published online: 21 July 2026; doi:10.1038/s41746-026-02964-0 Real-world deployment of remote sleep monitoring technologies reveals distinct patterns associated with cognitive decline",
+        "source": "npj Digital Medicine",
+        "lang": "en",
+        "published": "2026-07-21T00:00+08:00",
+        "published_ts": 1784563200,
+        "category": "ai_health_research"
+      },
+      {
+        "id": "36f0f6d1eddd",
+        "title": "Developer evidence and user satisfaction in mental health apps across China and the United States",
+        "link": "https://www.nature.com/articles/s41746-026-03026-1",
+        "summary": "npj Digital Medicine, Published online: 21 July 2026; doi:10.1038/s41746-026-03026-1 Developer evidence and user satisfaction in mental health apps across China and the United States",
+        "source": "npj Digital Medicine",
+        "lang": "en",
+        "published": "2026-07-21T00:00+08:00",
+        "published_ts": 1784563200,
+        "category": "ai_health_research"
+      }
+    ]
+  }
+}
