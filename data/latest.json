@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:17+08:00",
+  "generated_at": "2026-07-23T16:23+08:00",
   "window_start": "2026-07-20T00:00+08:00",
   "window_end": "2026-07-23T00:00+08:00",
   "category_labels": {
@@ -8,9 +8,9 @@
     "ai_health_research": "AI 医疗健康研究"
   },
   "counts": {
-    "ai_product": 106,
-    "ai_health_product": 88,
-    "ai_health_research": 48
+    "ai_product": 105,
+    "ai_health_product": 90,
+    "ai_health_research": 49
   },
   "items": {
     "ai_product": [
@@ -37,14 +37,14 @@
         "category": "ai_product"
       },
       {
-        "id": "0d157b4355f5",
+        "id": "9f0db055d14e",
         "title": "智能体改变今年WAIC叙事主线，底层大模型之争持续上演 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRjdoeVdvZzIwR3NSUjExRUhIanlocl9ZdnNqcDJEUGVnSmlOcVZzVXJPTThlWGw0ZVZ5MVloNUQ2TWdnWnNXdDZNVFNJS2RVSFlYaktNRmVMWUJCM1ZFNmZXRUNLRmN2U3prc3V6SFgyRTRpSl9VbEltNWdvU1JuOU1fSzl3cVRQRzctaDVwVUY1bUs1dHZ4dUtEQW1LY1ZEZU1WaXkxQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUENNUy1BVkhyNS14ZmJJMlY4X09xOUlpSkxfVlgzV1MyaXFyck1YMWVCWWpINGQwbmVkck9jc2Zad2NqOTU5dnRzTVhNMGNSYW5PWFJENzNjQ2lVU0g0Sm9ERmREZ29QQzd4emZlQ0xzX01iczFpQlQ2cXFVUDhCcERoY2RWM00?oc=5",
         "summary": "智能体改变今年WAIC叙事主线，底层大模型之争持续上演 新浪财经",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
-        "published": "2026-07-22T22:39+08:00",
-        "published_ts": 1784731140,
+        "published": "2026-07-22T23:22+08:00",
+        "published_ts": 1784733750,
         "category": "ai_product"
       },
       {
@@ -323,6 +323,17 @@
         "category": "ai_product"
       },
       {
+        "id": "14f072d2189c",
+        "title": "从AI眼镜到AI Agent，BleeqUp 在 WAIC 首次公开长期战略 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wbmdXSFhtTElOaEc1d0d3MGNoT0dtU3hhYmh3VXpVM05BTTFuX2RJdkdqWWI5dnNDaW5OakhvdVpzcTNGQkFud3FtQndpVE1VTzU0Z29NdUYyTWRZa3RiNElNcTh2QVM5ZVpGNw?oc=5",
+        "summary": "从AI眼镜到AI Agent，BleeqUp 在 WAIC 首次公开长期战略 中华网",
+        "source": "Google 新闻·AI Agent",
+        "lang": "zh",
+        "published": "2026-07-22T10:15+08:00",
+        "published_ts": 1784686520,
+        "category": "ai_product"
+      },
+      {
         "id": "c214f2ed5149",
         "title": "恶意插件100%得手！伯克利、UIUC和NUS等给智能体做了次安全体检 - 智源社区",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vZ3BMT3RwTTU3SjFxaFlXZnIxbFMzWWV4SnNJV25vMkRuQ3dTQW50QktpUDItck9NYTJpSHpSTUNUSE44ZkdSTQ?oc=5",
@@ -375,6 +386,17 @@
         "lang": "zh",
         "published": "2026-07-22T07:25+08:00",
         "published_ts": 1784676356,
+        "category": "ai_product"
+      },
+      {
+        "id": "3a0ccf66ac6a",
+        "title": "持续深化人工智能法治研究 中国政法大学发布多项研究成果 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdTBFaFpzZ3FRRUxaY0dWUkktc1U1VFJ3R0E2dTFWcFNqeDVxMnVEQU1Va2tOWGZZQjA4bkdxQU83LUJNYkZiT0V6SmV3R3ZxcGNzNGVibVZoeGpSYUdZTmVMeVg5YXduNDEzZS1CQmRkZHo1cjJXcVVvRWp6QQ?oc=5",
+        "summary": "持续深化人工智能法治研究 中国政法大学发布多项研究成果 新浪网",
+        "source": "Google 新闻·AI 产品",
+        "lang": "zh",
+        "published": "2026-07-22T03:11+08:00",
+        "published_ts": 1784661119,
         "category": "ai_product"
       },
       {
@@ -441,6 +463,17 @@
         "lang": "zh",
         "published": "2026-07-21T18:00+08:00",
         "published_ts": 1784628000,
+        "category": "ai_product"
+      },
+      {
+        "id": "67ff4f2ba98d",
+        "title": "百万Token仅需数元：算力租赁价格下行，AI大模型应用成本门槛降低 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jOVNKVmNwV09YQ0FTaTBrcTY0aVFJcmhNSWI2OURzR0ptX1d3VVZPcWJETEFtMUVySDdKWFYteHlkWnpEYzlsdExFU3FNR3NJUHVMbg?oc=5",
+        "summary": "百万Token仅需数元：算力租赁价格下行，AI大模型应用成本门槛降低 第一财经",
+        "source": "Google 新闻·大模型",
+        "lang": "zh",
+        "published": "2026-07-21T17:35+08:00",
+        "published_ts": 1784626514,
         "category": "ai_product"
       },
       {
@@ -664,17 +697,6 @@
         "category": "ai_product"
       },
       {
-        "id": "95225727789c",
-        "title": "启明创投周志峰：AI算力需求和大模型迭代超预期、应用低于预期 - 财新",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQ3hMWndrd1lhSERqRlI0RlVnYTRtZUlnNVJnai05azZDZmZ4SHViUFRFREVKUE5VWkhKWDlzZTNWR3ZkLU1pT3JWQlgxaklIWWZMcXNtUHZvNFh1c0RTQlR0UDFGSE0?oc=5",
-        "summary": "启明创投周志峰：AI算力需求和大模型迭代超预期、应用低于预期 财新",
-        "source": "Google 新闻·大模型",
-        "lang": "zh",
-        "published": "2026-07-21T09:15+08:00",
-        "published_ts": 1784596500,
-        "category": "ai_product"
-      },
-      {
         "id": "cdab8b3c4a1e",
         "title": "三步部署、30分钟跑通Agent：英伟达将AI智能体装进了桌面工作站 - 华尔街见闻",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xSDJmQklheTB1Q1d4UlVtdk5XV05GTWVHUElIT0xMX1hneThCaEVvZWVfTzlMMmRQU0pNZDZwUXNXaEJWQ1FOUXN4cVFuQTZKRVcw?oc=5",
@@ -741,6 +763,17 @@
         "category": "ai_product"
       },
       {
+        "id": "d075c8e9dc5c",
+        "title": "海康威视WAIC 2026：海康观澜大模型体系亮相 加速AI落地物理世界 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wbUNqREstRElyNEJURHl4TU4ySHl6RWprMnVaaHNSZWgxenZYcVNRRFpRekQwRC1ISlZ6N0poWmxDc2VRUmFaZ1h1MzFZb0YwWlZHWk5YLVBpWTQ5RkZWdHBn?oc=5",
+        "summary": "海康威视WAIC 2026：海康观澜大模型体系亮相 加速AI落地物理世界 手机网易网",
+        "source": "Google 新闻·大模型",
+        "lang": "zh",
+        "published": "2026-07-20T19:20+08:00",
+        "published_ts": 1784546420,
+        "category": "ai_product"
+      },
+      {
         "id": "65a796644a06",
         "title": "WAIC观察 | 大模型之后，趣丸科技打造AI应用新范式 - 手机网易网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QTHFzY1lOdnI2SHRMXzlySHQ2bnJhTURiSzFiaXpZbE5RdmhCZkFwUklkMmotRUg2cnJfT05idG1DRmtYQnFBQ3NQd00zSnBIVUUzVlV5RklwSkt6dTctLVlB?oc=5",
@@ -753,9 +786,9 @@
       },
       {
         "id": "2ef41d195798",
-        "title": "AI 公司，集体走进视频播客 - 36 Kr",
+        "title": "AI 公司，集体走进视频播客 - 36Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tcDA3LXlDOHRZcnpTbnpYMzFyMXZNUkUtU282QUYyd1cxXzRrUVBmYV85ZzFFUjJfWC1WSG83bVdZaXF0amREMFA1V3ZCdw?oc=5",
-        "summary": "AI 公司，集体走进视频播客 36 Kr",
+        "summary": "AI 公司，集体走进视频播客 36Kr",
         "source": "Google 新闻·AI 产品",
         "lang": "zh",
         "published": "2026-07-20T18:50+08:00",
@@ -771,17 +804,6 @@
         "lang": "zh",
         "published": "2026-07-20T17:52+08:00",
         "published_ts": 1784541120,
-        "category": "ai_product"
-      },
-      {
-        "id": "20be5bf3ef50",
-        "title": "AI智能体发动网络攻击？Hugging Face平台中招了 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUJZSjRTUC1xVVlLM0JlTlBjTDZCbVV0ek1uVXFmbDVFWTBqVWx1MV9VUFhCQkNxMlA3U0JfQTJDejlkb0o5ZVFibzE3WGZRSVp6RndBNHN3S2ExTk1qdnB5RzQwUVpEdW1BTjdIM1VjY3NBZmVHUDFXaHZDZFduNElyYXlYUDBsOHZUeWNidUJ4Zw?oc=5",
-        "summary": "AI智能体发动网络攻击？Hugging Face平台中招了 新浪财经",
-        "source": "Google 新闻·AI Agent",
-        "lang": "zh",
-        "published": "2026-07-20T17:35+08:00",
-        "published_ts": 1784540148,
         "category": "ai_product"
       },
       {
@@ -928,9 +950,9 @@
         "category": "ai_product"
       },
       {
-        "id": "eb29dbc8e2a5",
+        "id": "cb63f46f8c03",
         "title": "此芯科技Danny Zhang：全球首款智能体专用CPU，是怎样炼成的？ - 智东西",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qaXZuN2FzN0xhOVdJRHhVZTdMeFRzWkpMNnFibGZQbkF0SEhMSGJGc1JJQXlMNFVDTm1LNGtWb2xyeXM3ZFRxaA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9YRmNGZlpMaUhnQ2VFeWdUUWFBM2w1ck5rVEVDcXhJa0RuSjVTOHRZUm9kY3hHdVpqdEViTU16NWxfUks3VXc?oc=5",
         "summary": "此芯科技Danny Zhang：全球首款智能体专用CPU，是怎样炼成的？ 智东西",
         "source": "Google 新闻·AI Agent",
         "lang": "zh",
@@ -991,17 +1013,6 @@
         "lang": "zh",
         "published": "2026-07-20T10:55+08:00",
         "published_ts": 1784516100,
-        "category": "ai_product"
-      },
-      {
-        "id": "f75e0d71f8f2",
-        "title": "2026世界人工智能大会：智能体带来新机遇，行业共绘“AI实践图景” - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTHpOZTV0UV9pRWFRZlBnNmtJMWRqQVJCeGVQcTJ2VWcxa1ZiTC1GSFA1MkxZektqb3pPUXlBU09GUnprcmExcUNhNm5jNUg3SkhXUVBkZTRacW15ZzlVTFdvaEJuSmx2NGR5R0lQdV9yVnQ2ZEFxRFJNVUNNZXlqejJHZDkzNUtzRmdVT0lBQU0tbDdrOVB3WVk4QzR4ZzNwQ1A0MVBUeXQyaXhTMkwwdVpSdkJadThLYy05cEYyVFhiYlotRmJacjV2cHVUU3VYb2x2Yw?oc=5",
-        "summary": "2026世界人工智能大会：智能体带来新机遇，行业共绘“AI实践图景” 新浪财经",
-        "source": "Google 新闻·AI Agent",
-        "lang": "zh",
-        "published": "2026-07-20T10:52+08:00",
-        "published_ts": 1784515920,
         "category": "ai_product"
       },
       {
@@ -1137,17 +1148,6 @@
         "category": "ai_product"
       },
       {
-        "id": "ce67a2ba1019",
-        "title": "Agent支付时代加速到来！WAIC现场直击：一句话完成消费支付，重构企业跨境资金链路 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeGQ2dGlhUGZ6X0htby1PVHFoNTJaQnMtWlp6a05sYnhSUVpLaElhekpuNVpLd1czak9vR3Y5LUplU3FkVDNjeW9hS2ZERUhMOGtQTXpGZVpWSENscjZHRFotYTF6RHRjMkdudDZhVWZpUHhwVlF2NXAyVXZqZGdQNTY0eDRHWi0zM0N5bDdYX2hrc2RORnZ6TndmRXVMU3h1M1g5RUxyM05oMlo5NlY5TUdBNVEwWkZwbmUweE5xUU02cDlmZUdmdVVuWUpZQlAtUDFJaVJ5dU02VTF0Skx4YmVIOENrTlJvUmMzaTdsVHVUcTFtUlBnVHRKbTNLcm9uUktSTHgyMDBkX3B4cmJLZDJVSHVURjRMRVByX0Zfc3RXUnphTkFoMWU5QQ?oc=5",
-        "summary": "Agent支付时代加速到来！WAIC现场直击：一句话完成消费支付，重构企业跨境资金链路 新浪财经",
-        "source": "Google 新闻·AI Agent",
-        "lang": "zh",
-        "published": "2026-07-20T03:50+08:00",
-        "published_ts": 1784490619,
-        "category": "ai_product"
-      },
-      {
         "id": "4e1e4af86ede",
         "title": "对话｜腾讯云副总裁吴运声：企业Token账本不能只用价格高低判断 - 蓝鲸财经",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoWkhHOGg4YUpmX1AzVUJLeTIzcG5qN3U5VHd3TmV6NktOSVhXWlFNM2l6M3dWUTZkSnhsdjJKNFp4WFIyRjVfd2NqY1MtR3ZtZTNPTUE4a2dsMmM?oc=5",
@@ -1156,17 +1156,6 @@
         "lang": "zh",
         "published": "2026-07-20T03:22+08:00",
         "published_ts": 1784488920,
-        "category": "ai_product"
-      },
-      {
-        "id": "3e080377aaf8",
-        "title": "推动工业自动化工程迈向“智能体驱动”，西门子面向中国市场首发工程智能体 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2Nfb2s2UWRybTVBVm92VTE5V0xsSlVkbjdtcC1BeEFxNUwyUVlHcjdad0lobWEySVMyTGR4LXhmUEM5dERvX2F0YkFRRE1wQzBYaDN3eUF5dWNaUlVyWHJ1MWhtLUh5RGFuV1BLZy1Ib0VJaGljc0xTV0FCNHlURXJ2WVBhRE0?oc=5",
-        "summary": "推动工业自动化工程迈向“智能体驱动”，西门子面向中国市场首发工程智能体 新浪财经",
-        "source": "Google 新闻·AI Agent",
-        "lang": "zh",
-        "published": "2026-07-20T01:17+08:00",
-        "published_ts": 1784481448,
         "category": "ai_product"
       },
       {
@@ -1183,14 +1172,14 @@
     ],
     "ai_health_product": [
       {
-        "id": "0dcd9db122f5",
-        "title": "科大讯飞发布星火Token Factory - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BdzVGa3p5NWVydEowNWVMMFdsUGFsRlFUZ05jelB2UGhQRzlDcUJFMEprTEpLLXNsN2NnU1RqUEhnaEZQNVJNNDFKUDd6QzlmOVZtazhZNjZVZmtXMTB3?oc=5",
-        "summary": "科大讯飞发布星火Token Factory 东方财富",
-        "source": "Google 新闻·大模型",
+        "id": "d6a4c9d86082",
+        "title": "让大模型理解真实医疗视频，全球首个开源技术方案来了！ - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPRFpzLV93RFZZU2lfYmpnX2JDTFVPdXpqRC1ZVllPQlBwdHEyMTlOOWp1bmo2WUJycHhuOXJFbXJ5U1FNdkpFeU9UbG1LaXN0cDFxVjlSenpLTnlBbXlsZkN1THpHbDZ5RWhrZTA4eWI5TWQ4bkk5a0dXR0dfVjZBQ28tZ2E2dFFMMzZZM1FqUzlHQTFkM0Jac0hlcnZtWlRsTTI1eGdKV1VDMG40M1I2bldSRkM4SXdjaWgyTE44X25CSk1iRllXSG84MmJ0amFPSjh4ZDlQT2FjaENKM01hMGtFU1F1MXF4NlpkQmtCN28xTnJ2MHoxNVZ4cm5YNml5cFRXaVNzbGVaMC1Tb0k5RkhFVEM3VWphYVBTWFg2aXpWbGpqWGpQbFI2ZDloZ3BRLVdicWpUbl9PM1VJYlNCSjhvYTF0Sll3ODJ5S0hsbDAtdnRULWlpZG5EU1lmQ1FqTGs3amhtLWtqcHFYMGgyVDNQYW90Y0hPa2xwVUl0VmVmb2QyVWZFRUcxaUo4eTZBd1Ntbml0enJMQXBya3k2aVlQcUg3N01WT2c?oc=5",
+        "summary": "让大模型理解真实医疗视频，全球首个开源技术方案来了！ 新浪网",
+        "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-22T23:41+08:00",
-        "published_ts": 1784734888,
+        "published": "2026-07-22T22:48+08:00",
+        "published_ts": 1784731689,
         "category": "ai_health_product"
       },
       {
@@ -1513,14 +1502,14 @@
         "category": "ai_health_product"
       },
       {
-        "id": "ffe717fd5fca",
-        "title": "医疗级AI数据模型引擎沐松科技完成天使轮融资，布局具身智能医疗场景数据集 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zZXBmdTJHeXJNVlVVYThKNzY4NnptYnNBcEdiSlRZRENYeEpHR2hpSVVFS2o3TGF5Xzh5ZnIzbkFrWE8zRlZCckg4RDBEU3EzTC0tQ1ctald4WHlsS1NEZXlrdGRneUl4UkxScFNCQ1ZZQUtkNHk0RUdZUjNndw?oc=5",
-        "summary": "医疗级AI数据模型引擎沐松科技完成天使轮融资，布局具身智能医疗场景数据集 新浪财经",
+        "id": "4e8f9427da8d",
+        "title": "医疗级AI数据模型引擎沐松科技完成天使轮融资，布局具身智能医疗场景数据集 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LclpsYjVCb1ZTako4TUtZM1U0SU5tQTFLUmhqck9HUjhIMi1GT0FzTFNYazAwU2d6MThqWXJkQ1pRSUQ1ZFpyS3BDNXpOdlhlTUlzUEJEMm5IeHJIWkltb0dB?oc=5",
+        "summary": "医疗级AI数据模型引擎沐松科技完成天使轮融资，布局具身智能医疗场景数据集 手机网易网",
         "source": "Google 新闻·大模型医疗",
         "lang": "zh",
-        "published": "2026-07-21T22:48+08:00",
-        "published_ts": 1784645334,
+        "published": "2026-07-21T22:49+08:00",
+        "published_ts": 1784645342,
         "category": "ai_health_product"
       },
       {
@@ -1565,6 +1554,17 @@
         "lang": "zh",
         "published": "2026-07-21T19:33+08:00",
         "published_ts": 1784633636,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "9bc4b5ecd755",
+        "title": "AI赋能生命健康全链条革新—产业领袖共探人工智能驱动医疗创新新路径 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lMktkeEtUeG5OZ2NIWmNwZDFCM1ZBUVo4WVhFRDRhR251c0JRb0pQY3NfUjBVNTZZdGp3M0RvUFRELW1pZDl1cXp5ZkRKazZmbkNTaXNWY1BaQlVsekpVYy1xeGgzaFZPSWRGSg?oc=5",
+        "summary": "AI赋能生命健康全链条革新—产业领袖共探人工智能驱动医疗创新新路径 中华网",
+        "source": "Google 新闻·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-07-21T19:22+08:00",
+        "published_ts": 1784632974,
         "category": "ai_health_product"
       },
       {
@@ -1821,6 +1821,17 @@
         "category": "ai_health_product"
       },
       {
+        "id": "ffbb203de444",
+        "title": "具身大模型在零售药房与酒店洗烘两大场景中能如何应用？ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWx3WjRhc1pwcDNEeE8xeFlBSmV1YTloVktiaGxmbTU3SjRDY1A1aFE0NUVyeEszUWZ2bzlKSW8tU0J2ZGl2eVRxS3U3ZGJFMEFUeFdfbDU3cEhqZDM1dkdRYms1NXE5S3VCb2Joa2lHT2hhMlE0NGktNFExeHlVa09mbUpNajhuaHY5OHM3RXo4bGNkMkdRZW5WM25VemNkU1pnclMwbw?oc=5",
+        "summary": "具身大模型在零售药房与酒店洗烘两大场景中能如何应用？ 新浪财经",
+        "source": "Google 新闻·大模型",
+        "lang": "zh",
+        "published": "2026-07-21T02:41+08:00",
+        "published_ts": 1784572863,
+        "category": "ai_health_product"
+      },
+      {
         "id": "889ea9239dad",
         "title": "一分钟，你能说出多少种水果？直击WAIC，20分钟预测痴呆风险 - 手机网易网",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14UWp6RjE1U29TaGtfNkc2X3hzQWNQS2cydGFVaC1ISkhNcUdhU3djNG8xT0VrMDhGMzY2ZGFzeUN4aTkzeko1VDZnS2c4QmtGZXlMX0tudWVuSmU5TGoxc1I4cEs1MWwwYjl0RWtMa3g1S0pPNlB2eXZyQkc?oc=5",
@@ -1943,9 +1954,9 @@
       },
       {
         "id": "f513695e49f1",
-        "title": "“AI吃AI会完蛋”是伪命题，真正的产品风险是缺乏数据纠错机制 - 36 Kr",
+        "title": "“AI吃AI会完蛋”是伪命题，真正的产品风险是缺乏数据纠错机制 - 36Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TR2ZkZFR5Q2Nzd1M0WWhTM0hyTVg3N1lTQjdhMGFXdS1RR0hkR0tqZVNtV1dzalp4c1ltZ0NONms3V014Q1dOSXk5RWt2dw?oc=5",
-        "summary": "“AI吃AI会完蛋”是伪命题，真正的产品风险是缺乏数据纠错机制 36 Kr",
+        "summary": "“AI吃AI会完蛋”是伪命题，真正的产品风险是缺乏数据纠错机制 36Kr",
         "source": "Google 新闻·AI 医疗产品",
         "lang": "zh",
         "published": "2026-07-20T18:45+08:00",
@@ -1994,17 +2005,6 @@
         "lang": "zh",
         "published": "2026-07-20T15:06+08:00",
         "published_ts": 1784531180,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "60481482af62",
-        "title": "具身大模型在零售药房与酒店洗烘两大场景中能如何应用？ - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOV1I3eTZqTDZCa2dJazB0cWJNLWp1MUpMcGs1aExjX3lsdWlXNHM0SldYeFRPRW5FYmZZbEZvR2w2clltYmMteHV2Z3JsYUlqcWFfdC1XZ0lpVExhLVVkZGtvTlZOS0Q0a3gzU3NHd1VFRHliWk1TRGVPSXVRLTVNNTFvVjNtaVFTb3NCY2MwOW9IamYtRXhYSlhMbzg1cDM2YVFRZnl4SE9vQ3Y5LTRsSGdBME5lcWQwcF94STU5X1B3V1c0VFJzTlV6Yi1YQmsxaV9wTTZxVDVFcU0tazNYelRPMDMwUTM5MlZHZkt2U1Mta0pFbW9MZzUtbVdwdURsWEh2QzZRVTQxQlBGVjlyNlRnVXlkMDA2UjdramY5akMyUHQ1ZkwxZVRkS3dwRXNyN051bW8wY1RGLUZmRExyUkNFWHJ4ejgtWU5oMUJ4aUdLLXFYbkhldmhzel9KQUdKWUNPZnlrYkhVbVBZdVZRVXBmQURqeWdWRmwyZi0yUmNJMElZTGhkVTBGRU00elYxZ2xONkpJY3BUMW50VmlmSFhrR0YwRmFQZGpQOXZreEtIc0VkR1dYOXBPeXpjUTE1S1JjV3dwUzN2WkJMSGNhenkyQzVaTVAydUIyTnJoeEd3aGNPNU9Ib0k3ZWJyUkpzeHpiUEdVVWhvY09ET3diaE4tcTNka0ZGOXFaS1VkbjRiUlR5bWlGQlZuQUdQdjgydnlMS2xCaEpjVHNWSnRFM09Qb1BKZWljOTVlelpaX2FRQ3NVdFFFb2NoSm4zRlNiT3hUT1VGcjVqY3Z4Nkk1R0pBY1NzLTc2bW1xVXhvamxRZw?oc=5",
-        "summary": "具身大模型在零售药房与酒店洗烘两大场景中能如何应用？ 新浪财经",
-        "source": "Google 新闻·大模型",
-        "lang": "zh",
-        "published": "2026-07-20T15:00+08:00",
-        "published_ts": 1784530800,
         "category": "ai_health_product"
       },
       {
@@ -2071,6 +2071,17 @@
         "lang": "zh",
         "published": "2026-07-20T12:49+08:00",
         "published_ts": 1784522940,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "ccc07dde6261",
+        "title": "多模态大模型重塑医疗边界 产业加速共探“元医院”数智路径 - qq.com",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55SXdQTE02Zm4zbnhFMmRjLTNsYkRfTTU2Vm1raUt6Y1QwVzJ5U0taVWFYdjR6YW9lUERkeEE5R3M3ZTdhUW1xQm9xZDF1UE0xdzhab2E1bw?oc=5",
+        "summary": "多模态大模型重塑医疗边界 产业加速共探“元医院”数智路径 qq.com",
+        "source": "Google 新闻·大模型医疗",
+        "lang": "zh",
+        "published": "2026-07-20T12:14+08:00",
+        "published_ts": 1784520840,
         "category": "ai_health_product"
       },
       {
@@ -2152,6 +2163,17 @@
       }
     ],
     "ai_health_research": [
+      {
+        "id": "6178f99a7719",
+        "title": "基于异构多源临床与地理数据的人工智能常见呼吸道病原体风险预测模型：一项建模研究 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaR0k0TjYtbTloVzd5V085eVJsNmV3QnRvWEM2RnEwRDNGbXM5ZEVPcXhqQ0VLTHlkV0I2bGRvNWpZZjhpTGZKYlpfd18talF3Y0h4MFR2YnFrcU5hZGFrb01iQ2ZGWWtYZzZIQw?oc=5",
+        "summary": "基于异构多源临床与地理数据的人工智能常见呼吸道病原体风险预测模型：一项建模研究 生物通",
+        "source": "Google 新闻·AI 临床研究",
+        "lang": "zh",
+        "published": "2026-07-22T23:47+08:00",
+        "published_ts": 1784735246,
+        "category": "ai_health_research"
+      },
       {
         "id": "9b1b6ebf0955",
         "title": "美国宣布投入50亿美元，利用AI攻克慢性病、加速药物研发等 - 凤凰网科技",
@@ -2362,17 +2384,6 @@
         "category": "ai_health_research"
       },
       {
-        "id": "9bc4b5ecd755",
-        "title": "AI赋能生命健康全链条革新—产业领袖共探人工智能驱动医疗创新新路径 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lMktkeEtUeG5OZ2NIWmNwZDFCM1ZBUVo4WVhFRDRhR251c0JRb0pQY3NfUjBVNTZZdGp3M0RvUFRELW1pZDl1cXp5ZkRKazZmbkNTaXNWY1BaQlVsekpVYy1xeGgzaFZPSWRGSg?oc=5",
-        "summary": "AI赋能生命健康全链条革新—产业领袖共探人工智能驱动医疗创新新路径 中华网",
-        "source": "Google 新闻·AI 临床研究",
-        "lang": "zh",
-        "published": "2026-07-21T19:22+08:00",
-        "published_ts": 1784632974,
-        "category": "ai_health_research"
-      },
-      {
         "id": "615553c6094e",
         "title": "以AI突破药物研发“死亡之谷” 太美医疗科技CSO陈杰博士专著全球发行 - 新浪网",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PcDNfbUZZRVhqaWdCYU40NUNaSDM0V1dtY2NKS2pwT3BhTjlWNnZtNXljVFFOUUMweW8wdVo0QU1NOG51MmdnNE51ejBLbzNyV0RWTE1mMXhpeFdNWGl0eEYySFU3cnRlNnhLcVZ0cmhrNWxteC1UekIybFhUREU?oc=5",
@@ -2550,9 +2561,9 @@
       },
       {
         "id": "5dad9f2b3a89",
-        "title": "教皇发布首份AI通谕：4万字10个观点，AI焦虑被说透了 - 36 Kr",
+        "title": "教皇发布首份AI通谕：4万字10个观点，AI焦虑被说透了 - 36Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4OU04REpJMjlkNGZyS0ZLbUo2aVhja0k5QjZ3M2huWU1UYXNqdFotM25DRFo5VnJ6TU9SRGgwb2ljaU41UHlESmtkWldqQQ?oc=5",
-        "summary": "教皇发布首份AI通谕：4万字10个观点，AI焦虑被说透了 36 Kr",
+        "summary": "教皇发布首份AI通谕：4万字10个观点，AI焦虑被说透了 36Kr",
         "source": "Google 新闻·AI 医学研究",
         "lang": "zh",
         "published": "2026-07-21T02:40+08:00",
@@ -2678,6 +2689,17 @@
         "lang": "zh",
         "published": "2026-07-20T10:20+08:00",
         "published_ts": 1784514031,
+        "category": "ai_health_research"
+      },
+      {
+        "id": "e0da4a39e47a",
+        "title": "专访德勤孙晓臻:AI医疗从“尝鲜”到“刚需”，还有多远?_21世纪经济报道 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqcFRBXy05NDAtbTdnci1qWlhHSUgxcE9qbXEtWUdBTncwbmg5STlzaExBb2tDbWhmam14dkNwMUYzNHNsNC1zUFAzNXpwZklmd2pTcjBqQ3lUd2xpeHo1dktUWGlScVFfMXpqcXRLZnV1Z3JJVXBRTmpnb1JheW8?oc=5",
+        "summary": "专访德勤孙晓臻:AI医疗从“尝鲜”到“刚需”，还有多远?_21世纪经济报道 新浪财经",
+        "source": "Google 新闻·AI 药物研发",
+        "lang": "zh",
+        "published": "2026-07-20T00:54+08:00",
+        "published_ts": 1784480099,
         "category": "ai_health_research"
       }
     ]
