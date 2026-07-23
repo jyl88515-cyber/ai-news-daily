@@ -33,12 +33,14 @@ from sources import (  # noqa: E402
     FEEDS,
     CATEGORY_LABELS,
     CATEGORY_ORDER,
+    EXTENDED_WINDOW_CATS,
     is_ai_topic,
     is_health_topic,
     is_gov,
     is_hospital_head,
     is_funding,
-    is_project,
+    is_bidding,
+    is_competitor,
 )
 import summarize  # noqa: E402
 
@@ -210,35 +212,40 @@ def build_item(entry, feed_meta, pub_dt: datetime) -> dict:
 def classify(item: dict, feed_meta: dict) -> str | None:
     """按内容关键词判定最终分类；返回 None 表示丢弃。
 
-    留存条件：条目必须包含 AI 关键词；除卫健委/院长讲话类外，还需命中医疗关键词。
+    优先级：卫健委 > 院长 > 竞品 > 招投标 > 融资 > 产品(兜底)。
+    所有条目要求 AI 关键词命中；除卫健委/院长/竞品外，还要求医疗关键词命中。
     """
     text = f"{item['title']} {item['summary']}"
 
-    # 所有条目都要求 AI 命中
+    # 所有条目都要求 AI 命中（讲话 & 竞品也是聚焦 AI 视角）
     if not is_ai_topic(text):
         return None
 
-    # 1) 卫健委讲话（最高优先级）
+    # 1) 卫健委讲话
     if is_gov(text):
         return "ai_health_gov_speech"
 
-    # 2) 院长讲话（AI 已命中，只需院长主体）
+    # 2) 院长讲话
     if is_hospital_head(text):
         return "ai_hospital_speech"
 
-    # 其余分类都要求医疗关键词命中
+    # 3) 竞品分析（命中任一公司名 或 源本身就是竞品源）
+    if is_competitor(text) or feed_meta.get("category") == "competitor_analysis":
+        return "competitor_analysis"
+
+    # 其余分类要求医疗关键词命中
     if not is_health_topic(text):
         return None
 
-    # 3) 投融资
+    # 4) 招投标项目
+    if is_bidding(text):
+        return "ai_health_project"
+
+    # 5) 投融资
     if is_funding(text):
         return "ai_health_funding"
 
-    # 4) 项目 / 研究
-    if is_project(text):
-        return "ai_health_project"
-
-    # 5) 兜底：产品
+    # 6) 兜底：产品
     return "ai_health_product"
 
 
@@ -246,19 +253,24 @@ def run(days: int) -> dict:
     now_cst = datetime.now(CST)
     # 窗口：过去 N 天的 00:00 至 今天 00:00 (CST)
     today_start = now_cst.replace(hour=0, minute=0, second=0, microsecond=0)
-    window_start = today_start - timedelta(days=days)
     window_end = today_start
-    # 讲话类事件低频，允许更长窗口
-    speech_window_start = today_start - timedelta(days=max(days, 14))
+    default_start = today_start - timedelta(days=days)
 
-    print(f"Window (CST): {window_start.isoformat()} ~ {window_end.isoformat()}")
-    print(f"Speech window: {speech_window_start.isoformat()} ~ {window_end.isoformat()}")
+    # 每个分类的窗口起点（低频事件用更长窗口）
+    cat_windows: dict[str, datetime] = {}
+    for cat in CATEGORY_LABELS:
+        d = EXTENDED_WINDOW_CATS.get(cat, days)
+        cat_windows[cat] = today_start - timedelta(days=max(d, days))
+    # 全局最宽窗口（先粗筛条目）
+    widest_start = min(cat_windows.values())
+
+    print(f"Default window (CST): {default_start.isoformat()} ~ {window_end.isoformat()}")
+    for cat, start in cat_windows.items():
+        print(f"  [{cat}] {start.date()} ~ {window_end.date()}")
     print(f"LLM summary: {'ON' if summarize.enabled() else 'off'}")
 
     buckets: dict[str, list[dict]] = {k: [] for k in CATEGORY_LABELS}
     seen: set[str] = set()
-
-    speech_cats = {"ai_hospital_speech", "ai_health_gov_speech"}
 
     for meta in FEEDS:
         print(f"[feed] {meta['name']}  ({meta['url'][:80]})")
@@ -272,8 +284,8 @@ def run(days: int) -> dict:
             if not pub:
                 continue
             pub_cst = pub.astimezone(CST)
-            # 先按最宽松窗口过滤，具体分类的窗口在后面二次校验
-            if pub_cst < speech_window_start or pub_cst >= window_end:
+            # 先按最宽窗口粗筛
+            if pub_cst < widest_start or pub_cst >= window_end:
                 continue
 
             item = build_item(e, meta, pub)
@@ -286,8 +298,8 @@ def run(days: int) -> dict:
             if not final_cat:
                 continue
 
-            # 二次窗口校验：非讲话类必须落在 [window_start, window_end)
-            if final_cat not in speech_cats and pub_cst < window_start:
+            # 二次窗口校验：条目必须落在该分类允许的窗口内
+            if pub_cst < cat_windows[final_cat]:
                 continue
 
             seen.add(item["id"])
@@ -303,7 +315,7 @@ def run(days: int) -> dict:
     # 解码 Google News 跳转链接为真实原文链接
     resolve_google_links(buckets)
 
-    # 按最终链接再次去重（解码后可能有跨源重复）
+    # 按最终链接再次去重
     for k in buckets:
         seen_links: set[str] = set()
         deduped = []
