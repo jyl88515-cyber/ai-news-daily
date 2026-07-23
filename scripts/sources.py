@@ -21,6 +21,8 @@ def _gnews(q: str, days: int = 7) -> str:
 COMPETITORS = [
     "讯飞医疗",
     "蚂蚁阿福",
+    "蚂蚁保健康",
+    "支付宝医疗健康",
     "腾讯健康",
     "左手医生",
     "惠每科技",
@@ -33,20 +35,24 @@ COMPETITORS = [
     "医渡科技",
     "惠每医疗",
     "AntGroup 阿福",
+    "蚂蚁集团 医疗",
+    "支付宝 健康",
 ]
 
 # 每条：url, name, category(源默认分类，仅供参考), lang
 # 真正的分类由 fetch_news.classify() 按内容关键词决定。
 FEEDS = [
     # ---------- 竞品分析（每家公司一个查询，窗口 7 天） ----------
-    {"url": _gnews("讯飞医疗", 7),   "name": "GN·讯飞医疗",   "category": "competitor_analysis", "lang": "zh"},
-    {"url": _gnews("蚂蚁阿福", 7),   "name": "GN·蚂蚁阿福",   "category": "competitor_analysis", "lang": "zh"},
-    {"url": _gnews("腾讯健康", 7),   "name": "GN·腾讯健康",   "category": "competitor_analysis", "lang": "zh"},
-    {"url": _gnews("左手医生", 7),   "name": "GN·左手医生",   "category": "competitor_analysis", "lang": "zh"},
-    {"url": _gnews("惠每科技", 7),   "name": "GN·惠每科技",   "category": "competitor_analysis", "lang": "zh"},
-    {"url": _gnews("京东健康 AI", 7),"name": "GN·京东健康",   "category": "competitor_analysis", "lang": "zh"},
-    {"url": _gnews("医渡云", 7),     "name": "GN·医渡云",     "category": "competitor_analysis", "lang": "zh"},
-    {"url": _gnews("医渡科技", 7),   "name": "GN·医渡科技",   "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("讯飞医疗", 7),       "name": "GN·讯飞医疗",       "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("蚂蚁阿福", 7),       "name": "GN·蚂蚁阿福",       "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("蚂蚁保健康", 7),     "name": "GN·蚂蚁保健康",     "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("支付宝 医疗健康", 7),"name": "GN·支付宝医疗健康", "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("腾讯健康", 7),       "name": "GN·腾讯健康",       "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("左手医生", 7),       "name": "GN·左手医生",       "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("惠每科技", 7),       "name": "GN·惠每科技",       "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("京东健康 AI", 7),    "name": "GN·京东健康",       "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("医渡云", 7),         "name": "GN·医渡云",         "category": "competitor_analysis", "lang": "zh"},
+    {"url": _gnews("医渡科技", 7),       "name": "GN·医渡科技",       "category": "competitor_analysis", "lang": "zh"},
 
     # ---------- AI 医疗健康产品 ----------
     {"url": _gnews("AI 医疗 产品"),        "name": "GN·AI 医疗产品",    "category": "ai_health_product", "lang": "zh"},
