@@ -26,6 +26,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -46,8 +48,17 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "chore(data): daily refresh $(date -u +%F)"
-          git push
+          if git diff --cached --quiet; then
+            echo "No data changes."
+            exit 0
+          fi
+          git commit -m "chore(data): daily refresh $(date -u +%F)"
+          # 并发运行可能导致 non-fast-forward，重试并总是保留我们最新的数据
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X ours origin main && git push && break
+            echo "push retry $i…"
+            sleep $((i*3))
+          done
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
