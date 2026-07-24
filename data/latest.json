@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T10:01+08:00",
+  "generated_at": "2026-07-24T10:03+08:00",
   "window_start": "2026-07-21T00:00+08:00",
   "window_end": "2026-07-24T00:00+08:00",
   "category_labels": {
@@ -19,10 +19,10 @@
     "ai_health_gov_speech"
   ],
   "counts": {
-    "competitor_analysis": 84,
-    "ai_health_product": 67,
+    "competitor_analysis": 83,
+    "ai_health_product": 62,
     "ai_health_project": 1,
-    "ai_health_funding": 7,
+    "ai_health_funding": 6,
     "ai_hospital_speech": 8,
     "ai_health_gov_speech": 3
   },
@@ -205,6 +205,17 @@
         "category": "competitor_analysis"
       },
       {
+        "id": "8366f0aaa969",
+        "title": "直击WAIC：逛“AI Home”，看京东如何让AI走进物理世界 - 经济参考报",
+        "link": "http://jjckb.xinhuanet.com/20260721/feef9a55d6a644d0981ada7c2a520e68/c.html",
+        "summary": "直击WAIC：逛“AI Home”，看京东如何让AI走进物理世界 经济参考报",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-07-21T21:55+08:00",
+        "published_ts": 1784642152,
+        "category": "competitor_analysis"
+      },
+      {
         "id": "fbe9ae094a2d",
         "title": "从自主可控底座到高价值场景，科大讯飞跑通AI价值飞轮 - 搜狐网",
         "link": "https://m.sohu.com/a/1052984003_135869?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
@@ -216,9 +227,9 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "7cfdaac4a11b",
+        "id": "d48ff1832cbb",
         "title": "打通科研、临床与产业壁垒医渡科技(2158.HK)联合复旦中山、肥胖诊疗联盟发布全周期减重智能体|港E声 - 时代在线",
-        "link": "https://time-weekly.com/post/331209",
+        "link": "https://www.time-weekly.com/post/331209",
         "summary": "打通科研、临床与产业壁垒医渡科技(2158.HK)联合复旦中山、肥胖诊疗联盟发布全周期减重智能体|港E声 时代在线",
         "source": "GN·医渡科技",
         "lang": "zh",
@@ -462,7 +473,7 @@
         "title": "蚂蚁集团在WAIC展示三层AI布局 - 上观新闻",
         "link": "https://www.jfdaily.com/journal/getMobileArticle.htm?id=522862",
         "summary": "蚂蚁集团在WAIC展示三层AI布局 上观新闻",
-        "source": "GN·支付宝医疗健康",
+        "source": "GN·蚂蚁阿福",
         "lang": "zh",
         "published": "2026-07-19T14:13+08:00",
         "published_ts": 1784441601,
@@ -865,17 +876,6 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "0a1cfebabd60",
-        "title": "从阿福、阿宝到AI支付，蚂蚁集团亮出智能体商业时代“组合拳” - 新浪财经",
-        "link": "https://finance.sina.cn/stock/jdts/2026-07-17/detail-iniiccuy4161834.d.html?oid=%E7%9A%87%E5%86%A0%E4%BF%A1%E8%AA%89%E7%9B%98%E8%B6%B3%E7%90%83%E5%B9%B3%E5%8F%B0%E5%87%BA%E7%A7%9F%E2%94%84Telegram:hga158%E2%94%84Hb5w&vt=4",
-        "summary": "从阿福、阿宝到AI支付，蚂蚁集团亮出智能体商业时代“组合拳” 新浪财经",
-        "source": "GN·蚂蚁阿福",
-        "lang": "zh",
-        "published": "2026-07-17T15:00+08:00",
-        "published_ts": 1784271600,
-        "category": "competitor_analysis"
-      },
-      {
         "id": "a98b656ad086",
         "title": "京东健康携最新全场景AI成果亮相2026世界人工智能大会 - 东方财富",
         "link": "https://wap.eastmoney.com/a/202607203813535941.html",
@@ -940,17 +940,6 @@
         "published": "2026-07-17T10:15+08:00",
         "published_ts": 1784254522,
         "category": "competitor_analysis"
-      },
-      {
-        "id": "8e6077da55ad",
-        "title": "逛“AI Home”，看京东如何让AI走进物理世界 - shobserver.com",
-        "link": "https://www.shobserver.com/news/detail?id=1145721",
-        "summary": "逛“AI Home”，看京东如何让AI走进物理世界 shobserver.com",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-07-17T10:10+08:00",
-        "published_ts": 1784254200,
-        "category": "competitor_analysis"
       }
     ],
     "ai_health_product": [
@@ -988,14 +977,14 @@
         "category": "ai_health_product"
       },
       {
-        "id": "5515b3c08c51",
-        "title": "专业临床AI工具加速普及，下一道门槛是什么|言叶知新 - 新浪财经",
-        "link": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniivayy9379223.shtml",
-        "summary": "专业临床AI工具加速普及，下一道门槛是什么|言叶知新 新浪财经",
+        "id": "bff68a69664a",
+        "title": "专业临床AI工具加速普及，下一道门槛是什么|言叶知新 - 手机网易网",
+        "link": "https://www.163.com/dy/article/L2I1UHD60519DDQ2.html",
+        "summary": "专业临床AI工具加速普及，下一道门槛是什么|言叶知新 手机网易网",
         "source": "GN·AI 医生应用",
         "lang": "zh",
-        "published": "2026-07-23T19:58+08:00",
-        "published_ts": 1784807880,
+        "published": "2026-07-23T20:00+08:00",
+        "published_ts": 1784808018,
         "category": "ai_health_product"
       },
       {
@@ -1018,17 +1007,6 @@
         "lang": "zh",
         "published": "2026-07-23T17:50+08:00",
         "published_ts": 1784800241,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "26f9315d7789",
-        "title": "从联合国到乌镇，心扁鹊领跑AI中医全球化健康治理_行业动态 - 投资界",
-        "link": "https://news.pedaily.cn/20260723/134848.shtml",
-        "summary": "从联合国到乌镇，心扁鹊领跑AI中医全球化健康治理_行业动态 投资界",
-        "source": "GN·AI 医疗投资",
-        "lang": "zh",
-        "published": "2026-07-23T17:16+08:00",
-        "published_ts": 1784798160,
         "category": "ai_health_product"
       },
       {
@@ -1058,21 +1036,10 @@
         "title": "从联合国到乌镇，心扁鹊领跑AI中医全球化健康治理 - 中华网",
         "link": "https://mtz.china.com/touzi/2026/0723/251579.html",
         "summary": "从联合国到乌镇，心扁鹊领跑AI中医全球化健康治理 中华网",
-        "source": "GN·卫健委医疗 AI",
+        "source": "GN·院长谈 AI",
         "lang": "zh",
         "published": "2026-07-23T15:19+08:00",
         "published_ts": 1784791174,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "b08be98e0050",
-        "title": "以AI为智能伙伴，共筑健康未来 - 搜狐网",
-        "link": "https://www.sohu.com/a/1053786604_120244154",
-        "summary": "以AI为智能伙伴，共筑健康未来 搜狐网",
-        "source": "GN·大模型医疗落地",
-        "lang": "zh",
-        "published": "2026-07-23T13:32+08:00",
-        "published_ts": 1784784769,
         "category": "ai_health_product"
       },
       {
@@ -1164,22 +1131,11 @@
         "category": "ai_health_product"
       },
       {
-        "id": "ae3a4d0fb533",
-        "title": "数据筑基 场景牵引 “人工智能+”让“我的健康我掌握”成为现实 - 搜狐网",
-        "link": "https://www.sohu.com/a/1053531241_355475",
-        "summary": "数据筑基 场景牵引 “人工智能+”让“我的健康我掌握”成为现实 搜狐网",
-        "source": "GN·卫健委 AI",
-        "lang": "zh",
-        "published": "2026-07-22T21:05+08:00",
-        "published_ts": 1784725500,
-        "category": "ai_health_product"
-      },
-      {
         "id": "9b3dd21e6232",
         "title": "数据筑基 场景牵引 “人工智能+”让“我的健康我掌握”成为现实 - 搜狐网",
         "link": "https://www.sohu.com/a/1053531241_355475?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
         "summary": "数据筑基 场景牵引 “人工智能+”让“我的健康我掌握”成为现实 搜狐网",
-        "source": "GN·卫健委智慧医疗",
+        "source": "GN·卫健委 AI",
         "lang": "zh",
         "published": "2026-07-22T21:05+08:00",
         "published_ts": 1784725500,
@@ -1252,17 +1208,6 @@
         "category": "ai_health_product"
       },
       {
-        "id": "e8e9c9bbf566",
-        "title": "AI“看片”靠谱吗?药监局拟规范医疗AI辅助诊断边界 - 新浪财经",
-        "link": "https://t.cj.sina.cn/articles/view/7880068235/1d5b04c8b01902djb0?from=tech",
-        "summary": "AI“看片”靠谱吗?药监局拟规范医疗AI辅助诊断边界 新浪财经",
-        "source": "GN·AI 医疗器械",
-        "lang": "zh",
-        "published": "2026-07-22T12:29+08:00",
-        "published_ts": 1784694595,
-        "category": "ai_health_product"
-      },
-      {
         "id": "2c609056326b",
         "title": "AI智能看病与人类医生看病的差异探析 - 新浪财经",
         "link": "https://t.cj.sina.cn/articles/view/7879923015/1d5ae154701901gaii?from=tech",
@@ -1329,6 +1274,17 @@
         "category": "ai_health_product"
       },
       {
+        "id": "b0f107475a04",
+        "title": "中国平安亮相世界人工智能大会，发布医疗、保险、支付领域最新AI成果 - AgeClub",
+        "link": "https://www.ageclub.net/article-detail/9981",
+        "summary": "中国平安亮相世界人工智能大会，发布医疗、保险、支付领域最新AI成果 AgeClub",
+        "source": "GN·AI 医疗融资",
+        "lang": "zh",
+        "published": "2026-07-22T08:56+08:00",
+        "published_ts": 1784681811,
+        "category": "ai_health_product"
+      },
+      {
         "id": "3856905fd36f",
         "title": "综述：儿科神经影像学中的人工智能 - 生物通",
         "link": "https://www.ebiotrade.com/newsf/2026-7/20260722001044459.htm",
@@ -1359,17 +1315,6 @@
         "lang": "zh",
         "published": "2026-07-22T07:57+08:00",
         "published_ts": 1784678275,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "bf9fe681b80f",
-        "title": "报告：中国临床医护应用AI比例高于全球水平 - 财新",
-        "link": "https://m.caixin.com/m/2026-07-22/102466848.html",
-        "summary": "报告：中国临床医护应用AI比例高于全球水平 财新",
-        "source": "GN·AI 医生应用",
-        "lang": "zh",
-        "published": "2026-07-22T07:30+08:00",
-        "published_ts": 1784676600,
         "category": "ai_health_product"
       },
       {
@@ -1670,17 +1615,6 @@
         "category": "ai_health_product"
       },
       {
-        "id": "243523cdc159",
-        "title": "医疗AI“进化论”：从工具走向伙伴 - 新浪财经",
-        "link": "https://finance.sina.cn/stock/jdts/2026-07-20/detail-iniinfpy9704121.d.html?oid=%E5%9C%A8%E5%93%AA%E9%87%8C%E4%B9%B0%E9%AB%98%E4%BB%BF%E7%9A%84lv%E2%96%81%E5%BE%AE%E4%BF%A1198099199%E2%96%81%E7%88%B1%E9%A9%AC%E4%BB%95%E7%9A%84A%E8%B4%A7%E5%A4%9A%E5%B0%91%E9%92%B1%E2%86%92%E5%BE%AE%E4%BF%A1198099199%E2%86%92%E9%A6%99%E5%A5%88%E5%84%BF%E5%8E%9F%E5%8D%95%E5%8C%85%E5%8C%85%E2%96%88%E5%BE%AE%E4%BF%A1198099199%E2%96%88?2are&vt=4",
-        "summary": "医疗AI“进化论”：从工具走向伙伴 新浪财经",
-        "source": "GN·AI 医疗器械",
-        "lang": "zh",
-        "published": "2026-07-21T02:41+08:00",
-        "published_ts": 1784572889,
-        "category": "ai_health_product"
-      },
-      {
         "id": "335530552b1b",
         "title": "德州大学获巨额投资，打造AI医疗中心与科研新园区 - 手机网易网",
         "link": "https://www.163.com/dy/article/L2AV88RG05568E2X.html",
@@ -1726,17 +1660,6 @@
         "lang": "zh",
         "published": "2026-07-22T18:14+08:00",
         "published_ts": 1784715284,
-        "category": "ai_health_funding"
-      },
-      {
-        "id": "51dc8d8d0d0c",
-        "title": "森亿智慧递表港交所，AI医疗明星的亏损困局 - 新浪财经",
-        "link": "https://cj.sina.cn/articles/view/1733583753/6754638900101cezs",
-        "summary": "森亿智慧递表港交所，AI医疗明星的亏损困局 新浪财经",
-        "source": "GN·医疗 AI 上市",
-        "lang": "zh",
-        "published": "2026-07-22T17:25+08:00",
-        "published_ts": 1784712322,
         "category": "ai_health_funding"
       },
       {
@@ -1819,17 +1742,6 @@
         "category": "ai_hospital_speech"
       },
       {
-        "id": "346b2ad7443e",
-        "title": "美国未来产业研究院院长：中国助力全球人工智能协同发展 - 红星新闻",
-        "link": "https://news.chengdu.cn/2026/0721/6a5f4f512e768511f6b0dceb.shtml",
-        "summary": "美国未来产业研究院院长：中国助力全球人工智能协同发展 红星新闻",
-        "source": "GN·院长谈大模型",
-        "lang": "zh",
-        "published": "2026-07-21T19:51+08:00",
-        "published_ts": 1784634662,
-        "category": "ai_hospital_speech"
-      },
-      {
         "id": "c48952434986",
         "title": "蚂蚁集团研究院院长李振华：让AI模型对齐人类价值伦理 - china.caixin.com",
         "link": "https://china.caixin.com/2026-07-21/102466628.html",
@@ -1838,6 +1750,17 @@
         "lang": "zh",
         "published": "2026-07-21T16:21+08:00",
         "published_ts": 1784622060,
+        "category": "ai_hospital_speech"
+      },
+      {
+        "id": "6550cf2e3621",
+        "title": "总台记者专访丨美国未来产业研究院院长：中国助力全球人工智能协同发展 - 手机网易网",
+        "link": "https://www.163.com/news/article/L2CFMM6V000189FH.html",
+        "summary": "总台记者专访丨美国未来产业研究院院长：中国助力全球人工智能协同发展 手机网易网",
+        "source": "GN·院长谈大模型",
+        "lang": "zh",
+        "published": "2026-07-21T16:05+08:00",
+        "published_ts": 1784621114,
         "category": "ai_hospital_speech"
       },
       {
