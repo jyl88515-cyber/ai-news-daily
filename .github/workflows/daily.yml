@@ -2,8 +2,8 @@ name: Daily AI News
 
 on:
   schedule:
-    # UTC 00:30 == 北京时间 08:30
-    - cron: "30 0 * * *"
+    # UTC 00:17 == 北京时间 08:17（避开整点/半点，减少 GitHub Actions 高负载导致的调度延迟或跳过）
+    - cron: "17 0 * * *"
   workflow_dispatch:
   push:
     branches: [main]
