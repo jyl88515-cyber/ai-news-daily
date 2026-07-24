@@ -62,13 +62,27 @@ FEEDS = [
     {"url": _gnews("AI 医生 应用"),        "name": "GN·AI 医生应用",    "category": "ai_health_product", "lang": "zh"},
 
     # ---------- AI 医疗健康项目（招投标 / 采购 / 中标，窗口 7 天） ----------
-    {"url": _gnews("AI 医疗 招标", 7),        "name": "GN·AI 医疗招标",     "category": "ai_health_project", "lang": "zh"},
-    {"url": _gnews("AI 医院 采购", 7),        "name": "GN·AI 医院采购",     "category": "ai_health_project", "lang": "zh"},
-    {"url": _gnews("医疗 AI 中标", 7),        "name": "GN·医疗 AI 中标",    "category": "ai_health_project", "lang": "zh"},
-    {"url": _gnews("医院信息化 AI 招标", 7),  "name": "GN·医院信息化招标",  "category": "ai_health_project", "lang": "zh"},
-    {"url": _gnews("医疗大模型 招标", 7),     "name": "GN·医疗大模型招标",  "category": "ai_health_project", "lang": "zh"},
-    {"url": _gnews("医院 大模型 采购", 7),    "name": "GN·医院大模型采购",  "category": "ai_health_project", "lang": "zh"},
-    {"url": _gnews("智慧医院 招标", 7),       "name": "GN·智慧医院招标",    "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("AI 医疗 招标", 7),         "name": "GN·AI 医疗招标",     "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("AI 医院 采购", 7),         "name": "GN·AI 医院采购",     "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("医疗 AI 中标", 7),         "name": "GN·医疗 AI 中标",    "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("医院信息化 AI 招标", 7),   "name": "GN·医院信息化招标",  "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("医疗大模型 招标", 7),      "name": "GN·医疗大模型招标",  "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("医院 大模型 采购", 7),     "name": "GN·医院大模型采购",  "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("智慧医院 招标", 7),        "name": "GN·智慧医院招标",    "category": "ai_health_project", "lang": "zh"},
+    # 更多招投标相关表述
+    {"url": _gnews("医院 AI 采购 万元", 7),    "name": "GN·医院 AI 采购金额", "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("医院 大模型 中标金额", 7), "name": "GN·大模型中标金额",  "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("医疗 AI 成交公告", 7),     "name": "GN·医疗 AI 成交",    "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("智慧医院 项目 落地", 7),   "name": "GN·智慧医院落地",    "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("AI 医疗 立项", 7),         "name": "GN·AI 医疗立项",     "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("三甲医院 AI 采购", 7),     "name": "GN·三甲医院 AI",     "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("医院 人工智能 招标 公告", 7), "name": "GN·医院 AI 招标公告", "category": "ai_health_project", "lang": "zh"},
+    # 竞品公司的中标消息（分类会走招投标优先级，进入项目 tab）
+    {"url": _gnews("讯飞医疗 中标", 7),       "name": "GN·讯飞医疗中标",    "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("腾讯健康 中标", 7),       "name": "GN·腾讯健康中标",    "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("医渡科技 中标", 7),       "name": "GN·医渡科技中标",    "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("京东健康 中标", 7),       "name": "GN·京东健康中标",    "category": "ai_health_project", "lang": "zh"},
+    {"url": _gnews("惠每科技 中标", 7),       "name": "GN·惠每科技中标",    "category": "ai_health_project", "lang": "zh"},
 
     # ---------- AI 医疗健康投融资 ----------
     {"url": _gnews("AI 医疗 融资"),        "name": "GN·AI 医疗融资",    "category": "ai_health_funding", "lang": "zh"},
@@ -158,6 +172,8 @@ BIDDING_KEYWORDS = [
     "招标", "投标", "中标", "采购", "招标公告", "成交公告",
     "中标公告", "政府采购", "公开招标", "竞标", "评标", "开标",
     "招投标", "标书", "标的", "预中标", "成交价", "采购项目",
+    "中标金额", "采购金额", "中标结果", "成交金额", "立项",
+    "项目落地", "项目签约", "项目启动", "项目落成",
 ]
 
 

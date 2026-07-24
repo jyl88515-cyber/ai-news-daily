@@ -212,12 +212,12 @@ def build_item(entry, feed_meta, pub_dt: datetime) -> dict:
 def classify(item: dict, feed_meta: dict) -> str | None:
     """按内容关键词判定最终分类；返回 None 表示丢弃。
 
-    优先级：卫健委 > 院长 > 竞品 > 招投标 > 融资 > 产品(兜底)。
+    优先级：卫健委 > 院长 > 招投标 > 竞品 > 融资 > 产品(兜底)。
+    招投标优先于竞品：竞品公司的中标消息更适合放"项目"tab 供统一浏览招投标动态。
     所有条目要求 AI 关键词命中；除卫健委/院长/竞品外，还要求医疗关键词命中。
     """
     text = f"{item['title']} {item['summary']}"
 
-    # 所有条目都要求 AI 命中（讲话 & 竞品也是聚焦 AI 视角）
     if not is_ai_topic(text):
         return None
 
@@ -229,17 +229,17 @@ def classify(item: dict, feed_meta: dict) -> str | None:
     if is_hospital_head(text):
         return "ai_hospital_speech"
 
-    # 3) 竞品分析（命中任一公司名 或 源本身就是竞品源）
+    # 3) 招投标项目（要求医疗上下文）
+    if is_bidding(text) and is_health_topic(text):
+        return "ai_health_project"
+
+    # 4) 竞品分析（命中任一公司名 或 源本身就是竞品源）
     if is_competitor(text) or feed_meta.get("category") == "competitor_analysis":
         return "competitor_analysis"
 
     # 其余分类要求医疗关键词命中
     if not is_health_topic(text):
         return None
-
-    # 4) 招投标项目
-    if is_bidding(text):
-        return "ai_health_project"
 
     # 5) 投融资
     if is_funding(text):
