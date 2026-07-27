@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T18:55+08:00",
+  "generated_at": "2026-07-27T19:54+08:00",
   "window_start": "2026-07-24T00:00+08:00",
   "window_end": "2026-07-27T00:00+08:00",
   "category_labels": {
@@ -19,8 +19,8 @@
     "ai_health_gov_speech"
   ],
   "counts": {
-    "competitor_analysis": 50,
-    "ai_health_product": 34,
+    "competitor_analysis": 47,
+    "ai_health_product": 32,
     "ai_health_project": 2,
     "ai_health_funding": 1,
     "ai_hospital_speech": 9,
@@ -51,17 +51,6 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "9e1913f688c4",
-        "title": "TCL深睡大师空调AWE首发,联合京东共筑AI健康睡眠新生态 - finance.sina.com.cn",
-        "link": "https://t.cj.sina.cn/articles/view/7879777110/1d5abdb5601901uqq4?from=tech",
-        "summary": "TCL深睡大师空调AWE首发,联合京东共筑AI健康睡眠新生态 finance.sina.com.cn",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-07-25T03:50+08:00",
-        "published_ts": 1784922631,
-        "category": "competitor_analysis"
-      },
-      {
         "id": "d0ac73167ff7",
         "title": "向AI生物工艺专家进化，海尔生物超越低温工艺赛道 - 动脉网",
         "link": "https://www.vbdata.cn/1519087208",
@@ -74,9 +63,9 @@
       },
       {
         "id": "8262ec8f7652",
-        "title": "蚂蚁集团张俊杰：期待未来能与成都在AI医疗健康领域合作 - 搜狐网",
+        "title": "蚂蚁集团张俊杰：期待未来能与成都在AI医疗健康领域合作 - Sohu",
         "link": "https://www.sohu.com/a/1054395438_355475?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "蚂蚁集团张俊杰：期待未来能与成都在AI医疗健康领域合作 搜狐网",
+        "summary": "蚂蚁集团张俊杰：期待未来能与成都在AI医疗健康领域合作 Sohu",
         "source": "GN·蚂蚁保健康",
         "lang": "zh",
         "published": "2026-07-24T19:35+08:00",
@@ -118,9 +107,9 @@
       },
       {
         "id": "35b2b2908ef4",
-        "title": "7月AppStore中国免费榜（医疗）TOP100：京东健康 蚂蚁阿福 小荷AI医生 好大夫在线居前10 - 搜狐网",
+        "title": "7月AppStore中国免费榜（医疗）TOP100：京东健康 蚂蚁阿福 小荷AI医生 好大夫在线居前10 - Sohu",
         "link": "https://m.sohu.com/a/1054158221_120491808/?pvid=000115_3w_a&scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "7月AppStore中国免费榜（医疗）TOP100：京东健康 蚂蚁阿福 小荷AI医生 好大夫在线居前10 搜狐网",
+        "summary": "7月AppStore中国免费榜（医疗）TOP100：京东健康 蚂蚁阿福 小荷AI医生 好大夫在线居前10 Sohu",
         "source": "GN·蚂蚁阿福",
         "lang": "zh",
         "published": "2026-07-24T10:47+08:00",
@@ -183,6 +172,17 @@
         "category": "competitor_analysis"
       },
       {
+        "id": "33029ee76247",
+        "title": "让AI长出Office 金山办公“灵犀”智能体不止于对话 - finance.sina.com.cn",
+        "link": "https://t.cj.sina.cn/articles/view/7879849146/1d5acf4ba01901haku?from=tech",
+        "summary": "让AI长出Office 金山办公“灵犀”智能体不止于对话 finance.sina.com.cn",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-07-23T14:00+08:00",
+        "published_ts": 1784786424,
+        "category": "competitor_analysis"
+      },
+      {
         "id": "4aecbaa05d71",
         "title": "以AI为智能伙伴，共筑健康未来 - shobserver.cn",
         "link": "https://www.shobserver.cn/news/detail?id=1149280",
@@ -227,6 +227,17 @@
         "category": "competitor_analysis"
       },
       {
+        "id": "fa3455a603d8",
+        "title": "中国平安亮相世界人工智能大会发布医疗、保险、支付领域最新AI成果 - finance.sina.com.cn",
+        "link": "https://t.cj.sina.cn/articles/view/7517400647/1c0126e4705908vgec",
+        "summary": "中国平安亮相世界人工智能大会发布医疗、保险、支付领域最新AI成果 finance.sina.com.cn",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-07-23T00:00+08:00",
+        "published_ts": 1784736000,
+        "category": "competitor_analysis"
+      },
+      {
         "id": "1d489560365d",
         "title": "#别再给AI乱传文件了#搞笑，手机个人隐私，相册都被一堆app读取，你还在乎这个吗？ ​ - 手机新浪网",
         "link": "https://www.sina.cn/news/detail/5323622990217939.html",
@@ -250,9 +261,9 @@
       },
       {
         "id": "7e4e756512b3",
-        "title": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 - 搜狐网",
+        "title": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 - Sohu",
         "link": "https://m.sohu.com/a/1053534660_120823584/?pvid=000115_3w_a&scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 搜狐网",
+        "summary": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 Sohu",
         "source": "GN·大模型医疗落地",
         "lang": "zh",
         "published": "2026-07-22T21:36+08:00",
@@ -261,9 +272,9 @@
       },
       {
         "id": "a61e6e66c7d4",
-        "title": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 - 搜狐网",
+        "title": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 - Sohu",
         "link": "https://www.sohu.com/a/1053534660_120823584?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 搜狐网",
+        "summary": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 Sohu",
         "source": "GN·讯飞医疗中标",
         "lang": "zh",
         "published": "2026-07-22T21:36+08:00",
@@ -349,24 +360,13 @@
       },
       {
         "id": "8193101f6ffb",
-        "title": "京东如何打造具身智能 让AI走进物理世界 - 搜狐网",
+        "title": "京东如何打造具身智能 让AI走进物理世界 - Sohu",
         "link": "https://m.sohu.com/a/1053192142_120044912?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "京东如何打造具身智能 让AI走进物理世界 搜狐网",
+        "summary": "京东如何打造具身智能 让AI走进物理世界 Sohu",
         "source": "GN·京东健康",
         "lang": "zh",
         "published": "2026-07-22T08:39+08:00",
         "published_ts": 1784680740,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "d0353141feab",
-        "title": "WAIC 2026医疗观察：三类影像AI同台亮相，平台型方案打开增长新空间 - 手机网易网",
-        "link": "https://www.163.com/dy/article/L2E6MB9805118K9D.html",
-        "summary": "WAIC 2026医疗观察：三类影像AI同台亮相，平台型方案打开增长新空间 手机网易网",
-        "source": "GN·讯飞医疗",
-        "lang": "zh",
-        "published": "2026-07-22T08:06+08:00",
-        "published_ts": 1784678775,
         "category": "competitor_analysis"
       },
       {
@@ -404,9 +404,9 @@
       },
       {
         "id": "26a68f06924b",
-        "title": "张坤首次建仓两只AI股，直言市场像1999年互联网泡沫 - finance.sina.com.cn",
+        "title": "张坤首次建仓两只AI股，直言市场像1999年互联网泡沫 - 新浪财经",
         "link": "https://finance.sina.com.cn/wm/2026-07-21/doc-iniiqkpa8201565.shtml",
-        "summary": "张坤首次建仓两只AI股，直言市场像1999年互联网泡沫 finance.sina.com.cn",
+        "summary": "张坤首次建仓两只AI股，直言市场像1999年互联网泡沫 新浪财经",
         "source": "GN·京东健康",
         "lang": "zh",
         "published": "2026-07-21T17:03+08:00",
@@ -513,17 +513,6 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "85ec09bbe820",
-        "title": "打通科研、临床与产业壁垒 医渡科技(02158.HK)联合复旦中山、肥胖诊疗联盟发布全周期减重智能体 - 搜狐网",
-        "link": "https://www.sohu.com/a/1052805137_122123195",
-        "summary": "打通科研、临床与产业壁垒 医渡科技(02158.HK)联合复旦中山、肥胖诊疗联盟发布全周期减重智能体 搜狐网",
-        "source": "GN·医渡科技",
-        "lang": "zh",
-        "published": "2026-07-21T11:00+08:00",
-        "published_ts": 1784602832,
-        "category": "competitor_analysis"
-      },
-      {
         "id": "ff9ee8ab8ebf",
         "title": "AI应用WAIC“抢跑”：热闹是真，但差异化是假 - thepaper.cn",
         "link": "https://m.thepaper.cn/newsDetail_forward_33623311",
@@ -554,28 +543,6 @@
         "lang": "zh",
         "published": "2026-07-20T19:59+08:00",
         "published_ts": 1784548794,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "61caf9fb9d55",
-        "title": "京东健康App下载第一|京东健康app|减重活动|700万用户|线上云监督|ai助手|科学健康瘦身_新浪新闻 - 手机新浪网",
-        "link": "https://www.sina.cn/news/detail/5322834773805213.html",
-        "summary": "京东健康App下载第一|京东健康app|减重活动|700万用户|线上云监督|ai助手|科学健康瘦身_新浪新闻 手机新浪网",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-07-20T19:16+08:00",
-        "published_ts": 1784546160,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "b63512425dc6",
-        "title": "昆仑健康保险携手丽景社区，共启“AI+中医”健康主题客服节 - 手机网易网",
-        "link": "https://www.163.com/dy/article/L2A7T22G0514R9KE.html",
-        "summary": "昆仑健康保险携手丽景社区，共启“AI+中医”健康主题客服节 手机网易网",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-07-20T19:10+08:00",
-        "published_ts": 1784545826,
         "category": "competitor_analysis"
       }
     ],
@@ -658,28 +625,6 @@
         "category": "ai_health_product"
       },
       {
-        "id": "96b19032d837",
-        "title": "AI推动医疗行业数智化发展，未来医生会被AI淘汰吗，院士们亮明观点 - QQ News",
-        "link": "https://news.qq.com/rain/a/20260726A04OP500",
-        "summary": "AI推动医疗行业数智化发展，未来医生会被AI淘汰吗，院士们亮明观点 QQ News",
-        "source": "GN·院长谈 AI",
-        "lang": "zh",
-        "published": "2026-07-26T10:17+08:00",
-        "published_ts": 1785032220,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "81accbb6bcc5",
-        "title": "AI推动医疗行业数智化发展，未来医生会被AI淘汰吗，院士们亮明观点 - 搜狐网",
-        "link": "https://m.sohu.com/a/1054873891_121627717?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "AI推动医疗行业数智化发展，未来医生会被AI淘汰吗，院士们亮明观点 搜狐网",
-        "source": "GN·AI 医生应用",
-        "lang": "zh",
-        "published": "2026-07-26T10:14+08:00",
-        "published_ts": 1785032094,
-        "category": "ai_health_product"
-      },
-      {
         "id": "40372b949444",
         "title": "中医“岐元大模型”发布，开启名医诊疗思维数字孪生与经验传承新模式 - shobserver.cn",
         "link": "https://www.shobserver.cn/news/detail?id=1150451",
@@ -725,9 +670,9 @@
       },
       {
         "id": "02df2a71920e",
-        "title": "AI健康硬件迈向主动干预：服务闭环如何成立？ - 虎嗅",
+        "title": "AI健康硬件迈向主动干预：服务闭环如何成立？ - 虎嗅网",
         "link": "https://www.huxiu.com/article/4878127.html",
-        "summary": "AI健康硬件迈向主动干预：服务闭环如何成立？ 虎嗅",
+        "summary": "AI健康硬件迈向主动干预：服务闭环如何成立？ 虎嗅网",
         "source": "GN·AI 医疗产品",
         "lang": "zh",
         "published": "2026-07-25T16:13+08:00",
@@ -736,9 +681,9 @@
       },
       {
         "id": "65305cf94624",
-        "title": "开局之年看中国丨中国眼谷的眼科“AI医生” 首诊准确率超八成 - 搜狐网",
+        "title": "开局之年看中国丨中国眼谷的眼科“AI医生” 首诊准确率超八成 - Sohu",
         "link": "https://m.sohu.com/a/1054593447_121627717?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "开局之年看中国丨中国眼谷的眼科“AI医生” 首诊准确率超八成 搜狐网",
+        "summary": "开局之年看中国丨中国眼谷的眼科“AI医生” 首诊准确率超八成 Sohu",
         "source": "GN·AI 医生应用",
         "lang": "zh",
         "published": "2026-07-25T11:11+08:00",
@@ -747,9 +692,9 @@
       },
       {
         "id": "ece6d842d819",
-        "title": "万怡医学亮相2026世界人工智能大会：以全场景AI服务赋能“健康中国” - finance.sina.com.cn",
+        "title": "万怡医学亮相2026世界人工智能大会：以全场景AI服务赋能“健康中国” - 新浪财经",
         "link": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyptt1432497.shtml",
-        "summary": "万怡医学亮相2026世界人工智能大会：以全场景AI服务赋能“健康中国” finance.sina.com.cn",
+        "summary": "万怡医学亮相2026世界人工智能大会：以全场景AI服务赋能“健康中国” 新浪财经",
         "source": "GN·医疗 AI 上市",
         "lang": "zh",
         "published": "2026-07-25T09:58+08:00",
@@ -779,22 +724,11 @@
         "category": "ai_health_product"
       },
       {
-        "id": "ead05fc5cfd9",
-        "title": "WAIC2026重磅发布｜上海仪电承建运营的上海市卫生健康行业算力服务中心正式揭牌启用 - finance.sina.com.cn",
-        "link": "https://finance.sina.com.cn/wm/2026-07-24/doc-iniixfxy9330371.shtml",
-        "summary": "WAIC2026重磅发布｜上海仪电承建运营的上海市卫生健康行业算力服务中心正式揭牌启用 finance.sina.com.cn",
-        "source": "GN·大模型医疗落地",
-        "lang": "zh",
-        "published": "2026-07-24T20:03+08:00",
-        "published_ts": 1784894580,
-        "category": "ai_health_product"
-      },
-      {
         "id": "84e3c7d79de2",
-        "title": "WAIC2026重磅发布｜上海仪电承建运营的上海市卫生健康行业算力服务中心正式揭牌启用 - finance.sina.com.cn",
+        "title": "WAIC2026重磅发布｜上海仪电承建运营的上海市卫生健康行业算力服务中心正式揭牌启用 - 新浪财经",
         "link": "https://finance.sina.com.cn/wm/2026-07-24/doc-iniixfxy9330371.shtml?froms=ggmp",
-        "summary": "WAIC2026重磅发布｜上海仪电承建运营的上海市卫生健康行业算力服务中心正式揭牌启用 finance.sina.com.cn",
-        "source": "GN·卫健委医疗 AI",
+        "summary": "WAIC2026重磅发布｜上海仪电承建运营的上海市卫生健康行业算力服务中心正式揭牌启用 新浪财经",
+        "source": "GN·大模型医疗落地",
         "lang": "zh",
         "published": "2026-07-24T20:03+08:00",
         "published_ts": 1784894580,
@@ -908,6 +842,17 @@
         "lang": "zh",
         "published": "2026-07-24T15:04+08:00",
         "published_ts": 1784876658,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "4972d838726d",
+        "title": "一周3家三甲医院，磅策HAIRO植发机器人多地接连落地，AI植发加速“破圈” - eeo.com.cn",
+        "link": "http://m.eeo.com.cn/2026/0724/972275.shtml",
+        "summary": "一周3家三甲医院，磅策HAIRO植发机器人多地接连落地，AI植发加速“破圈” eeo.com.cn",
+        "source": "GN·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-07-24T13:35+08:00",
+        "published_ts": 1784871300,
         "category": "ai_health_product"
       },
       {
@@ -1039,9 +984,9 @@
       },
       {
         "id": "22919bf5800f",
-        "title": "北京通用人工智能研究院院长朱松纯：AI行业少不了文科生 - 搜狐网",
+        "title": "北京通用人工智能研究院院长朱松纯：AI行业少不了文科生 - Sohu",
         "link": "https://www.sohu.com/a/1053196638_114760",
-        "summary": "北京通用人工智能研究院院长朱松纯：AI行业少不了文科生 搜狐网",
+        "summary": "北京通用人工智能研究院院长朱松纯：AI行业少不了文科生 Sohu",
         "source": "GN·院长讲话 AI",
         "lang": "zh",
         "published": "2026-07-22T09:02+08:00",
