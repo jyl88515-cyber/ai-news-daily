@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T09:55+08:00",
+  "generated_at": "2026-07-28T15:48+08:00",
   "window_start": "2026-07-25T00:00+08:00",
   "window_end": "2026-07-28T00:00+08:00",
   "category_labels": {
@@ -19,8 +19,8 @@
     "ai_health_gov_speech"
   ],
   "counts": {
-    "competitor_analysis": 46,
-    "ai_health_product": 35,
+    "competitor_analysis": 43,
+    "ai_health_product": 32,
     "ai_health_project": 2,
     "ai_health_funding": 1,
     "ai_hospital_speech": 9,
@@ -28,6 +28,28 @@
   },
   "items": {
     "competitor_analysis": [
+      {
+        "id": "2d913392b816",
+        "title": "惠达×京东全球首发「小京灵」 开启卫浴AI生态新纪元 - finance.sina.com.cn",
+        "link": "https://t.cj.sina.cn/articles/view/7879996635/1d5af34db01901o1sk?from=tech",
+        "summary": "惠达×京东全球首发「小京灵」 开启卫浴AI生态新纪元 finance.sina.com.cn",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-07-27T22:05+08:00",
+        "published_ts": 1785161135,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "c078f4808791",
+        "title": "医渡科技徐济铭出席创新科技大会：离临床工作流越近，AI医疗价值越明确 - 砍柴网",
+        "link": "https://m.ikanchai.com/pcarticle/663647",
+        "summary": "医渡科技徐济铭出席创新科技大会：离临床工作流越近，AI医疗价值越明确 砍柴网",
+        "source": "GN·医疗 AI 上市",
+        "lang": "zh",
+        "published": "2026-07-27T21:48+08:00",
+        "published_ts": 1785160133,
+        "category": "competitor_analysis"
+      },
       {
         "id": "b09d1d9c0761",
         "title": "京东的AI赌注：70万“兄弟”与千亿供应链 - 维科号",
@@ -62,6 +84,17 @@
         "category": "competitor_analysis"
       },
       {
+        "id": "f647dcc2d34f",
+        "title": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互 - finance.sina.com.cn",
+        "link": "https://finance.sina.cn/stock/jdts/2026-07-27/detail-inikezxh8372240.d.html?oid=celine%E9%AB%98%E4%BB%BF%E5%9C%A8%E5%93%AA%E4%B9%B0%EF%BC%9C%E5%BE%AE%E4%BF%A1198099199%EF%BC%9E7GCg&vt=4&cid=76993&node_id=76993",
+        "summary": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互 finance.sina.com.cn",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-07-27T09:06+08:00",
+        "published_ts": 1785114384,
+        "category": "competitor_analysis"
+      },
+      {
         "id": "17e224506587",
         "title": "新突破！北京协和医院联合多家医院完成亚洲首个肺结节AI辅助良恶性鉴别临床试验……一起来听健康早闻！2026年7月27日 - 新浪财经",
         "link": "https://finance.sina.com.cn/wm/2026-07-27/doc-inikevrp3188971.shtml",
@@ -85,9 +118,9 @@
       },
       {
         "id": "d82e697ad3b4",
-        "title": "马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨; Kimi有望最快6个月内港股上市丨AI周报 - QQ News",
+        "title": "马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨; Kimi有望最快6个月内港股上市丨AI周报 - 腾讯新闻",
         "link": "https://news.qq.com/rain/a/20260726A04FV700",
-        "summary": "马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨; Kimi有望最快6个月内港股上市丨AI周报 QQ News",
+        "summary": "马斯克呼吁AI公司携手合作自我审查安全问题，为此可以暂时放下与奥特曼个人恩怨; Kimi有望最快6个月内港股上市丨AI周报 腾讯新闻",
         "source": "GN·京东健康",
         "lang": "zh",
         "published": "2026-07-26T09:51+08:00",
@@ -117,6 +150,17 @@
         "category": "competitor_analysis"
       },
       {
+        "id": "c6487118d427",
+        "title": "千元机语音助手哪家强？京东东东/华为小艺/OPPO AI实测对比，3款不到1500元手机推荐 - finance.sina.com.cn",
+        "link": "https://t.cj.sina.cn/articles/view/7879995959/1d5af323706801v08m",
+        "summary": "千元机语音助手哪家强？京东东东/华为小艺/OPPO AI实测对比，3款不到1500元手机推荐 finance.sina.com.cn",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-07-25T19:11+08:00",
+        "published_ts": 1784977901,
+        "category": "competitor_analysis"
+      },
+      {
         "id": "89d6c2212ef6",
         "title": "AI医疗6月月报：AI诊断与药研资本化提速，医疗智能体加速落地 - ByDrug",
         "link": "https://bydrug.pharmcube.com/report/detail/79427e034d244c64aeaed963067a2fcb",
@@ -125,17 +169,6 @@
         "lang": "zh",
         "published": "2026-07-25T09:03+08:00",
         "published_ts": 1784941397,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "9e1913f688c4",
-        "title": "TCL深睡大师空调AWE首发,联合京东共筑AI健康睡眠新生态 - finance.sina.com.cn",
-        "link": "https://t.cj.sina.cn/articles/view/7879777110/1d5abdb5601901uqq4?from=tech",
-        "summary": "TCL深睡大师空调AWE首发,联合京东共筑AI健康睡眠新生态 finance.sina.com.cn",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-07-25T03:50+08:00",
-        "published_ts": 1784922631,
         "category": "competitor_analysis"
       },
       {
@@ -194,9 +227,9 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "35b2b2908ef4",
+        "id": "db8cd7431956",
         "title": "7月AppStore中国免费榜（医疗）TOP100：京东健康 蚂蚁阿福 小荷AI医生 好大夫在线居前10 - Sohu",
-        "link": "https://m.sohu.com/a/1054158221_120491808/?pvid=000115_3w_a&scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+        "link": "https://www.sohu.com/a/1054158221_120491808?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
         "summary": "7月AppStore中国免费榜（医疗）TOP100：京东健康 蚂蚁阿福 小荷AI医生 好大夫在线居前10 Sohu",
         "source": "GN·蚂蚁阿福",
         "lang": "zh",
@@ -238,17 +271,6 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "33029ee76247",
-        "title": "让AI长出Office 金山办公“灵犀”智能体不止于对话 - finance.sina.com.cn",
-        "link": "https://t.cj.sina.cn/articles/view/7879849146/1d5acf4ba01901haku?from=tech",
-        "summary": "让AI长出Office 金山办公“灵犀”智能体不止于对话 finance.sina.com.cn",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-07-23T14:00+08:00",
-        "published_ts": 1784786424,
-        "category": "competitor_analysis"
-      },
-      {
         "id": "4aecbaa05d71",
         "title": "以AI为智能伙伴，共筑健康未来 - shobserver.cn",
         "link": "https://www.shobserver.cn/news/detail?id=1149280",
@@ -261,9 +283,9 @@
       },
       {
         "id": "130e51eb1fe2",
-        "title": "给大模型造一所“训练营”：腾讯与英矽智能，破局生命科学AI“最后一公里” - QQ News",
+        "title": "给大模型造一所“训练营”：腾讯与英矽智能，破局生命科学AI“最后一公里” - 腾讯新闻",
         "link": "https://news.qq.com/rain/a/20260723A06LJ700",
-        "summary": "给大模型造一所“训练营”：腾讯与英矽智能，破局生命科学AI“最后一公里” QQ News",
+        "summary": "给大模型造一所“训练营”：腾讯与英矽智能，破局生命科学AI“最后一公里” 腾讯新闻",
         "source": "GN·腾讯健康",
         "lang": "zh",
         "published": "2026-07-23T12:03+08:00",
@@ -293,14 +315,14 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "7e4e756512b3",
-        "title": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 - Sohu",
-        "link": "https://m.sohu.com/a/1053534660_120823584/?pvid=000115_3w_a&scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "以AI为智能伙伴 共筑健康未来 讯飞医疗全栈数智方案亮相2026世界人工智能大会 Sohu",
-        "source": "GN·讯飞医疗",
+        "id": "ebd20a60e210",
+        "title": "蚂蚁集团组织了一支「物理AI特工队」：蚂蚁灵波具身路线的优势与困顿 - 手机网易网",
+        "link": "https://www.163.com/dy/article/L2FIBO4L0556MV0F.html",
+        "summary": "蚂蚁集团组织了一支「物理AI特工队」：蚂蚁灵波具身路线的优势与困顿 手机网易网",
+        "source": "GN·支付宝医疗健康",
         "lang": "zh",
-        "published": "2026-07-22T21:36+08:00",
-        "published_ts": 1784727370,
+        "published": "2026-07-22T20:49+08:00",
+        "published_ts": 1784724565,
         "category": "competitor_analysis"
       },
       {
@@ -404,9 +426,9 @@
       },
       {
         "id": "5b810769eb50",
-        "title": "腾讯新闻黄晨霞：跳出效率复制，探索 AIGC 影像的人文新表达 - QQ News",
+        "title": "腾讯新闻黄晨霞：跳出效率复制，探索 AIGC 影像的人文新表达 - 腾讯新闻",
         "link": "https://news.qq.com/rain/a/20260720V097HU00",
-        "summary": "腾讯新闻黄晨霞：跳出效率复制，探索 AIGC 影像的人文新表达 QQ News",
+        "summary": "腾讯新闻黄晨霞：跳出效率复制，探索 AIGC 影像的人文新表达 腾讯新闻",
         "source": "GN·腾讯健康",
         "lang": "zh",
         "published": "2026-07-21T17:35+08:00",
@@ -478,61 +500,6 @@
         "published": "2026-07-21T16:20+08:00",
         "published_ts": 1784622033,
         "category": "competitor_analysis"
-      },
-      {
-        "id": "bb5403232129",
-        "title": "医渡科技联合复旦中山医院等发布减重智能体 - 东方财富",
-        "link": "https://wap.eastmoney.com/a/202607213815483096.html",
-        "summary": "医渡科技联合复旦中山医院等发布减重智能体 东方财富",
-        "source": "GN·医渡科技",
-        "lang": "zh",
-        "published": "2026-07-21T15:15+08:00",
-        "published_ts": 1784618111,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "bed6af5ec137",
-        "title": "京东段楠：AI走向物理世界，竞争不再只是模型之争 - QQ News",
-        "link": "https://news.qq.com/rain/a/20260721A06PZ000",
-        "summary": "京东段楠：AI走向物理世界，竞争不再只是模型之争 QQ News",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-07-21T14:27+08:00",
-        "published_ts": 1784615220,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "d81ed2e53c1b",
-        "title": "医渡科技联合复旦中山、肥胖诊疗联盟发布全周期减重智能体，面向500余家医院推广应用 - 中国日报网",
-        "link": "https://cn.chinadaily.com.cn/a/202607/21/WS6a5f12b8a310d709c2fbec58.html",
-        "summary": "医渡科技联合复旦中山、肥胖诊疗联盟发布全周期减重智能体，面向500余家医院推广应用 中国日报网",
-        "source": "GN·医渡科技",
-        "lang": "zh",
-        "published": "2026-07-21T12:00+08:00",
-        "published_ts": 1784606433,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "85ec09bbe820",
-        "title": "打通科研、临床与产业壁垒 医渡科技(02158.HK)联合复旦中山、肥胖诊疗联盟发布全周期减重智能体 - Sohu",
-        "link": "https://www.sohu.com/a/1052805137_122123195",
-        "summary": "打通科研、临床与产业壁垒 医渡科技(02158.HK)联合复旦中山、肥胖诊疗联盟发布全周期减重智能体 Sohu",
-        "source": "GN·医渡科技",
-        "lang": "zh",
-        "published": "2026-07-21T11:00+08:00",
-        "published_ts": 1784602832,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "ff9ee8ab8ebf",
-        "title": "AI应用WAIC“抢跑”：热闹是真，但差异化是假 - thepaper.cn",
-        "link": "https://m.thepaper.cn/newsDetail_forward_33623311",
-        "summary": "AI应用WAIC“抢跑”：热闹是真，但差异化是假 thepaper.cn",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-07-21T10:12+08:00",
-        "published_ts": 1784599920,
-        "category": "competitor_analysis"
       }
     ],
     "ai_health_product": [
@@ -581,17 +548,6 @@
         "category": "ai_health_product"
       },
       {
-        "id": "cf4abc2f8ffe",
-        "title": "通化金马：公司高度关注AI技术在医药领域的前沿应用 - 东方财富",
-        "link": "https://wap.eastmoney.com/a/202607273822194883.html",
-        "summary": "通化金马：公司高度关注AI技术在医药领域的前沿应用 东方财富",
-        "source": "GN·AI 医药 IPO",
-        "lang": "zh",
-        "published": "2026-07-27T17:05+08:00",
-        "published_ts": 1785143159,
-        "category": "ai_health_product"
-      },
-      {
         "id": "8f3516d4461e",
         "title": "轻松健康集团亮相世界互联网大会数字丝路发展论坛 AI赋能打造可信健康生态 - cb.com.cn",
         "link": "http://www.cb.com.cn/index/show/gszx/cv/cv135324002280",
@@ -603,14 +559,25 @@
         "category": "ai_health_product"
       },
       {
-        "id": "88b282d1a567",
+        "id": "0bfda6e40064",
         "title": "AI重塑床旁诊断：医疗人文关怀如何守护？ - Sohu",
-        "link": "https://www.sohu.com/a/1055356354_114765",
+        "link": "https://m.sohu.com/a/1055356354_114765?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
         "summary": "AI重塑床旁诊断：医疗人文关怀如何守护？ Sohu",
         "source": "GN·AI 影像诊断",
         "lang": "zh",
         "published": "2026-07-27T16:44+08:00",
         "published_ts": 1785141840,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "7fdeac6da7eb",
+        "title": "通化金马：公司高度关注AI技术在医药领域的前沿应用 - 东方财富",
+        "link": "http://finance.eastmoney.com/a/202607273822194883.html",
+        "summary": "通化金马：公司高度关注AI技术在医药领域的前沿应用 东方财富",
+        "source": "GN·AI 医药 IPO",
+        "lang": "zh",
+        "published": "2026-07-27T16:43+08:00",
+        "published_ts": 1785141838,
         "category": "ai_health_product"
       },
       {
@@ -625,9 +592,9 @@
         "category": "ai_health_product"
       },
       {
-        "id": "ed9dcfa7eb46",
+        "id": "615a74dfe7e4",
         "title": "7月27日创新医疗涨停：脑科学，医美，AI医疗概念热股_个股掘金 - 证券之星",
-        "link": "http://stock.stockstar.com/RB2026072700020766.shtml",
+        "link": "https://stock.stockstar.com/RB2026072700020766.shtml",
         "summary": "7月27日创新医疗涨停：脑科学，医美，AI医疗概念热股_个股掘金 证券之星",
         "source": "GN·医疗 AI 成交",
         "lang": "zh",
@@ -655,6 +622,17 @@
         "lang": "zh",
         "published": "2026-07-27T15:43+08:00",
         "published_ts": 1785138213,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "7d81441d9e7b",
+        "title": "海尔生物：从低温工艺龙头到AI生物工艺专家，构筑生物医药新基 - 财经号",
+        "link": "http://mp.cnfol.com/59324/article/1785133494-142592585.html",
+        "summary": "海尔生物：从低温工艺龙头到AI生物工艺专家，构筑生物医药新基 财经号",
+        "source": "GN·医疗 AI 上市",
+        "lang": "zh",
+        "published": "2026-07-27T14:24+08:00",
+        "published_ts": 1785133494,
         "category": "ai_health_product"
       },
       {
@@ -801,17 +779,6 @@
         "category": "ai_health_product"
       },
       {
-        "id": "81accbb6bcc5",
-        "title": "AI推动医疗行业数智化发展，未来医生会被AI淘汰吗，院士们亮明观点 - Sohu",
-        "link": "https://m.sohu.com/a/1054873891_121627717?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "AI推动医疗行业数智化发展，未来医生会被AI淘汰吗，院士们亮明观点 Sohu",
-        "source": "GN·AI 医生应用",
-        "lang": "zh",
-        "published": "2026-07-26T10:14+08:00",
-        "published_ts": 1785032094,
-        "category": "ai_health_product"
-      },
-      {
         "id": "40372b949444",
         "title": "中医“岐元大模型”发布，开启名医诊疗思维数字孪生与经验传承新模式 - shobserver.cn",
         "link": "https://www.shobserver.cn/news/detail?id=1150451",
@@ -831,17 +798,6 @@
         "lang": "zh",
         "published": "2026-07-26T07:50+08:00",
         "published_ts": 1785023408,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "abf2f52d0a15",
-        "title": "太美医疗科技公布2025年全年业绩：新签订单大幅增长36%，AI战略落地提速 - 财联社",
-        "link": "https://www.cls.cn/detail/2330018",
-        "summary": "太美医疗科技公布2025年全年业绩：新签订单大幅增长36%，AI战略落地提速 财联社",
-        "source": "GN·医疗 AI 上市",
-        "lang": "zh",
-        "published": "2026-07-25T23:11+08:00",
-        "published_ts": 1784992316,
         "category": "ai_health_product"
       },
       {
@@ -886,28 +842,6 @@
         "lang": "zh",
         "published": "2026-07-25T16:13+08:00",
         "published_ts": 1784967191,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "65305cf94624",
-        "title": "开局之年看中国丨中国眼谷的眼科“AI医生” 首诊准确率超八成 - Sohu",
-        "link": "https://m.sohu.com/a/1054593447_121627717?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "summary": "开局之年看中国丨中国眼谷的眼科“AI医生” 首诊准确率超八成 Sohu",
-        "source": "GN·AI 医生应用",
-        "lang": "zh",
-        "published": "2026-07-25T11:11+08:00",
-        "published_ts": 1784949094,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "a6ee4a6553ad",
-        "title": "ICU里的AI搭子：广东医疗AI大模型从助手走向诊断一线 - 21财经",
-        "link": "https://m.21jingji.com/article/20260725/e5325766d6e3c2129cd6c68f3f6dccff.html",
-        "summary": "ICU里的AI搭子：广东医疗AI大模型从助手走向诊断一线 21财经",
-        "source": "GN·AI 影像诊断",
-        "lang": "zh",
-        "published": "2026-07-25T07:00+08:00",
-        "published_ts": 1784934000,
         "category": "ai_health_product"
       },
       {
@@ -1066,7 +1000,7 @@
         "title": "AI上高原：清华长庚副院长张萍进藏，为心血管病管理装上“数智大脑” - 北京市卫生健康委员会",
         "link": "https://wjw.beijing.gov.cn/xwzx_20031/jcdt/202607/t20260727_4790413.html",
         "summary": "AI上高原：清华长庚副院长张萍进藏，为心血管病管理装上“数智大脑” 北京市卫生健康委员会",
-        "source": "GN·院长谈 AI",
+        "source": "GN·AI 医生应用",
         "lang": "zh",
         "published": "2026-07-27T10:25+08:00",
         "published_ts": 1785119109,
