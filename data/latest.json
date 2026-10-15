@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T09:10+08:00",
-  "window_start": "2026-10-11T00:00+08:00",
-  "window_end": "2026-10-14T00:00+08:00",
+  "generated_at": "2026-10-15T08:29+08:00",
+  "window_start": "2026-10-12T00:00+08:00",
+  "window_end": "2026-10-15T00:00+08:00",
   "category_labels": {
     "competitor_analysis": "竞品分析",
     "ai_health_product": "AI 医疗健康产品",
@@ -19,15 +19,92 @@
     "ai_health_gov_speech"
   ],
   "counts": {
-    "competitor_analysis": 18,
-    "ai_health_product": 49,
+    "competitor_analysis": 25,
+    "ai_health_product": 58,
     "ai_health_project": 1,
     "ai_health_funding": 5,
-    "ai_hospital_speech": 1,
-    "ai_health_gov_speech": 2
+    "ai_hospital_speech": 2,
+    "ai_health_gov_speech": 1
   },
   "items": {
     "competitor_analysis": [
+      {
+        "id": "86fb1887467f",
+        "title": "从“卖硬件”到“卖健康服务”，亿健AI跑步机在京东运动跑出加速度 - 搜狐",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUJYSXN0dXpoWW56cHJ6U0ZFOUhpTHlvNnFuNVZVWGxjTWVYMFNocDhHMkxPOFItQVEzTDdoSXdlTDVaZHJwOFV4QmNlLTZTbWpBNzktRGxTci1kc3hGS19mNmdZdkRFQ0JXdkF4OHgzeW51ZXhJX3B3M2o5OGJ6blVmLVFiNGJlTElyYw?oc=5",
+        "summary": "从“卖硬件”到“卖健康服务”，亿健AI跑步机在京东运动跑出加速度 搜狐",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-14T20:29+08:00",
+        "published_ts": 1791980958,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "e5f2a211eef6",
+        "title": "节奏随心而定，STELLIX AI心动杯在京东健康独家首发 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRRE1zSnVYdXRGOHJkX1JwN0FJQVpWRHVmQUN0RERiRUxQOXd4Tzk4MmQzLVk2R1AyNWptbE90QTdid3M0Qi1CVDZtUU8?oc=5",
+        "summary": "节奏随心而定，STELLIX AI心动杯在京东健康独家首发 凤凰网",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-14T18:48+08:00",
+        "published_ts": 1791974932,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "3ffb4daccb9f",
+        "title": "科大讯飞1024将展示全国产AI赋能教育、医疗、办公等领域新进展 - 搜狐",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQam1TZ05CSk9MRm5ZR3QzZW1KSFY2YUNvSjJyWEd3eDZheUtzTmRsRkl0WG41Uk9GSWdSLWZ4TlJWUGZsd3hDTFZtUHBac1BaemtXbVFESnE0cnNRSmwtLXozR21RMmtyTkR4Rmo2SF9VOERrNTJTVkEzTUozOWVkVnNLbTdRaTZWdFFNTg?oc=5",
+        "summary": "科大讯飞1024将展示全国产AI赋能教育、医疗、办公等领域新进展 搜狐",
+        "source": "GN·讯飞医疗",
+        "lang": "zh",
+        "published": "2026-10-14T16:52+08:00",
+        "published_ts": 1791967920,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "bf07003c689e",
+        "title": "湾仔京东MALL敬长者福利日！免费派艾草锤礼包＋AI五诊仪体验+兼享低至$379 按摩器特价优惠 - 星島頭條",
+        "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOdXpaa09nSHlLODV5Xzg4Z1AzR1JFLXFjbXBZbFdnNFFmS2R2ZVNZVUgwMHJPcjdGSTlENFdJamxuWkhzcWRPOWNZOHJfU2JvdVNKc00zQnh3VS10OEZYVkVXWmFhMGNtbmc2UWRPYnRfOHZtODQ4cTR0RE1KbkowUmZEVnozMTBkOXgxalp3SWN4LWFNU3hGc1dwT0gxSHJrMEhhUHlWTVZpS2gyX1VtYTdBekVKaTdOY1ZoTVl2Z1dxenBkNks4b0hOWUJQYWF0QXNUdDhtdmgxZzJLVGhZcUE5dEhyQklrMGlNUEN5Y2VPcEJnT29tRDFJX1ZGU3VSeGpmcUVVZk5IWlFJb21ITFhPWHVfVUljbU9IdV9GNkZZM2RLTXBMakk0dlRiQnNBQkQ3MmIxbERGeUF3X1JqWmxta2ZZaDQxUWhlLXRfNTQyd2Y1Y3E5UVA2M2RTNlFSQzdKYXhvZzU1ZUJCR1RXd21taHVjQlB1RUxxOHUzS2RrRjJhTVg4U3lHWllsOFFVeWo3OW42d09KeUVzN1pkbzg0OFlDWmk0eEVzMnJXeV8zV3lVZWtwTjk1bE15NC1DN2J0amRRUlFVeGtMOGtCMWp1Z0pJQ2NKS25XUVZtbVhXWjFpNkt0NkhuYWt5SFBaVUdPZHJQd1QwT25jN1Y2Q3N6OTg1SlVnd1E?oc=5",
+        "summary": "湾仔京东MALL敬长者福利日！免费派艾草锤礼包＋AI五诊仪体验+兼享低至$379 按摩器特价优惠 星島頭條",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-14T15:28+08:00",
+        "published_ts": 1791962923,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "e9abd8571e48",
+        "title": "AI应用持续落地催化，关注港股互联网板块反弹机会 - 手机网易网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZVmJVYzRSRl9KMzJFZFFQN0d2Zmg2Qzd4T2ZCQ01EMkFrSU9TdVpoMHVTenFIX2FhQlNSNDhhaWoxVUlSSWVHb2g4WExRVF90OVUxWjFvNF94RV9tU2pvemF3?oc=5",
+        "summary": "AI应用持续落地催化，关注港股互联网板块反弹机会 手机网易网",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-14T15:06+08:00",
+        "published_ts": 1791961562,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "4e3512a57757",
+        "title": "中国计算机大会催化，美团、阿里、小米齐涨 - www.caiwennews.com",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92X2JfeVpnX2l4c2x4XzhTVFhVUHdMYjhNQmlCblJiQy1NZHpFTnh5MWVPbHVQWktYUWY3U2ZBbXR5WXZ0czFvY09Uc2U3aWQ5TTJON2tSTFFERkRS?oc=5",
+        "summary": "中国计算机大会催化，美团、阿里、小米齐涨 www.caiwennews.com",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-14T13:36+08:00",
+        "published_ts": 1791956199,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "64d9ceb8ae49",
+        "title": "聆海智能发布LIVVO.AI 企业级对话智能平台，此前已完成千万级天使轮融资_产经_资讯频道 - 信阳新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Xc0stMmM0cFljcUc0RThqV2ZKNEs0ZTNLeGV1elc1WWNWdDdaMW44bHRXeUVGbHUxbmp1cWFhRWg4aHoxci1yWV9mUjJESmI1U2VjWk1CdDF5dms?oc=5",
+        "summary": "聆海智能发布LIVVO.AI 企业级对话智能平台，此前已完成千万级天使轮融资_产经_资讯频道 信阳新闻网",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-14T12:17+08:00",
+        "published_ts": 1791951461,
+        "category": "competitor_analysis"
+      },
       {
         "id": "ba23811d28c8",
         "title": "银发健康新解法：京东健康携“AI+全场景”能力亮相老博会 - 搜狐",
@@ -40,9 +117,20 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "27e6543936b8",
+        "id": "7cf0902623f6",
+        "title": "墨觉 Purra Flow京东首发：让运动耳机听见心率，让 AI 读懂训练 - 小熊在线",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Gd21ZdHpQWlRPdXVtWXN1ZjdidFN0ZUNPSUxyMVNFbFl2dkozUmg5T2VLZnJORi02b1pMM2JYMjVVcDRZTTN3dnpQYU5Ib3JOem83TVdCSmcxcXVzTGZwaEh1Q01CUQ?oc=5",
+        "summary": "墨觉 Purra Flow京东首发：让运动耳机听见心率，让 AI 读懂训练 小熊在线",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-13T20:41+08:00",
+        "published_ts": 1791895265,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "9c3496c0e74c",
         "title": "接入体征监测，AI眼镜“卷”入智能手表领地 - 大河财立方",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TQko5UjdNTlNSSTl4TDNfa0hqcWFPb1ItTUY2WVhKdFk3MWFxUi14RlM1UGpscExJZDZkWjV2aGRHUEtJOTU1TzMtUlJOMmh4SC1iQkRYMGZXSXVYejZMT2ZHMHlNU2FTTHc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTkxJTl9HNW5aZFFwTmR0UjhfRWdhMEMyMXlfN2dFMDZ2UDZiRWN1ejNCRW8xYlVVUVk4Rm9nLXNkMmJoeDBVN3c2RTVqcG94WHA4N1FJYUphTllGdkI4OWRIYlNiYnBvcE1GTFdrYml5QTFDclMySWhPN0I3SG5rVXd0SEFwZw?oc=5",
         "summary": "接入体征监测，AI眼镜“卷”入智能手表领地 大河财立方",
         "source": "GN·京东健康",
         "lang": "zh",
@@ -59,17 +147,6 @@
         "lang": "zh",
         "published": "2026-10-13T18:53+08:00",
         "published_ts": 1791888833,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "71c6c0665798",
-        "title": "墨觉 Purra Flow京东首发：让运动耳机听见心率 让 AI 读懂训练 - 驱动之家",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RMVA0MUR5Q2NxN0xTZktrVm1qX2RDME1OMjdodW1LcUYwZjJUaXBtMGpSdDZUc0p0VF9FNVYyVU5CYjAyUndEN2FnWWxIZXhfalcyVmlvV3U?oc=5",
-        "summary": "墨觉 Purra Flow京东首发：让运动耳机听见心率 让 AI 读懂训练 驱动之家",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-10-13T14:22+08:00",
-        "published_ts": 1791872520,
         "category": "competitor_analysis"
       },
       {
@@ -128,25 +205,25 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "9f5e60707fb1",
-        "title": "蚂蚁集团变阵：AI改写价值坐标还有多远 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNExMVzBGN3VtOUJ4eUtuSDRFc0pOZFZQUnFaV1k1b2VQSmZKZWdoRV9MeHR3NXhXaEZ1dUE0QU5IU1EtN1VjT3NCT0JnaGRUdm9wTk5Eb1VmUG9CeHhyUnVVS2FXNmM0Y1Rza1ZwRF9QQTN5bEtiZm9LRjU1OWc?oc=5",
-        "summary": "蚂蚁集团变阵：AI改写价值坐标还有多远 新浪网",
+        "id": "b75dfa838043",
+        "title": "蚂蚁集团变阵：AI改写价值坐标还有多远 - finance.sina.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUm9Ha0l5VDJWRE1WQ21JOUFXSDVYSVRVbFM3cUoycmNwUEVjeTVMcVROVG9BYURtdlBoZFJNR0VJSFNOekhIZGc5VDg5SDQ2cnppME15MnFNeGtWZ1N1MVdCNkpCTTJvemQ2azctVW9PajIwaEZDdzhVSG0wa0h1ek03T2I4QmNzd3ozTmQ4U2VVdktGYUJkQVBUNWp2ZW1KNnFXZUplaDVQQUJhWkk5ay1n?oc=5",
+        "summary": "蚂蚁集团变阵：AI改写价值坐标还有多远 finance.sina.com.cn",
         "source": "GN·蚂蚁阿福",
         "lang": "zh",
-        "published": "2026-10-11T15:51+08:00",
-        "published_ts": 1791705060,
+        "published": "2026-10-11T23:12+08:00",
+        "published_ts": 1791731551,
         "category": "competitor_analysis"
       },
       {
-        "id": "6093e578a505",
-        "title": "解码蚂蚁AI变阵：不计成本，不谈赚钱|21世纪经济报道|ChatGPT|蚂蚁集团|芝麻信用|支付宝 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01SVlMeW1sRHVKN3pfVGpKUzNUZ2FoZFFycWJIUEIzZmxXejVsNng3b2REczNqcHd1cm0tS0xrbXhDaWRwQ2tKX2JLTUNCbFJaZUMxLVFXVlZFd2hCV0pCb3BQYXllS3BNYU0yZXFMZmJsa3lkUURmWQ?oc=5",
-        "summary": "解码蚂蚁AI变阵：不计成本，不谈赚钱|21世纪经济报道|ChatGPT|蚂蚁集团|芝麻信用|支付宝 新浪财经",
+        "id": "f66199d756c6",
+        "title": "蚂蚁集团变阵：AI改写价值坐标还有多远 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FaHA3REptdnNMV1YxRFJHclRBNkNzbnBOcGNQUzI1b2h5UXROTUQ0c0hSSnQxLWltMXdkeGotZWVMVnhJQjNfZ1RhTjk?oc=5",
+        "summary": "蚂蚁集团变阵：AI改写价值坐标还有多远 凤凰网",
         "source": "GN·支付宝医疗健康",
         "lang": "zh",
-        "published": "2026-10-10T18:35+08:00",
-        "published_ts": 1791628505,
+        "published": "2026-10-11T15:30+08:00",
+        "published_ts": 1791703846,
         "category": "competitor_analysis"
       },
       {
@@ -172,6 +249,17 @@
         "category": "competitor_analysis"
       },
       {
+        "id": "ff15517ca021",
+        "title": "2026京东自营电动牙刷怎么选？扫振+AI成标配，3款闭眼入+FAQ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xbkQ2MXlOclRNQ2xibUZ1a29uWU5VSU0ySEpQN1lHUHJHclBRckIzVFpJTEhvbEd3djI5Vk5WMUZ3bGdPTWRUTTEwM3F4YWN3dVZrNE1VS0lQQTZVWm01eko2Tk5xWTdjR3V6R3o1UGRaa2xnUDhsVTI4ZkVqUQ?oc=5",
+        "summary": "2026京东自营电动牙刷怎么选？扫振+AI成标配，3款闭眼入+FAQ 新浪财经",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-09T06:27+08:00",
+        "published_ts": 1791498470,
+        "category": "competitor_analysis"
+      },
+      {
         "id": "d272f1ade483",
         "title": "聚焦AI时代公共卫生虚假信息治理，腾讯新闻较真平台举办“共智求真”工作坊 - 搜狐网",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUVrb2JpenNjSTNvRnZjWUR2ZnR1emtCRE0tOHFPWlJ5bWRBSFpxYzhuajlndTNkSm81YW5veGF0VVpzVXNpU0JUc1FiZzlqc0trSEJtQk1DaTNZNUdOV2piZDgzZGJzN1VVa0g4a205N2s5anhFOHI2LTJJc01RMDE1YjZFRExkQ19xZw?oc=5",
@@ -180,6 +268,28 @@
         "lang": "zh",
         "published": "2026-10-08T20:39+08:00",
         "published_ts": 1791463159,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "e5d45c4eb7fd",
+        "title": "和医生说豆包已经不会被翻白眼了- 产业链 - 光通信Pro",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fLUVaSjJMMG9OS182bkJ6NWp3R0ZwdXA0RzF6TDZicDhIcFVVYVRyTU5SOHRlbXREYkVjX1Rzd0ROR0U3d0JwSWpwdWwzVWdMWG9MZnNIaw?oc=5",
+        "summary": "和医生说豆包已经不会被翻白眼了- 产业链 光通信Pro",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-08T11:57+08:00",
+        "published_ts": 1791431858,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "0bcd525f7ce4",
+        "title": "智慧屏加AI喝水提醒京东携手哈尔斯共创AI智能水杯首发即登双榜TOP1_产经_资讯频道 - 信阳新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zTHZpSVJzX1pLV0hUeFBpa09EeHM4aUxzMmYzS2hnTm1CS3drRlNacHl6WE9zX1hXUnd0WHc0S0tSUVBuZFg2dzMtNVRLcEc4dnhfQ2l6WXRGLUE?oc=5",
+        "summary": "智慧屏加AI喝水提醒京东携手哈尔斯共创AI智能水杯首发即登双榜TOP1_产经_资讯频道 信阳新闻网",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-10-08T11:17+08:00",
+        "published_ts": 1791429468,
         "category": "competitor_analysis"
       },
       {
@@ -192,42 +302,262 @@
         "published": "2026-10-08T09:00+08:00",
         "published_ts": 1791421200,
         "category": "competitor_analysis"
-      },
-      {
-        "id": "06f1e4a9ae96",
-        "title": "轻量化AI终端爆发，大健康产业或迎来底层重构 - 36Kr",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RcWlocWlhMlB6NExjNF8xVnNyNHFwdFFMNTI2Z19TSVJuVWE0Y1VhTVg0ZG1UWVoySmV1aWxGOVpYeE5XSk9TVC12a2QyZw?oc=5",
-        "summary": "轻量化AI终端爆发，大健康产业或迎来底层重构 36Kr",
-        "source": "GN·讯飞医疗",
-        "lang": "zh",
-        "published": "2026-10-07T21:55+08:00",
-        "published_ts": 1791381300,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "c9cb309fe5f1",
-        "title": "和医生说豆包已经不会被翻白眼了 - 36Kr",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FLXc3VHNCZkFhQzdkN1ZYWFlaZVZhcEpodDRUWFR0Zk45N0oxdVZ4TVNWeG1neU11ZjRpeUVLajRuTlJWNlBxT1pZc2RmRnJrXzlJ?oc=5",
-        "summary": "和医生说豆包已经不会被翻白眼了 36Kr",
-        "source": "GN·支付宝医疗健康",
-        "lang": "zh",
-        "published": "2026-10-07T20:18+08:00",
-        "published_ts": 1791375480,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "2b4340023d31",
-        "title": "和医生说豆包已经不会被翻白眼了 - 36Kr",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUndGUUFYTHN5TDcxRW02NnI5R0NwTlhBczg0a2MteHpzQ09TTEFGZnhRR2NPYkRxVFNrT2g1b0NVVEd5VFdIb2RtX3lJUQ?oc=5",
-        "summary": "和医生说豆包已经不会被翻白眼了 36Kr",
-        "source": "GN·京东健康",
-        "lang": "zh",
-        "published": "2026-10-07T20:18+08:00",
-        "published_ts": 1791375480,
-        "category": "competitor_analysis"
       }
     ],
     "ai_health_product": [
+      {
+        "id": "54e34dd7f9ab",
+        "title": "不再只等上传资料，AI 问诊开始像医生一样“边问边看边判断”|多模态阿米|Gemini 2.0 Flash|医疗 AI_新浪新闻 - 手机新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kRXI5YmdMbkUzSkRheHJ1bzhPWTdJOWhGSTNrWndoQVpROEVJMmRnZ2hGWWlWa2ZnTmZGbFc3dDZnYjYtOVBOM0JHTDRlOUM5b19Md1VYTjR0aFBUclNwNE1Ldw?oc=5",
+        "summary": "不再只等上传资料，AI 问诊开始像医生一样“边问边看边判断”|多模态阿米|Gemini 2.0 Flash|医疗 AI_新浪新闻 手机新浪网",
+        "source": "GN·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-10-14T22:59+08:00",
+        "published_ts": 1791989940,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "2a2542bbeada",
+        "title": "患者自带AI诊断进诊室 医生为何先叹气？ - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmX2hnRURzU1I0eEw4eXhWVU1JaTh6Rkp0SzEzMFdaNGxFY2sxVUVUQ2tTckgwcjgzRTA5OUY4WExoWkhnQUNSb1AxbTZxNkcxUTVpRGtzcFhhblZvY1NyUU45RXVjQQ?oc=5",
+        "summary": "患者自带AI诊断进诊室 医生为何先叹气？ 东方财富",
+        "source": "GN·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-10-14T21:56+08:00",
+        "published_ts": 1791986174,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "ceca1dfc31c5",
+        "title": "不用看医生，AI就能查皮肤癌？昆州医学专家紧急提醒！ - yeeyi",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SWDlSdTQ3bXE0TUtXeVdmbW04T1pRemxTX24wMjh6UU4yeE95MWJKWkx6SGVHb0V4eTlWNkhoOC1mYzhpaldjdW9UY3ctTVVKMmtaM0Jn?oc=5",
+        "summary": "不用看医生，AI就能查皮肤癌？昆州医学专家紧急提醒！ yeeyi",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-10-14T21:46+08:00",
+        "published_ts": 1791985577,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "9e21ad70076d",
+        "title": "GIL 2026｜沙利文重磅发布《2026全球AI医疗行业发展蓝皮书》 - 医疗器械创新网",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11Mi1Vdkc2U0lDYkdaTHViNkRIQndmYTNiZ1lVN3NSVDZDUmxVbHJvZnhKb0IwcFNmZTFCN1k1V0tNQWVCUFZwVHZ6SjJPWDFPRVhHcndlOTQzMFIyMy1WX0R1a24zM25wb1NhV2Rjc1Rvdw?oc=5",
+        "summary": "GIL 2026｜沙利文重磅发布《2026全球AI医疗行业发展蓝皮书》 医疗器械创新网",
+        "source": "GN·AI 医疗产品",
+        "lang": "zh",
+        "published": "2026-10-14T21:01+08:00",
+        "published_ts": 1791982899,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "95efddd5d40c",
+        "title": "GIL 2026｜沙利文重磅发布《2026全球AI医疗行业发展蓝皮书》 - 医疗器械创新网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UWmZwUmRtRWRhd0VPSFA5SV82RWVvMzdBczUwUXBqMUdaTDE5QVo3Q2g5SUU2NGNTMTJDVE9lOGh3VVA4YUlDR0EyT2ZDdV9fOHNhbERCUk82WGhZOEowbHU2LWJROVhmdTdLdVhpMm1sV3B2QnBn?oc=5",
+        "summary": "GIL 2026｜沙利文重磅发布《2026全球AI医疗行业发展蓝皮书》 医疗器械创新网",
+        "source": "GN·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-10-14T21:01+08:00",
+        "published_ts": 1791982899,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "ece7909e0483",
+        "title": "英伟达投资法国：Doctolib、Genesis AI、Entalpic、Pigment - 新闻和统计 - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlZOQm5aV2tjT1gwQnZjT2x6U0ctN3FTdjJFUGUxMUw2RGQ3ckpRcFBVaVBuRlVYczlNRGx2dWJ3LWVTX29nT1NTVUZPZUVYUG1LblJ4YjFNYkJnV1IwNjQwS0k0dlhwNE1lRmJVb3JKb3FQRDNsTDdZUHQ4MWtZanUwRXc2ZXgxalhKRDRpWldfVW1IMWtpSFZwNkZSRXppVElGdV9ZWnlhMm9qYUM2NA?oc=5",
+        "summary": "英伟达投资法国：Doctolib、Genesis AI、Entalpic、Pigment - 新闻和统计 IndexBox",
+        "source": "GN·AI 医疗投资",
+        "lang": "zh",
+        "published": "2026-10-14T20:52+08:00",
+        "published_ts": 1791982351,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "7022cc79cd13",
+        "title": "磅策医疗与韩国MetaLabs签署合作，AI植发机器人加速落地韩国市场 - 经济观察网",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBac0d6QnpDTUtXTW5lRDV6LWlzTktNNUQ1RmVVNWdJUlo3MmJ1LWdsaEw2X19mRFR4YnhkdHFxLWdyLVJGSENmZUxyaFR2LXNtUVhidkxnTFo?oc=5",
+        "summary": "磅策医疗与韩国MetaLabs签署合作，AI植发机器人加速落地韩国市场 经济观察网",
+        "source": "GN·AI 医疗产品",
+        "lang": "zh",
+        "published": "2026-10-14T18:13+08:00",
+        "published_ts": 1791972828,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "ef410b243f83",
+        "title": "持续回购彰显信心，和铂医药AI抗体平台及核心管线获多重进展 - 搜狐",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlhPSXAzNklpaHBnY0dVVTNuWnZ5Y1A1d05DaFFuTDFycDJMX1p4SWtBdHRSOFBid0dOVFk2OXZCbXVDQ1A1YnFkNF9fNmhTbllMYWZrQ1c0VklUSDZpRzRyN21GSHBXRFdyQ3F4dFFuYlVXRXZfZ0VqcExFZ2NEanY1WFJ2ODZDLTdmVw?oc=5",
+        "summary": "持续回购彰显信心，和铂医药AI抗体平台及核心管线获多重进展 搜狐",
+        "source": "GN·AI 医药 IPO",
+        "lang": "zh",
+        "published": "2026-10-14T16:56+08:00",
+        "published_ts": 1791968181,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "9bb5b69de075",
+        "title": "AI医疗行业周报(10.06 - 10.13) : AI医疗新突破 - 搜狐",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmxkLUN2SDBKXzdUUmxjWlQ4Z2RuZHo2SmJySHpjTzc5cFVSSldneWJ2UXF4cFB0WUJ6SzRhSDNrR2xnZWlaNjBfUnBOSjVySzdYMWYtdFVHMDM1eVF3NXR6MGozbk1ackRQSm1vZ1YybFZ2VlhRd1BHMS02aUdSZzVjUGtrUUJ5?oc=5",
+        "summary": "AI医疗行业周报(10.06 - 10.13) : AI医疗新突破 搜狐",
+        "source": "GN·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-10-14T16:22+08:00",
+        "published_ts": 1791966120,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "47faa6edbd7d",
+        "title": "【百强透视】首单AI算力合同落地！健康160（02656.HK）大涨后回落 - 搜狐",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXpna3BZMlZHNS1sUURTUnNlUUN0QWdEYUlsakNrQ1BiUHQ1OEsybjZtY1luUlhJbFJYWG5kenFjaXp2Vlp6T0w0dS1WNi1ySERISUc4blU3b2FPRHhxNWVMZEIyVGZhUnZ2b0dZbE9hQkhDd09qNnpRN19tRXRGZU5xMW5jVDgy?oc=5",
+        "summary": "【百强透视】首单AI算力合同落地！健康160（02656.HK）大涨后回落 搜狐",
+        "source": "GN·大模型医疗落地",
+        "lang": "zh",
+        "published": "2026-10-14T14:25+08:00",
+        "published_ts": 1791959126,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "8b58a1c6c341",
+        "title": "患者带AI诊断进诊室 医生为何先叹气 医患沟通新挑战 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52eDFNTEpPckhJQk9vVjVrT25HWmZXNVNZYlE5S2ZMQW0yMngxZGM0WTUtTDd0dkdHMGFjOXFjN1p6cXBQemszaE1iUC0yU0x1WDhLTzFxWG83SU9ybzl2TVRZTHE3N2VpT3hwVlNQUFU?oc=5",
+        "summary": "患者带AI诊断进诊室 医生为何先叹气 医患沟通新挑战 中华网",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-10-14T13:15+08:00",
+        "published_ts": 1791954920,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "c45e39e20d0b",
+        "title": "揭秘“AI假医生”：2分钟就能生成，张口就说“吃了就好”“我自己也在用”，可不带AI水印 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWZBVUo5VVdwYWF5UWpOcTVTaEtTR0RrTlpSRER4UjlzRlN3eloxbmdUdmxwckRDcV8wZU9nQ0daTEsxNTRxaEhEX1dGbFptM2piMmV6dElfcXJRdWRJbmxaajk4WGxKQ0U1cExBM0Z5VTZxZU9DdFRoblVaVUJNdzZhTQ?oc=5",
+        "summary": "揭秘“AI假医生”：2分钟就能生成，张口就说“吃了就好”“我自己也在用”，可不带AI水印 新浪网",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-10-14T12:46+08:00",
+        "published_ts": 1791953160,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "3abcb065f220",
+        "title": "患者自带AI诊断进诊室，医生为何先叹气？ - 搜狐",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3lxOF9UQmRUZFFLaDdmcXg2Q0tfWmZFNjlDcTdoWUx1b01MTTdUY0VvTUd2SjFscDktSEUxaXBmUkpCbGNhREJoS2hpNjduXzZreG5EX29FeHBXVnJZTW52UWEyc05oa1Y0QVFJeWxpRWxzVFZySDZvd0JmU3gtdDBlY21UQ3k4?oc=5",
+        "summary": "患者自带AI诊断进诊室，医生为何先叹气？ 搜狐",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-10-14T11:48+08:00",
+        "published_ts": 1791949680,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "92274545739a",
+        "title": "AI加速医疗服务升级 中国康养市场潜力逾9兆 - KLSE Screener",
+        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNTWZCQVdBVk5zbUVkZmx4b0dWMTNWTlMyeDBpVEg3THQtT1ZhR0IxZVFqQjlReEFEVmI2V3hqeXdnWV9EU3BieGxEOWNjWDVFSWd4TTRmdE9ycWJRX1lHcVZkM0pZQ0djV1RBWm9nMk5SSUxfLTNGWWFYSkNNYlFqN0d3aTcxNXk3MU9lNUlkNDgwaFU4SFVHY01RRnVyeHJxbHROWDQyX2tGR2tld0xaaEtEZE01TXJTMEQ2cWZld3paZlRRZ3lrOTJLS3loU1Bmcl8tWTBSOXNBWV9JcDk1OVAzQ1VGdkZveXNBYmFFSzYyWDFiU3pGMHlTZ2F3eEFxWkZsNWZTcEVONGhUTEgtMURSd0JuOTFLZHdSc1kyeDB3dnZvMDBBVGl5WVJJQUR6SENuY2RRS0xqdUVM?oc=5",
+        "summary": "AI加速医疗服务升级 中国康养市场潜力逾9兆 KLSE Screener",
+        "source": "GN·院长谈 AI",
+        "lang": "zh",
+        "published": "2026-10-14T11:35+08:00",
+        "published_ts": 1791948953,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "1aeb162a4377",
+        "title": "AI4S“中国方案”实践：迪安诊断与瑞金医院联合研发白血病诊断智能体_投资者网_媒体广场_财经 - 证券之星",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TRVNWSFNZLTlCelZWc3RacmYtS0V6T2lES21aZW0tYjVUcW9OZ2F0c2VKdGI4cDYySzRIbVItT0VZR3lLbXRTN1NXOUU4bXdoZENmd19mTUg2dkpNQzFOTQ?oc=5",
+        "summary": "AI4S“中国方案”实践：迪安诊断与瑞金医院联合研发白血病诊断智能体_投资者网_媒体广场_财经 证券之星",
+        "source": "GN·AI 医疗产品",
+        "lang": "zh",
+        "published": "2026-10-14T11:10+08:00",
+        "published_ts": 1791947401,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "7af2fc9b264a",
+        "title": "第十五届西子胸部肿瘤学术会议在杭举行 聚焦AI时代胸部肿瘤诊疗高质量发展 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMV3VuTWp2TWFrWXFaeWtMTG1Lb1BGOGE3dGF3c29VOGtkd3p6Vktud0tVNkR1VmY4SVp2azJjaXJkdjJIYjh6V1FxT0Y?oc=5",
+        "summary": "第十五届西子胸部肿瘤学术会议在杭举行 聚焦AI时代胸部肿瘤诊疗高质量发展 凤凰网",
+        "source": "GN·医院院长 AI",
+        "lang": "zh",
+        "published": "2026-10-14T10:46+08:00",
+        "published_ts": 1791946018,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "cd76309330da",
+        "title": "AI医疗加速落地 强化智算能力为创新与安全赋能 - 搜狐",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVNWS21xVDhDa3RlLTY3R29sTFB4dFphZ3lzSjZmTDVsV205N3k5X1p3djZJV0lpN21reGNYLXVLOE4zaWtWNW53U2tzTmpoVVAyZjZibmFhQ2xqQkFYZjd2Snp6SXdDU3RNaUZvNGNaRFVxRjVhMm4zUkMxWlBoY2tGU2hkd2Uy?oc=5",
+        "summary": "AI医疗加速落地 强化智算能力为创新与安全赋能 搜狐",
+        "source": "GN·大模型医疗落地",
+        "lang": "zh",
+        "published": "2026-10-14T09:32+08:00",
+        "published_ts": 1791941567,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "e794b83e3a3c",
+        "title": "智慧医疗 拓宽边界｜广交会见证中国生物医药与医疗器械的成长跃迁 - 广州日报新花城",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU09nTUtWU2J4V240RWtlZ3dZS1NUeE9JNTBXRzJ4eXlBNHYwOWNmVjF1V3RBSE1sbmFpbF8zUm5IMFhCX3lSTnhoX0VSMzJtYktRWHU0ZHprcXl6TmZ0TjRQd05IelM2TDlpWWkzZml3bmhBc05QSGJ5U1ZtYWFvSVZtS25tS0hHTlE?oc=5",
+        "summary": "智慧医疗 拓宽边界｜广交会见证中国生物医药与医疗器械的成长跃迁 广州日报新花城",
+        "source": "GN·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-10-14T09:27+08:00",
+        "published_ts": 1791941240,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "e417944542d1",
+        "title": "人工智能在外科医生与病理医生交互界面中的应用：革新诊断、预后评估与精准手术 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZTm9HcHN5VVFxVXdScmlheHNQeVFLdjY0YVp2OVcySEc3dE9RUlBkTlhkQ2ZWTXQ2U0NHTWlVTWZDckw4RXRQOWJNT0ZuTXB2WWI0WWY0S0dEYS1pRzZQMzEya1FKaGY1dDZMVnR3?oc=5",
+        "summary": "人工智能在外科医生与病理医生交互界面中的应用：革新诊断、预后评估与精准手术 生物通",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-10-14T08:20+08:00",
+        "published_ts": 1791937255,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "bffb34a639a8",
+        "title": "人工智能在初级医疗分诊中的应用：一项临床适用性的范围综述 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LRkNhOUljQVRpaWw4dVBHV3ZDVVdHQkdkV3RxeVU2aVZKWGJXc3lHTFNOQ05mZzBXcUgwbXZwSENuYVc0UEk4SmlkdDVXbEx0Skpia1BaRHN6eUJ2Q1cyLXFWakdSMFFpMWhqTnVn?oc=5",
+        "summary": "人工智能在初级医疗分诊中的应用：一项临床适用性的范围综述 生物通",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-10-14T08:00+08:00",
+        "published_ts": 1791936040,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "6e177f9bb129",
+        "title": "智慧医疗 拓宽边界｜广交会见证中国生物医药与医疗器械的成长跃迁 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hWEV0TTBCSWJMdEgyQ0VoVzhjYm1LNUkyVXVRUXhLc3dxQzNEOV9NaGM2VzN1dC1LczdPU0h5SkxjcUw2eUU1bjlVZE8zNXRjNXhPdzMxbGxITkJLMjRBcXRpSnhlUQ?oc=5",
+        "summary": "智慧医疗 拓宽边界｜广交会见证中国生物医药与医疗器械的成长跃迁 东方财富",
+        "source": "GN·AI 医疗产品",
+        "lang": "zh",
+        "published": "2026-10-14T06:59+08:00",
+        "published_ts": 1791932359,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "fdb031ecfc51",
+        "title": "“从AI皮肤诊断到放宽签证”……政府全方位扶持K美妆- 阿视亚经济 - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DVUZzVGRsVVJvWEZXSGVYN3BXVVNzSmJDX1JGUU5TRnZIUnVyXzJSZFRmN0o2WVBXLWxjRU04QkhZOGxDQTZsWjRKMGpvMFBwWTIzQlR3bGprbnVybWU5a1Z3ZzM?oc=5",
+        "summary": "“从AI皮肤诊断到放宽签证”……政府全方位扶持K美妆- 阿视亚经济 아시아경제",
+        "source": "GN·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-10-14T06:40+08:00",
+        "published_ts": 1791931200,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "92e8dea8cc59",
+        "title": "Nvidia宣布投資法國醫療網站Doctolib 擬用AI改善服務 - 世界新聞網",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa204Rm9aLW1WeDZMbEFGUmJMTE4ta180S3RvMFNGRVNUaVFnUDNYUXR3LXpFVTYwcS1Lc09wbzhwQmZtQzJ2ZUtDcXJlamRpdmpjSHQ1cFROVzRrNGYwNHd2NHN0cnlTSDRVSEZrR2ZFN1BncnlHc05IOHh2WF90OWNPU3B4c0RmUUHSAWdBVV95cUxQdjM3ZUotQnJLdGhGa3ZkLXpjNGQzeV9XSXgzeV9BeVNUc3dpa3oyY3M4SkdfSThPQWxuU0dBcjNEcFBlbDBkamhfRjIwTWN5XzZ5N0NkX0JnZXVVb3d0T2Q4Ui1qWjJV?oc=5",
+        "summary": "Nvidia宣布投資法國醫療網站Doctolib 擬用AI改善服務 世界新聞網",
+        "source": "GN·AI 医疗投资",
+        "lang": "zh",
+        "published": "2026-10-14T05:29+08:00",
+        "published_ts": 1791926962,
+        "category": "ai_health_product"
+      },
       {
         "id": "e9369bd8e019",
         "title": "英伟达投资了法国医疗数字化平台Doctolib、AI创药企业Genesis AI、法国企业财务规划AI软件厂商Pigment。 - 手机新浪网",
@@ -240,14 +570,36 @@
         "category": "ai_health_product"
       },
       {
-        "id": "f9181c5db54a",
-        "title": "揭秘“AI假医生”：2分钟就能生成，可不带AI水印 - 搜狐",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjladjBTN1ZBNWFEN1dway1STUEzdGpaS25ybElKVHlBYXoyZnZzbmd6NjNGS015cFkzOGVIenlSTV9haDJxMUxzMkpfTG90cGJmWWwzd0hncTJDSU1EdWsxQmdjVjZPc0MyZlRTOG1pVVgyaWJGSW5pZU5kWUVYR241OTAzcVo1?oc=5",
-        "summary": "揭秘“AI假医生”：2分钟就能生成，可不带AI水印 搜狐",
+        "id": "cf1671503d9c",
+        "title": "OpenEvidence 与 Johns Hopkins Medicine 携手推进人工智能教育与医疗服务 - Unite.AI",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFdzNHVUbl9zM3VfbVRiOWJGNkdWMGlNd1F0a0QzQnlaZkZVdWNHTmdRamNRNDhKRlF5UDFVT0psYlpzQm1KSDA1ZTlyMk1ldGoxNXlQdE5yUEJSUDM5UlhBYkk4RkxHaE9tVGVwajFNRWNuQ29XcFZOWEJtWjVoUGdIeFFKX2FmTG9wOGM3dDZYTDZPZUtXVndlUnI?oc=5",
+        "summary": "OpenEvidence 与 Johns Hopkins Medicine 携手推进人工智能教育与医疗服务 Unite.AI",
         "source": "GN·AI 医生应用",
         "lang": "zh",
-        "published": "2026-10-13T20:54+08:00",
-        "published_ts": 1791896040,
+        "published": "2026-10-13T21:39+08:00",
+        "published_ts": 1791898779,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "fa648d94a1b4",
+        "title": "广东首个人工智能骨科中心揭牌，为骨科诊疗提供“广州打法” - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzZlVWMGxRRkZRM1l3OXFmWk42OXZ6bDkyLW9qU1FDdXpUZnFWUUZkcVBTUE9pdU5GNzZoYnl6elFXRHB6bEJBQlZ2TWtNMlFFZGc?oc=5",
+        "summary": "广东首个人工智能骨科中心揭牌，为骨科诊疗提供“广州打法” 搜狐网",
+        "source": "GN·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-10-13T20:47+08:00",
+        "published_ts": 1791895664,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "a6c8129ad7a8",
+        "title": "AI翻译“上岗”之后：华南医院构建涉外医疗人机协同服务体系 - 凤凰网深圳",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBITDhNMmx5RXNoTjRsZDI4SzJ1a3FISVZQaF9jQlJPQzNIVmRNaXR1MFFLczE1YlkyakNpRTZ1T2N6RHpsZWkzZExn?oc=5",
+        "summary": "AI翻译“上岗”之后：华南医院构建涉外医疗人机协同服务体系 凤凰网深圳",
+        "source": "GN·院长谈 AI",
+        "lang": "zh",
+        "published": "2026-10-13T17:22+08:00",
+        "published_ts": 1791883326,
         "category": "ai_health_product"
       },
       {
@@ -273,14 +625,14 @@
         "category": "ai_health_product"
       },
       {
-        "id": "fed167d0e8c2",
-        "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助” - 搜狐",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkotMXRlaDJ1WkdEYmRIMnFwZTRLWHppOVR5UC1PS2paakEyM2FQVF9uQlpFQXdmLUlhSUIxeXNOakVpcTlsUEFOMlgyS25XVDhvRzk4X0JsbjhSUGY5OXpXc3ZvQ2NrM2kySFF0eHFlT0IxNWN1NjRobXJsYUtQMlNYZUZHN1FVenRYMw?oc=5",
-        "summary": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助” 搜狐",
+        "id": "49f4b0c8fe03",
+        "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助” - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XN2hCQ05ZR1A5UDRkUjZsU1NTTnVuWEhnbWJzVzNlenpsQk1mQmNIbFBuVVZ2UFpkYkMxNkkyeVJMaHJrOG5tbW13ZVM?oc=5",
+        "summary": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助” 凤凰网",
         "source": "GN·AI 医生应用",
         "lang": "zh",
-        "published": "2026-10-13T15:33+08:00",
-        "published_ts": 1791876819,
+        "published": "2026-10-13T15:30+08:00",
+        "published_ts": 1791876647,
         "category": "ai_health_product"
       },
       {
@@ -299,7 +651,7 @@
         "title": "Character.AI申请第11章破产保护，与Disney达成基准竞买人协议 - Unite.AI",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcGY5WklXN0lMaGx2Y0g4YklwN2llZXBOR1hqNmZnN0kwWXQxRnlWem1rTjdvYUpCcXlIbmstRnBIZG9YbDFsZk1nU2o0V3lPNk9hbllZQ1lSRVFTYmk1enBXUFhFUjZwcDc5eXdMamtOWm5PVGJqYWt4Y3hzX1pYelROdkVSM292NEpCSXFBUWhVMlhtMm1HUw?oc=5",
         "summary": "Character.AI申请第11章破产保护，与Disney达成基准竞买人协议 Unite.AI",
-        "source": "GN·AI 医疗融资",
+        "source": "GN·AI 医疗并购",
         "lang": "zh",
         "published": "2026-10-13T13:23+08:00",
         "published_ts": 1791868984,
@@ -328,17 +680,6 @@
         "category": "ai_health_product"
       },
       {
-        "id": "ef46949f0964",
-        "title": "浩海医疗受聘成为网络数据安全合规实验室合作单位，深度参与AI智能体安全治理专项研究_行业新闻 - 证券之星",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oUXI0ZkF6RURkdDF2bno2S2FiSy04RDR4bTZZaV9ZQXYtREo3NzdNOVdONEFPVWF3TFFXdkU1VnZQV2dkQWg3X2RPaFRDUG9WX29WamRpcmFPVWNtUEY3eDluZV8?oc=5",
-        "summary": "浩海医疗受聘成为网络数据安全合规实验室合作单位，深度参与AI智能体安全治理专项研究_行业新闻 证券之星",
-        "source": "GN·大模型医疗落地",
-        "lang": "zh",
-        "published": "2026-10-13T10:49+08:00",
-        "published_ts": 1791859750,
-        "category": "ai_health_product"
-      },
-      {
         "id": "1caf5197d04e",
         "title": "医疗公司，正在排队给AI半导体送钱 - 投资界",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50eldvQ3NMVmEyQnhHa295TDgydzdfRVZRX3NYeGdMd0V2cDh0SkEwaXB1U0xRSXd2X0lWNk82Uy1CSHdILVc0OHhwYTFXSEQ3Z0dnR0RR?oc=5",
@@ -347,17 +688,6 @@
         "lang": "zh",
         "published": "2026-10-13T10:41+08:00",
         "published_ts": 1791859260,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "e583597a820c",
-        "title": "医药生物行业周报：CXO景气延续，AI制药赋能科研上游 - ByDrug",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNkdCMVBGeFRtbFVCaHdYdkNGSFF0OXpxRUVFN0I3WmU5UG5QRERwbjFaVDRaYnNQRVozdktieERSSWRQYmZVaDY1bUx6czRTWFB5LWZJeG95eUIzcDFIdzNoazlqQWFJUi1qdm16ek52SlJQUS1weEdqMmJ6VjQ0eg?oc=5",
-        "summary": "医药生物行业周报：CXO景气延续，AI制药赋能科研上游 ByDrug",
-        "source": "GN·AI 医药 IPO",
-        "lang": "zh",
-        "published": "2026-10-13T09:02+08:00",
-        "published_ts": 1791853350,
         "category": "ai_health_product"
       },
       {
@@ -372,17 +702,6 @@
         "category": "ai_health_product"
       },
       {
-        "id": "777e0dedc207",
-        "title": "免散瞳眼底照相机市场展望2035：AI筛查与远程医疗驱动扩张 - 新闻和统计 - IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd21fa3lFY2pyQ2lySmQ5RGhVSTRfdmV2RWFHYzE3cWloYl9ja0pUc0cyUDN1NXlqNmpUaWk2UGJheDJYSVNBVGcxNkJGTWd0NzdsejlRQXI2SGJjRy1iTERyalNOVzVSSTRoS0lqSjI1eVZ5OTZ6RnFmVDNfSDUzRzJWMUZCa1FNajRFdXRKSmNpWmpwUGxhdUQyZFFxN2txeUxxaE5OWm1nNkF0LXFyX3pWaDBIQUJSRmhQMHFCQ0R1YjNYVmJSVW9xYlBXTHJqUUpF?oc=5",
-        "summary": "免散瞳眼底照相机市场展望2035：AI筛查与远程医疗驱动扩张 - 新闻和统计 IndexBox",
-        "source": "GN·AI 医疗产品",
-        "lang": "zh",
-        "published": "2026-10-13T05:51+08:00",
-        "published_ts": 1791841864,
-        "category": "ai_health_product"
-      },
-      {
         "id": "89b73cc6afc7",
         "title": "医疗数据采集系统市场展望至2035年：远程监测与AI诊断驱动扩张 - 新闻和统计 - IndexBox",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbVBFM21WSHlzbFRHRFhWZHRkOHNVT0NhUUhwN3pucXY1OGs4bUpfZDdZWV9CaTNsdDRENGhJX3dHN1RfbXZKdnNVT1U1eGtTdENUOERlZGZtTkZVNjFOd0NqR2VqaTlVLWRNTGFtN3R0ZGhJRmJnVEh5b3F5dlFCRFBHZkowRVhrYTJBVDR4ZXlSS3hSWFBaOF8xc1NTVzJhajlPRENNRGxGUlJBMXpRdm5HMFhCTG5LMDQ3U0g1bG9KaHZkS24wUERyNUxQQWFqc1VSZk5SWmkzanFweFVQV0RwX05ENEFtOTlpU3JiU1dnOWtiMzlF?oc=5",
@@ -394,14 +713,14 @@
         "category": "ai_health_product"
       },
       {
-        "id": "b6ff9e9c39a3",
-        "title": "超千万种子轮落地！阳生万物：用多模态物理能量+AI，打开主动健康新想象 - 搜狐",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVlPREp0cjBqcHU2QnlTSVVqUmg0V3dzRm1GOVYwWHRnOWRSMUZvVHM1ekhVTjNJUlNvYXRybTRtNERHR25LOGxLTzBERGpQVUlUbnpWR2gyNXphSmt3UzJyai1EQnEtaFpkaWE1NU1sN3BuWXhTVk5UMmNYdkppTlRBUmh6RkNh?oc=5",
-        "summary": "超千万种子轮落地！阳生万物：用多模态物理能量+AI，打开主动健康新想象 搜狐",
-        "source": "GN·AI 医疗器械",
+        "id": "cdf582746dc7",
+        "title": "IgG4血液检测：结果升高与诊断局限性 - Kantesti AI Blood Test Analyzer",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcWRhUkJ6YkhVbEhxZjg2VEVGbWZnQnUtaHdmYmp1Z0ZZb0g2a1hYSGhDZHpJYnQ5VVVwTmtaM1BNWHVYbEJYeUxsWlZNS1NuTTdCeXA0TnlUbmI3bmRyZm9aeUVaWk5BUGRJcjQtb1hDbHQ4aTJEX2ZLcHQ4LTFFb0M0RkcwMUZ1QnREbjM2b1d0cExNQjdGRFAwdXhmWkdrbU1KYTRjSHZBSlg5cTlId3h6ZnJRQ0dydW81Y0U0WXNWR1hPQ0N2aGtwSjgtejNYaFJNZ1h4SW9sNGhwaHJGV1BFVW4?oc=5",
+        "summary": "IgG4血液检测：结果升高与诊断局限性 Kantesti AI Blood Test Analyzer",
+        "source": "GN·AI 影像诊断",
         "lang": "zh",
-        "published": "2026-10-13T02:03+08:00",
-        "published_ts": 1791828180,
+        "published": "2026-10-13T00:22+08:00",
+        "published_ts": 1791822139,
         "category": "ai_health_product"
       },
       {
@@ -486,7 +805,7 @@
         "title": "钟南山等院士当“考官”，华西出品的医疗大模型斩获全国第一 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Q0sxUmVGOTZ3eHBGNS0yX2ozZEFJWGNvMGM1ci02dks3X2JxT19rVW5CRmJaaFRPWHVsS1BZZW43eXhuQXl6ek53Tmt4QjNNdXlqNFJGUEtzSVV1UW5MMDNTSDN0NjdpUWFjMS15VUs1SUhJWTVQQnUxd0lldXc?oc=5",
         "summary": "钟南山等院士当“考官”，华西出品的医疗大模型斩获全国第一 新浪财经",
-        "source": "GN·卫健委智慧医疗",
+        "source": "GN·卫健委大模型",
         "lang": "zh",
         "published": "2026-10-12T20:31+08:00",
         "published_ts": 1791808260,
@@ -501,28 +820,6 @@
         "lang": "zh",
         "published": "2026-10-12T19:29+08:00",
         "published_ts": 1791804580,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "43d411686e22",
-        "title": "活力中国调研行|AI搭起健康桥梁数字技术赋能中国—东盟口腔医学互利合作- 中国日报网 - China Daily",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IREpnY29aTVJhZVlLMXNRSU5aUUhLYzROckt6V3d3OWRPRkpYb2l4ajFDT2U0NnR6QlBQUTgydlhtREVCNkZ4Q1IzbVlSZjNXc0UtZWRfSmQ0OHNHdjNaODhweGpRUUREdnpsX1F0aHdSR05jcVJVZTc4Rzc?oc=5",
-        "summary": "活力中国调研行|AI搭起健康桥梁数字技术赋能中国—东盟口腔医学互利合作- 中国日报网 China Daily",
-        "source": "GN·大模型医疗落地",
-        "lang": "zh",
-        "published": "2026-10-12T19:16+08:00",
-        "published_ts": 1791803817,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "fb0787d5062b",
-        "title": "豆包用户最多，为什么医生反而最烦它？答案很现实 - 搜狐",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNby03M2ppTm9KQzRXelJxNUNBemhjX3luWjFWYnBfLTZwc05Yb1kzUWpOUUUwNC1lN01WYWxzd2g0eVBWNU5tUkZfYUk5VVNfZERLbHZPOEhhTFV1TVFyTDhsOFBNM3IzelMzejdGRmh3eEhYa29vVDRMRmVFYjNuNEtpaVMxTXhDSlhCTA?oc=5",
-        "summary": "豆包用户最多，为什么医生反而最烦它？答案很现实 搜狐",
-        "source": "GN·AI 医生应用",
-        "lang": "zh",
-        "published": "2026-10-12T18:54+08:00",
-        "published_ts": 1791802490,
         "category": "ai_health_product"
       },
       {
@@ -559,36 +856,14 @@
         "category": "ai_health_product"
       },
       {
-        "id": "1380a63e1161",
-        "title": "综合得分全国第一 成都武侯企业登顶医疗大模型榜单 - 川观新闻",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUNjJwLXozeGNpWlFrM0c2Rlp6Vk9pbjJYbDF5UW90cTBNWGxJWXNMSEtBSHNBVWZOV3FDbGZrTkdQdzlGdTBLV0NIUktlQQ?oc=5",
-        "summary": "综合得分全国第一 成都武侯企业登顶医疗大模型榜单 川观新闻",
-        "source": "GN·卫健委大模型",
+        "id": "8f4b33a38fc9",
+        "title": "机构：CXO景气延续，AI制药赋能科研上游 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90aEFOOWQ5c3RFWW9SdFBHWWZJTEpZTHhPTE5NWGdaZmo1OUtQWDZfc2NyM25LUU8xUDJBckdRc1NZcVBFd2xRa0ZfRFMtTjJKcUlmSUdn?oc=5",
+        "summary": "机构：CXO景气延续，AI制药赋能科研上游 搜狐网",
+        "source": "GN·AI 医药 IPO",
         "lang": "zh",
-        "published": "2026-10-12T16:26+08:00",
-        "published_ts": 1791793560,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "eeec204e8aff",
-        "title": "AQP4-IgG阳性：NMOSD诊断、检测方法与MRI线索 - Kantesti AI Blood Test Analyzer",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNaWVuRFRxQXF6WmdEWnZHMWpiSTdIWjNmMzJPRWI1MG9uejJPblZ4bVhhZVpyemlNa1dmRU8xbFd3di1ZRVNNeWNKRGozOVBXZm5RVUMtaDBvS3FmS0JLV1FhTEd3cVhOSDlDdjNXUm9NVGsyS2EtQ1J6b01xUWt5WHdYejhJYjZNTmljQmZESFotSEc5ZEktTFpjaUNXcFlIVTNQUGxYWFFkbmlaZkpmMk5Uek5iZjE2QU1vcjRLZDBLTEc2U1dROGFENnRONEhZVW82LUFJeDBQU1AxeUdfNWpiVmhwU3pKckhtQnBxUkRlNllvTlFfUE9lblhOTVNvekplZVYyaWx4NHVRR1dWLURaazFiTjAxYV9vdzZR?oc=5",
-        "summary": "AQP4-IgG阳性：NMOSD诊断、检测方法与MRI线索 Kantesti AI Blood Test Analyzer",
-        "source": "GN·AI 影像诊断",
-        "lang": "zh",
-        "published": "2026-10-12T16:22+08:00",
-        "published_ts": 1791793351,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "6647a6c15223",
-        "title": "病变检出率96.7%｜VETIDIA发布专业兽医影像AI诊断模型 - 凤凰网",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uMjc4SHR2aWhzNmpRWVpHcDhhUTB3dXc1QklDMFlvUVBBR1hQeXRJTTZrNmMzSkUzTktNdlR5OHNtOTdmMnlDQkE0TlJEcnc?oc=5",
-        "summary": "病变检出率96.7%｜VETIDIA发布专业兽医影像AI诊断模型 凤凰网",
-        "source": "GN·AI 医疗产品",
-        "lang": "zh",
-        "published": "2026-10-12T11:29+08:00",
-        "published_ts": 1791775774,
+        "published": "2026-10-12T13:42+08:00",
+        "published_ts": 1791783720,
         "category": "ai_health_product"
       },
       {
@@ -629,7 +904,7 @@
         "title": "AI医疗设备数量增加，但副作用报告为零？ - 亚洲日报",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVk1lUjcya09MQ3BBWWF2Z0NTMkpycXRGUjczd0hVU0FGbzRyTzdNRWlwWkhTZ3hvWU5fUGJPQ01KT0NTSjg1Xy1WX3hDMXBvbEVqOXJSM3F0TzQ?oc=5",
         "summary": "AI医疗设备数量增加，但副作用报告为零？ 亚洲日报",
-        "source": "GN·AI 医疗器械",
+        "source": "GN·AI 医疗产品",
         "lang": "zh",
         "published": "2026-10-12T09:16+08:00",
         "published_ts": 1791767760,
@@ -644,17 +919,6 @@
         "lang": "zh",
         "published": "2026-10-12T08:10+08:00",
         "published_ts": 1791763803,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "577bd20f58a1",
-        "title": "青铜盂竟是商代斝改制……文物修复用上CT扫描、AI诊断后 - 上观新闻",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwMzQ4X1Q0X3VtV18wZVVWRDBzLWZLcFBzYmY0SXY4cU1yLUxQbndFWkpNZDRPVjVFZWRyTGk5UzlmaDlRbExxSEZZb1pObkdwSURPYm13VmxMQQ?oc=5",
-        "summary": "青铜盂竟是商代斝改制……文物修复用上CT扫描、AI诊断后 上观新闻",
-        "source": "GN·AI 影像诊断",
-        "lang": "zh",
-        "published": "2026-10-12T07:54+08:00",
-        "published_ts": 1791762840,
         "category": "ai_health_product"
       },
       {
@@ -678,110 +942,44 @@
         "published": "2026-10-12T01:51+08:00",
         "published_ts": 1791741064,
         "category": "ai_health_product"
-      },
-      {
-        "id": "a55d4fc912b0",
-        "title": "诺华建言上海探索“家庭医生+AI”血脂管理新模式推动社区慢病管理提质增效-中新社上海 - 上海新闻",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51eUp4eWcya1NndktqTGFlTHJwMXVwdWdhMmFBWVRIMWFtTTIwVlhaeG5MWmVqTVJ4VHk3bElnS1VpNHU4VmxJUkVkekQtWEltWXF3TV9pWGdJRktzUVhnemlwY210UnJPWEZLdA?oc=5",
-        "summary": "诺华建言上海探索“家庭医生+AI”血脂管理新模式推动社区慢病管理提质增效-中新社上海 上海新闻",
-        "source": "GN·国家卫健委 AI",
-        "lang": "zh",
-        "published": "2026-10-11T21:36+08:00",
-        "published_ts": 1791725760,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "6f9a4f433b98",
-        "title": "精确到克的健康餐来了！全国首家AI健康食堂落地上海徐汇区 - 上观新闻",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnTVpsUV9obXVES3FIZnJFZkplWDlQV2Nla2VEVUw3MFk3MXd3OEJMbXdoOHNwZTBESmV6MXFsLTBwVjN3eDROemJlYzZXc3MwUGJ0ZlR2NUw1R1h3ckE?oc=5",
-        "summary": "精确到克的健康餐来了！全国首家AI健康食堂落地上海徐汇区 上观新闻",
-        "source": "GN·国家卫健委 AI",
-        "lang": "zh",
-        "published": "2026-10-11T20:17+08:00",
-        "published_ts": 1791721020,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "2fdc013b2ad2",
-        "title": "挖走Claude Science之父！全球最大AI医疗独角兽，要做自己的大模型 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tU3BVeGhINnNnNlNPVTNINS1WQ2RMcHdVUHNScmM3OEhuckZHTUxESGhvZmdxNHFoUTh3T0JETmZnRkZ1NEZNWEJxOEJFdGlqQkVseEhUNU5QeWMzMmFrVnp0S2lIV0FnSWZvcU4xN2tDWG1fZnZ4OQ?oc=5",
-        "summary": "挖走Claude Science之父！全球最大AI医疗独角兽，要做自己的大模型 新浪财经",
-        "source": "GN·AI 医疗产品",
-        "lang": "zh",
-        "published": "2026-10-11T18:00+08:00",
-        "published_ts": 1791712800,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "6911473d8d95",
-        "title": "AI制药的陌生来客 - 投资界",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03QmJ0blVObWlBX0Y4ajFtVUhFdU95b3RzbmtIWGFFa1pzQUQtZHVvdi1qamcySTN4c0QtNkZPUkJYTUhaV3BlSmFsNEpTbnQwZVg4cUF3?oc=5",
-        "summary": "AI制药的陌生来客 投资界",
-        "source": "GN·AI 医药 IPO",
-        "lang": "zh",
-        "published": "2026-10-11T16:12+08:00",
-        "published_ts": 1791706320,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "c124cc39eda9",
-        "title": "'OpenAI·Samsung同台亮相'…数字医疗保健会议DHP 2026，下月11~12日举行| 水原新闻 - 수원일보",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hX0RKdTR0dWY3MDJva3NpTlJrZEduVW5hc2xnTG1iODVuSlRoM285VzE2V2tmLWZVNXVIeDB1VldiRFc1Rzc0eTRoYnBCbUdGVkZMX0o1MjZwVk15dklnck9rNGpkZk1aRUE?oc=5",
-        "summary": "'OpenAI·Samsung同台亮相'…数字医疗保健会议DHP 2026，下月11~12日举行| 水原新闻 수원일보",
-        "source": "GN·医疗 AI 上市",
-        "lang": "zh",
-        "published": "2026-10-11T15:45+08:00",
-        "published_ts": 1791704717,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "b8b9c2b21b75",
-        "title": "病理基因大模型DeepGEM2.0正式发布 - 科学网—新闻",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTnZhcHBRbkExZEk5TkdGYlVjTjNnVUp1RlQ0elVaaWFyWTF4cm5xSTNpUTdRNnQxT0pXY1BWSHF0YXlhWEswRGNjcl9FQVY2MWU4b2ZHRXZiSzFGQW1xMl9EdGs5dw?oc=5",
-        "summary": "病理基因大模型DeepGEM2.0正式发布 科学网—新闻",
-        "source": "GN·大模型医疗落地",
-        "lang": "zh",
-        "published": "2026-10-11T10:36+08:00",
-        "published_ts": 1791686204,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "9220aaa8994f",
-        "title": "AI重构新药江湖，谁在卡位“卖水人”赛道？ - www.wenxuan.news",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LeGlxWlBzbE5vQ2hneXlydERpQ0dqWV8yci1HSFdFNmFsUTFkTUhfVlhlbFBoQ0RBWXJPeHYyX2FpbGhSOXJWY2t6eTdWQm84Snc?oc=5",
-        "summary": "AI重构新药江湖，谁在卡位“卖水人”赛道？ www.wenxuan.news",
-        "source": "GN·AI 医药 IPO",
-        "lang": "zh",
-        "published": "2026-10-11T05:52+08:00",
-        "published_ts": 1791669178,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "2ececba74a1d",
-        "title": "医疗影像走到分叉口：谁在为「AI读片」买单？ - 潮起网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Zc2duT3g4ODE0XzVQc1JaamJja3U5U0JKRmtXVW9FUk5iQjdoYXBNMkRqSHUxbklUZmhzendkZkpqOUczLVJSand1NXpkVnlUajY4MHZ3UjlRZXEzQ0tHTnlDUQ?oc=5",
-        "summary": "医疗影像走到分叉口：谁在为「AI读片」买单？ 潮起网",
-        "source": "GN·AI 医疗产品",
-        "lang": "zh",
-        "published": "2026-10-11T00:30+08:00",
-        "published_ts": 1791649811,
-        "category": "ai_health_product"
       }
     ],
     "ai_health_project": [
       {
-        "id": "f70caab2435e",
-        "title": "ETF盘中资讯|AI制药突发大跌，什么情况？金斯瑞盘中急跌18%，药明系齐挫，港股通医疗ETF华宝（159137）标的指数下探5.6% - 搜狐",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3VhZGJXTFpFNTBOaGhucmVYZDVBQTF1T29NaEktT2NlMlJsVzlFcGtxZlVMMFhVQng1S0pZWlBGQmprRU9Hb2laeVZfaVFDd25MQVpsUVd6a2c1bE5raUhQckpheGFoaHl1cjNzcDFSazg5ZWpUR0dDc3dDSXR3WHlrV0lmTlZI?oc=5",
-        "summary": "ETF盘中资讯|AI制药突发大跌，什么情况？金斯瑞盘中急跌18%，药明系齐挫，港股通医疗ETF华宝（159137）标的指数下探5.6% 搜狐",
+        "id": "578773ab8dd7",
+        "title": "AI制药突发大跌，什么情况？金斯瑞盘中急跌18%，药明系齐挫，港股通医疗ETF华宝（159137）标的指数下探5.6% - finance.sina.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3U4cnJxN0lvY1hycUM2QnlmWkt5VjZDZ2dvNzZuT2ptZmp1RmtJM2hLd05LSHBDTXh1QUlTS19JektHejJ4Njl4cHZOOXBuUW03TU5VenAxUkRRY19uektYaWh6dlpNZFBUR3lENXJFOVJFY3l3WU9SNkpmQVZJY0NBN0p0bDk5ZXU2bkZBWWY4dk5FaUpzZV9JRktHMk9HbGRidQ?oc=5",
+        "summary": "AI制药突发大跌，什么情况？金斯瑞盘中急跌18%，药明系齐挫，港股通医疗ETF华宝（159137）标的指数下探5.6% finance.sina.com.cn",
         "source": "GN·AI 医疗投资",
         "lang": "zh",
-        "published": "2026-10-13T11:23+08:00",
-        "published_ts": 1791861818,
+        "published": "2026-10-14T11:48+08:00",
+        "published_ts": 1791949731,
         "category": "ai_health_project"
       }
     ],
     "ai_health_funding": [
+      {
+        "id": "4adaa81a5650",
+        "title": "高维医药完成Pre-A轮融资，加速构建AI靶点发现世界模型 - 投资界",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hRkQxOFVRNWlHZkFNUlVINUV3NENtR2J3QUlHNXJsV0JtQXB5MGFTSG41MFdMTHliMkUwTVhmaGVycGRwRUZWXzdOTWhpcGJxR2NJX2Zn?oc=5",
+        "summary": "高维医药完成Pre-A轮融资，加速构建AI靶点发现世界模型 投资界",
+        "source": "GN·AI 医药 IPO",
+        "lang": "zh",
+        "published": "2026-10-14T11:29+08:00",
+        "published_ts": 1791948540,
+        "category": "ai_health_funding"
+      },
+      {
+        "id": "e363cebf2930",
+        "title": "AEGIS：面向美国与欧盟监管框架下自适应医疗AI上市后治理的可操作基础设施 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdENOUER3RmpTM0d0bmduVGg0NzBCWmREVmJBa2NXVWJFaTFmNU5CRGtyRWU1VWtqX291dE5yc0R1UFI4eEpNb2ZhV0VUOFRsM09IVzdXZTA5N3BOQTV1ZHZpMFRaZzRLU0FocDln?oc=5",
+        "summary": "AEGIS：面向美国与欧盟监管框架下自适应医疗AI上市后治理的可操作基础设施 生物通",
+        "source": "GN·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-10-14T08:00+08:00",
+        "published_ts": 1791936040,
+        "category": "ai_health_funding"
+      },
       {
         "id": "19fad9da0611",
         "title": "洛阳钼业：全资子公司合计9亿元自有资金认购两只股权投资基金，投向AI、创新药等赛道 - 搜狐",
@@ -791,28 +989,6 @@
         "lang": "zh",
         "published": "2026-10-13T18:33+08:00",
         "published_ts": 1791887580,
-        "category": "ai_health_funding"
-      },
-      {
-        "id": "09d9af490ca9",
-        "title": "Healthleap获3800万美元融资，AI揪出医院潜在病患风险-AI应用 - 至顶网",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HUTVOcGpSV3YtZkJOWkJMU1pobjBESGJuZWN0amlybDN4dFZGVm5jR21HcHpCMzNVaWI3NlNMMFNxX2VjV2Z5QVRMVmtYTmVGbkJWcHFsSUhiMDByRzdwRlJ4MmxTcmxTWDY0SVRHOA?oc=5",
-        "summary": "Healthleap获3800万美元融资，AI揪出医院潜在病患风险-AI应用 至顶网",
-        "source": "GN·AI 医疗融资",
-        "lang": "zh",
-        "published": "2026-10-13T16:03+08:00",
-        "published_ts": 1791878597,
-        "category": "ai_health_funding"
-      },
-      {
-        "id": "b02dbfb9a680",
-        "title": "医疗上市公司斥资数亿入股AI与半导体基金 - 搜狐",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWIyNnU3Smw2NGR1b3BKUEEzVVd4d0dXZThHd1MzUmRuNDJ1WVp6NkJkWEhNSlNBX1BHd1hrOWhJNkhMOXY3eGdHYkhhVGc0VUJvWkwyUXR1SXNJN2JZZzFCU01yLU10bkxMeGIwTkxDRE4zSC1yb05OdjhvSWdCREVuYkFIMTd0U29zYw?oc=5",
-        "summary": "医疗上市公司斥资数亿入股AI与半导体基金 搜狐",
-        "source": "GN·医疗 AI 上市",
-        "lang": "zh",
-        "published": "2026-10-13T15:28+08:00",
-        "published_ts": 1791876532,
         "category": "ai_health_funding"
       },
       {
@@ -827,27 +1003,38 @@
         "category": "ai_health_funding"
       },
       {
-        "id": "18f7cf16d71d",
-        "title": "医疗人工智能公司重新收购A·A Technology Evaluation，该公司的人工智能基于2000万份心电图训练而成……正寻求在深度科技领域上市。 - 벤처스퀘어",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PNTFIMG5EUTY0MDRMZGRzZFFmVmRnYjJaMXRqTmJwaVNnZDlUZklJN3B0eEtFWG0zMW1qXzZPUEx5UXJZZTBCR1YxVlo0WTZUaUlj?oc=5",
-        "summary": "医疗人工智能公司重新收购A·A Technology Evaluation，该公司的人工智能基于2000万份心电图训练而成……正寻求在深度科技领域上市。 벤처스퀘어",
-        "source": "GN·AI 医疗产品",
+        "id": "d5fefd4b1fdc",
+        "title": "Vitalyze 融资 3100 万美元 A 轮，打造医院人员配置与运力管理的 AI 操作系统 - news.lavx.hu",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUUNBX0V0VzlIdndRWnlzVmFrMTVzZmhnSk9CZVBHVEREUE5SRXV2eDc2YjdOWER0Y2ExUGtfUmg2LTJIUzd5cHlKVXdDNm1iZnhuakdVMTNEMTdxRS1ObnRmV1VLMTRZQmxVY0s0NDQ5RE9qQ3pFX1dyeGVsaVNCcHNLSTl4b3ZYR1ZiZ2NLUVIwNVhOczlMaV9raVdNQVZiRnpVdV8xVTNCcHJJS2c0aGMtdXg5SzVzdjZoUmg4blhSWWQwRjZJb25BeDF3WElTQ1FzVU1qRzhwU2tlMklsM3lvQQ?oc=5",
+        "summary": "Vitalyze 融资 3100 万美元 A 轮，打造医院人员配置与运力管理的 AI 操作系统 news.lavx.hu",
+        "source": "GN·AI 医疗融资",
         "lang": "zh",
-        "published": "2026-10-11T18:24+08:00",
-        "published_ts": 1791714297,
+        "published": "2026-10-12T09:11+08:00",
+        "published_ts": 1791767512,
         "category": "ai_health_funding"
       }
     ],
     "ai_hospital_speech": [
       {
-        "id": "4e09658523dd",
-        "title": "深圳清华大学研究院常务副院长刘仁辰：让AI成为能力的一部分，而非被AI驾驭 - 搜狐",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUg2N2NpdVhhTFlERmpnUmtGN3llZFpKcXpZbE1LLW15Nmw1SUwzTnM2MV9aZEMzbGpoMXFyMkZoQWV2S2hodjlONkwxMmxDSVBJN0JTMXgtUWlqWENUMnJ6Z2pUczVzY3J6Rmx2WWlrNnRfTk1tend1ZV95VFFqT1J2X05qU2gyS0RCZA?oc=5",
-        "summary": "深圳清华大学研究院常务副院长刘仁辰：让AI成为能力的一部分，而非被AI驾驭 搜狐",
+        "id": "f12fcbf8ee67",
+        "title": "奇瑞智驾老将加盟三一，出任耘 AI 总院院长 - QQ News",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rMDdpMXhsSzU2U3ZQbXN6NkNaNEVxb1BfWmdsQUFHV0JLY1FJU29rMGZCb1BnUEFyTjQ1cldsb2djM0VDd3ZLQ0hQX3d4OXIxaUpEUUN3?oc=5",
+        "summary": "奇瑞智驾老将加盟三一，出任耘 AI 总院院长 QQ News",
         "source": "GN·院长讲话 AI",
         "lang": "zh",
-        "published": "2026-10-12T14:44+08:00",
-        "published_ts": 1791787444,
+        "published": "2026-10-13T08:36+08:00",
+        "published_ts": 1791851760,
+        "category": "ai_hospital_speech"
+      },
+      {
+        "id": "1785b91d0a04",
+        "title": "深圳清华大学研究院常务副院长刘仁辰：让AI成为能力的一部分，而非被AI驾驭 - 深圳新闻网",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84c01KV1lRejMxTTZXRTNYLUxHVTJHN1ZEZjdHSWZsQUNDN3U4ZnlfM01TWG9mUDBycXRZZWJERU55dTJEQzlMNnBUVWMzYlFuMDJBMDk0QlRmam1TSXlEZnhGMUh3UGg0YkUxT1o5WllKTHVfSlE?oc=5",
+        "summary": "深圳清华大学研究院常务副院长刘仁辰：让AI成为能力的一部分，而非被AI驾驭 深圳新闻网",
+        "source": "GN·院长讲话 AI",
+        "lang": "zh",
+        "published": "2026-10-12T14:50+08:00",
+        "published_ts": 1791787827,
         "category": "ai_hospital_speech"
       }
     ],
@@ -861,17 +1048,6 @@
         "lang": "zh",
         "published": "2026-10-10T17:13+08:00",
         "published_ts": 1791623624,
-        "category": "ai_health_gov_speech"
-      },
-      {
-        "id": "e0859a41f5bc",
-        "title": "国家卫健委等两部门：加快脑机接口、具身智能、仿生驱动等前沿技术布局 - www.caiwennews.com",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HTzFHTUlnSWdPUWNhLUxUMHhYalA1NHk5TVZ1VkFOZ1lwOWhVa2lhb0tuRWw0OGR6ME9KYmVVOFRLbzRTYXhSdUZlLXRkTnYwVi1DTzktZFpXeXJq?oc=5",
-        "summary": "国家卫健委等两部门：加快脑机接口、具身智能、仿生驱动等前沿技术布局 www.caiwennews.com",
-        "source": "GN·国家卫健委 AI",
-        "lang": "zh",
-        "published": "2026-10-08T09:15+08:00",
-        "published_ts": 1791422114,
         "category": "ai_health_gov_speech"
       }
     ]
