@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-11-03T11:26+08:00",
+  "window_start": "2026-10-31T00:00+08:00",
+  "window_end": "2026-11-03T00:00+08:00",
+  "category_labels": {
+    "competitor_analysis": "竞品分析",
+    "ai_health_product": "AI 医疗健康产品",
+    "ai_health_project": "AI 医疗健康项目",
+    "ai_health_funding": "AI 医疗健康投融资",
+    "ai_hospital_speech": "关于 AI 院长讲话",
+    "ai_health_gov_speech": "关于 AI 卫健委讲话"
+  },
+  "category_order": [
+    "competitor_analysis",
+    "ai_health_product",
+    "ai_health_project",
+    "ai_health_funding",
+    "ai_hospital_speech",
+    "ai_health_gov_speech"
+  ],
+  "counts": {
+    "competitor_analysis": 0,
+    "ai_health_product": 0,
+    "ai_health_project": 0,
+    "ai_health_funding": 0,
+    "ai_hospital_speech": 0,
+    "ai_health_gov_speech": 0
+  },
+  "items": {
+    "competitor_analysis": [],
+    "ai_health_product": [],
+    "ai_health_project": [],
+    "ai_health_funding": [],
+    "ai_hospital_speech": [],
+    "ai_health_gov_speech": []
+  }
+}
