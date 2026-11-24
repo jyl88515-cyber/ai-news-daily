@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T10:38+08:00",
-  "window_start": "2026-11-20T00:00+08:00",
-  "window_end": "2026-11-23T00:00+08:00",
+  "generated_at": "2026-11-24T13:57+08:00",
+  "window_start": "2026-11-21T00:00+08:00",
+  "window_end": "2026-11-24T00:00+08:00",
   "category_labels": {
     "competitor_analysis": "竞品分析",
     "ai_health_product": "AI 医疗健康产品",
@@ -19,15 +19,532 @@
     "ai_health_gov_speech"
   ],
   "counts": {
-    "competitor_analysis": 19,
-    "ai_health_product": 20,
-    "ai_health_project": 1,
-    "ai_health_funding": 3,
+    "competitor_analysis": 72,
+    "ai_health_product": 31,
+    "ai_health_project": 2,
+    "ai_health_funding": 4,
     "ai_hospital_speech": 9,
-    "ai_health_gov_speech": 2
+    "ai_health_gov_speech": 4
   },
   "items": {
     "competitor_analysis": [
+      {
+        "id": "e4e569c98b98",
+        "title": "蚂蚁健康总裁张俊杰：引入UpToDate，让AI成为医生的“大脑外挂” - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3ZWNVhuOEZZX2VNQUd5VnM3YU1aZmpscUlXZTQyaDNHekh6Wk5lLVVBMDdVLWpYR2N4TEpiUkktVGJDS2xNYl8tNU0zMjdGQ2NVdWYyQ3U2MmhiRHBSMkNLUzNGeXdlYlpsV1FuOU9taDhNelVjczRUUkk2R3J4ci1xUWRvU1hG?oc=5",
+        "summary": "蚂蚁健康总裁张俊杰：引入UpToDate，让AI成为医生的“大脑外挂” Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T22:47+08:00",
+        "published_ts": 1795445268,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "85e463eaa24a",
+        "title": "直击蚂蚁阿福首届生态大会：新App、新模型、AI硬件……9大看点一文看懂 - 雷科技",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4R1pyUjVvSmN4d3laUXVmVmFjX1FOQy1vNVh4YlZHRVBUckhvN1lyQzc4TEZXNGFqb01kc1pDcDE2U3NJNmUzN01mdFpCZw?oc=5",
+        "summary": "直击蚂蚁阿福首届生态大会：新App、新模型、AI硬件……9大看点一文看懂 雷科技",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T21:14+08:00",
+        "published_ts": 1795439682,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "adccc5fd5cdc",
+        "title": "从千人一方到一人一方，健康大模型正在改写规则 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmt6MkpZdHRpZTNrS0s5NjhuOFBMa0QzeUl4Y2oyUXNrRW1jQzd5ZzMxcGpKZGx6dDRKUWxkdU5haHBkejMyNGlaWFVzQWE0U2JtNDBpQmw2ZmR6YTc4SXM3WkV6aWVyWmdhODNZS1lJZXBwQ21zTWc3QkFra19oSUhhTkprVmZWNHhhMQ?oc=5",
+        "summary": "从千人一方到一人一方，健康大模型正在改写规则 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T21:14+08:00",
+        "published_ts": 1795439665,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "a27a698e16be",
+        "title": "蚂蚁阿福发布视频“看健康”功能，医疗AI能力与临床验证边界受关注 - 虎嗅网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaWUFfdUxrSU8xYkdPRnBVWlQ4M0JYVGROTFVobGN4dlhYTHp2N3FtSWhVdkdFQjBUV1FOblhhUmljXzNxM3k1OTM2NVd5Ym15RXRreQ?oc=5",
+        "summary": "蚂蚁阿福发布视频“看健康”功能，医疗AI能力与临床验证边界受关注 虎嗅网",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T20:50+08:00",
+        "published_ts": 1795438241,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "a49cf9d57209",
+        "title": "当村医用上AI：技术如何重塑健康普惠“最后一公里”？ - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMW0wUTlPZVM0RmFKVGVWYk9wNk5hZDV6WDhxamFWQjQtOWlpY3V5RGdpSDlPR0dYcFBnVkE0ZkhMYmZJUWpfcFl2cUVad0lKMkdVRmR2cDNndEM1VHhSNVF2Y1lCcGpTMFQ2VkZrcmNsNjJmNVBOcTVub2ZVdFlGcmNsQWJBNjBrRTQyakZtOA?oc=5",
+        "summary": "当村医用上AI：技术如何重塑健康普惠“最后一公里”？ 21财经",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T20:40+08:00",
+        "published_ts": 1795437600,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "399e00012257",
+        "title": "AI视频电话实现“望闻问切”，蚂蚁阿福发布医疗大模型 - 星岛环球网",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0V0pxZVc3WTlnZ01VWlB4NmFrVTFqNnlWU0swSzB4QVlpVVZsOTV1MUFURkcyeGNFNkV0dW5PaFJwQWhLVnhUcWlreUxEdmJmV1NGdWVwQ0xuMkdsbnF0dXBURWs?oc=5",
+        "summary": "AI视频电话实现“望闻问切”，蚂蚁阿福发布医疗大模型 星岛环球网",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T19:34+08:00",
+        "published_ts": 1795433640,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "5fdc8291c75e",
+        "title": "蚂蚁CEO韩歆毅现场戴上AI健康戒指 蚂蚁阿福已有1.5亿位用户 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1NPYjJIRVpEX1FCUDRqWkdNa3FHR05JNlZVRkpPRVBRNDA5Q3V1RHh5SVI4M0p4WUxSbVpVV25VdWVJSmRGYy1CZzc2dk93UUR3cXJPYzRCMFRjbTQ2SnhHeW16ZHRKSXp0MG5TVGIyaG9pN1BaRHlCNVY1TVFXWTlaMlBpZ1VI?oc=5",
+        "summary": "蚂蚁CEO韩歆毅现场戴上AI健康戒指 蚂蚁阿福已有1.5亿位用户 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T19:16+08:00",
+        "published_ts": 1795432568,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "fe09fed8632b",
+        "title": "蚂蚁阿福上线“视频看健康”，医疗AI万亿蓝海争夺战打响 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ETnZDMmpqYmxrci1jcE54YW11QnhfSGZFQ0dsN3N0SzNtNlMteWtxR3JpWGtPNmpPdGFleGZmRzhteXVpbEU1U3VIOHNuaGN0M2Zz?oc=5",
+        "summary": "蚂蚁阿福上线“视频看健康”，医疗AI万亿蓝海争夺战打响 第一财经",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T17:34+08:00",
+        "published_ts": 1795426455,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "54d50c57caad",
+        "title": "蚂蚁阿福上线“视频看健康”，医疗AI万亿蓝海争夺战打响 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkVEYVlHcjJJM1dJY3o1bEFQcFJVT1NvRndlcjhyNDJ2bm9FZWwxaHpWancxVV9NVEJQc251R3RMWHB6ajdKd1ItTUNVbnh4VDAxTDJnVWZGdVE2QjhDNDFkMXFIa2NpS29hWVlFNTNmUzJ6UmdaOWFLWWxxT3pObmpIcWVlWXdp?oc=5",
+        "summary": "蚂蚁阿福上线“视频看健康”，医疗AI万亿蓝海争夺战打响 Sohu",
+        "source": "GN·AI 医疗融资",
+        "lang": "zh",
+        "published": "2026-11-23T17:33+08:00",
+        "published_ts": 1795426380,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "3474d4a655a1",
+        "title": "蚂蚁健康发布四大AI医疗健康模型，阿福推“视频看病”及国际版APP - 星岛环球网",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tdmhCaHlrUHlHcVBqc0d4RlRYTlJTaC13ZUpHYWhOeFpnbkV4akdaMHVoWU1yTkRFWENWSzV4Z05id3kxMkg2QkJvalBqOU9OMTc1THNvVkxlQzRVWXZYelg0TXk?oc=5",
+        "summary": "蚂蚁健康发布四大AI医疗健康模型，阿福推“视频看病”及国际版APP 星岛环球网",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T17:31+08:00",
+        "published_ts": 1795426260,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "427384d1fa17",
+        "title": "从UpToDate接入阿福，看蚂蚁做医疗AI的边界 - 华尔街见闻",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lT202cUtpdmszWlZxRkdOTXNMcktQWUhtTGdBV0Z4N29yNmlKQzlWN1BFN3lCaHo2TXpSMkE0TGlSTTRoWWdqUXB6dVFQNkpzZlMw?oc=5",
+        "summary": "从UpToDate接入阿福，看蚂蚁做医疗AI的边界 华尔街见闻",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T17:18+08:00",
+        "published_ts": 1795425523,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "d8eccba953d0",
+        "title": "#媒体原创 【钟南山：AI是医生的好助手但不能取代医生】 11月23日，在2026蚂蚁阿福医疗健康生态大会上，中国工程院院士钟南山表示，AI有望成为守护居民健康的温暖力量，让更多老百姓看得上病、看得好病、看得明白病。但医学是“健康所系、性命相托”的事业，容不 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTgtNHZzb092YUtVbmJpYS1LbWRxYWQ5YXZPYkQyeWVzckNsR2ZESmgxUlA1YjFFX1V1akw0Nk5nOXE0ODNsay0zWXlQOWh5N3g4VDBsN2ZqQWhMV0duNGtwNG1yWnU2M0JPMlhmejY5cWJlYzRYTlRlbnJaaktGd3pZcTdQemRacl9YcQ?oc=5",
+        "summary": "#媒体原创 【钟南山：AI是医生的好助手但不能取代医生】 11月23日，在2026蚂蚁阿福医疗健康生态大会上，中国工程院院士钟南山表示，AI有望成为守护居民健康的温暖力量，让更多老百姓看得上病、看得好病、看得明白病。但医学是“健康所系、性命相托”的事业，容不 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T17:07+08:00",
+        "published_ts": 1795424851,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "df87c94eb42e",
+        "title": "蚂蚁阿福发布两款AI健康手环、戒指 - 电商派",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSdFkwODZ5TmhzTlJ2bE9TbUc0bWRmOU1KSlBuUnVyVmhoQkhtUUJNUUpJQXQxanJIVmVFR0RsNmlOR1BLWDFpdnVCaG9pUGtlQVRkbnJVTGpLbC1BdTNjTEg2VVI?oc=5",
+        "summary": "蚂蚁阿福发布两款AI健康手环、戒指 电商派",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T16:57+08:00",
+        "published_ts": 1795424272,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "1d1c10669f23",
+        "title": "东方社区数字苑携手蚂蚁阿福 5.01元申领智能体脂秤公益福利正式开启！ - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWtQTE13cm5EUzFHVGtoY1FsZWxFd2JXMnVNS19VTkUyaG1aRkVpNTVNWl9zRm9VU2pBdTJmcmo5dFl4ZmVSclFLaEtCVUNYSDhETEhVTTY4aEowZTZBa242T0tic1laQzNGaTlLRnh4VG5TX0VhaEZrM1phbEFUdV9ORkhEcndKZndUWQ?oc=5",
+        "summary": "东方社区数字苑携手蚂蚁阿福 5.01元申领智能体脂秤公益福利正式开启！ Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T16:48+08:00",
+        "published_ts": 1795423736,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "543112a7e937",
+        "title": "从看懂健康到专业推理，蚂蚁阿福发布百灵医疗健康大模型家族_滚动新闻 - 证券之星",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsUnlsRDhQYm1NZ0lpb2tVTDRIRlhYb1EzMThKakNvNEk5RTkweVUxVmhNV2NoNjN2WlNSUHd5OGhZY21qakNrakJIUHBncEJ1TW1pYzZKUTg3UnFMWkJhT3ZBZnM?oc=5",
+        "summary": "从看懂健康到专业推理，蚂蚁阿福发布百灵医疗健康大模型家族_滚动新闻 证券之星",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T16:34+08:00",
+        "published_ts": 1795422840,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "67bf77341158",
+        "title": "钟南山院士：医疗健康领域必须有专业AI 医学容不得半点差不多 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFVid2gyb0ZqZUhjTTF2dEl0N2x2SHFEZGFjWktDN3NrSjRTQnlCOHlRdnBuenlrWjNndWdQVmV4bjctOENrMUlQRmU2VWNQXzBhUGpjT0lWVlQ5ZkVQV1R2SHB2cDhNOGJZQWhTRXNBNUlqXzhWYVdxSXV2MXl2dmNUSkxDWTNG?oc=5",
+        "summary": "钟南山院士：医疗健康领域必须有专业AI 医学容不得半点差不多 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T16:07+08:00",
+        "published_ts": 1795421244,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "4b0e2541b0bd",
+        "title": "AI赋能普惠健康 科技守护民生福祉 2026蚂蚁阿福医疗健康生态大会在穗举办 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekJDQ3pJR1U2TjNWN2tpdnhzeVhveENWeUZtLVhjVVlEM3Z2TXdSS1hCcUZTOHMybzlvRlI5dGNET2lDcEdqdmRoSHdGUjVqY2dyUWNWZnY1Wkp3YkNWTXVBb2ZWZjRBMHBSNEZ3YkU3SVRLeVlYWnBjbndqQUVwWUFXcWhoVmty?oc=5",
+        "summary": "AI赋能普惠健康 科技守护民生福祉 2026蚂蚁阿福医疗健康生态大会在穗举办 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T16:00+08:00",
+        "published_ts": 1795420800,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "e13a53371ff9",
+        "title": "AI赋能普惠健康 科技守护民生福祉 2026蚂蚁阿福医疗健康生态大会在穗举办 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWk3SDFtajFxdzJoNmJGZjUxVHJmZVFnd3hWanlRMW5JVzRuM29mb2VkLVR5NkpNbHVkTEJvTTFYOHg1S0xIVkVsYkExRURTTHVsUExObzFGVWxCQjd6NkE5WlVUY3lwUkJza3ZGMnlqOTRybVQ0TXhKQWpfRTV3dlVmak5tTzhtUmdha1hHVGhYUG5KN3hSWjVMaFlmUXNC?oc=5",
+        "summary": "AI赋能普惠健康 科技守护民生福祉 2026蚂蚁阿福医疗健康生态大会在穗举办 Sohu",
+        "source": "GN·院长谈 AI",
+        "lang": "zh",
+        "published": "2026-11-23T16:00+08:00",
+        "published_ts": 1795420800,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "d5fca34a3317",
+        "title": "AI医疗商业化进入深水区：医渡科技能否跑通医院与药企两端？-证券之星 - 证券之星",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qT1VvWjJjaUN5UGE5TWxJMC1oSFJYQjRUeUttdDhVeXNFa1NFRWpwQjNydjZCYkxseGtzZHdiLXpPUWo5eUlPcF9ZOUNBMWN0bXNwZTVBQk1MOEVPVFE?oc=5",
+        "summary": "AI医疗商业化进入深水区：医渡科技能否跑通医院与药企两端？-证券之星 证券之星",
+        "source": "GN·医渡科技",
+        "lang": "zh",
+        "published": "2026-11-23T15:59+08:00",
+        "published_ts": 1795420759,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "fac7a87614a4",
+        "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人用阿福管健康 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCdEhSTkx1bDlPU1NQclFsV3lsMy14RW0xOFBLX2g1ZURBY296TF9CaDNfSVd3ekpwcmM4QzFpNWxlZGxxeXhRTjVhQ1VjTGR2WmlVaVBn?oc=5",
+        "summary": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人用阿福管健康 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T15:40+08:00",
+        "published_ts": 1795419655,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "50c902f6b6eb",
+        "title": "“福环”和“福戒” 蚂蚁阿福的智能硬件来了- AI - 亿邦动力",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BN2dsT0pBenM2Y1k2V2VoODdGVHV0bHh1LXVOcHQ4ZnhXQXRWczlhU1c0eC1sTURaYXljZlQzNEpSVnVGaHZoUUthNGNRRUstRTRwMG9R?oc=5",
+        "summary": "“福环”和“福戒” 蚂蚁阿福的智能硬件来了- AI 亿邦动力",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T15:39+08:00",
+        "published_ts": 1795419542,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "47669a9bd095",
+        "title": "蚂蚁发布百灵医疗健康大模型 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR052Ujd1MHFLZXY3OFRsalhxc3VpUTMwR2I3TTQ3YUNLT0tuRjVnZEFTUjBWRnFEYTRDZ1hBdlJxTkZmY3hYS25Oc05JVGIwSHVZS3BzWUtfZVVrQ05kSTZmRm9SRnlTN24yYkFzSEhYakR6ajJzaTZHbG9mUHlZdXZMVVJmdHBPbS11ZFJfOA?oc=5",
+        "summary": "蚂蚁发布百灵医疗健康大模型 21财经",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T15:38+08:00",
+        "published_ts": 1795419511,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "86d227cb890e",
+        "title": "AI能视频看病了！蚂蚁阿福App新版发布- AI - 亿邦动力",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1haVpqM281LTFzVTVpaV9XVmFtNDZnS29TbE9mMDFMTnBTYkNoLVZUZF9LaEhrRjRuMWVpM2FNbEFTZjJnc3hDMXdQYXdjRm1HajBsWVdR?oc=5",
+        "summary": "AI能视频看病了！蚂蚁阿福App新版发布- AI 亿邦动力",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T15:24+08:00",
+        "published_ts": 1795418662,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "1c700524ca7e",
+        "title": "海量财经丨蚂蚁CEO韩歆毅：AI让专业照护走出诊室，给患者连续的健康支持 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHZENlBSTFdTYkNqLXM3UTJXRDVVRmpzQ1VpcEdFaldpZS1ZUS1hSHBKcUlKSWt2XzFlU2lwVE9IeEtPeDRRTzZTMXl6S2Z5REF3RmpYVF9PWG9VbXJTZTdhcVoyNndLZ08xcnYzdE03czF4NFdKVVFiYlNncm5VZHhXMTFleVUxUTR0Qw?oc=5",
+        "summary": "海量财经丨蚂蚁CEO韩歆毅：AI让专业照护走出诊室，给患者连续的健康支持 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T15:22+08:00",
+        "published_ts": 1795418520,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "be894839dfa0",
+        "title": "蚂蚁阿福推出AI健康戒指和手环 - 动点科技",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrNEZGQW9JMlVwcU1yRzRNV2JCbkZYY1AtYWdJZTFCQlJ1WEMzNjM4QXA5cXYxcmlIUG44OXk0SGxLWS1ZOFFHLWVWejVBdnpTYXdsRmRBSmo1cW5ibG4tRU5BanNfLWcwUlRvekJDYTFjYjlTUDROb2R3?oc=5",
+        "summary": "蚂蚁阿福推出AI健康戒指和手环 动点科技",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T14:48+08:00",
+        "published_ts": 1795416480,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "1cb04ae1d787",
+        "title": "蚂蚁集团CEO韩歆毅谈阿福：AI更大的价值是让人少生病 - 光明网",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OSEd6QW9SbEZBbjhhOVlLTUFpVHZJdFBfM1VDRVNaQ1F1VTRqcnV5VE1sd1Z1U2kzazdjMFh4UkhjMDhlaTdLTS1qemhvX1dYcnlZc0RUWldhODk2bnhMZzlSWng?oc=5",
+        "summary": "蚂蚁集团CEO韩歆毅谈阿福：AI更大的价值是让人少生病 光明网",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T14:45+08:00",
+        "published_ts": 1795416320,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "61c0ef3fdea3",
+        "title": "蚂蚁CEO韩歆毅：阿福已有1.5亿用户，成全球最大AI健康应用 - 手机新浪网",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KaHc2OWtBU1RUaUxiZTFUZEhIQkhnVDRwX2s0dVdqeFhBV0cyYWltTFRpd25ucGNWWkNuYTdRWlpnVUJiOXRwUW9WRTRVZEZseEJ4Z2tUc0tBLTFNREE0eDdta2R2SHBzMG5LQWl5NVl0eC1yS3U2b0RmVEsyZw?oc=5",
+        "summary": "蚂蚁CEO韩歆毅：阿福已有1.5亿用户，成全球最大AI健康应用 手机新浪网",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T13:25+08:00",
+        "published_ts": 1795411506,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "56f12675bc70",
+        "title": "蚂蚁阿福App新版发布！联动真人医生把关，AI也能实现“望闻问切”了 - ThePaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CNk5XMGpzTTF6WGR1MnhDU2JMczBmUGlXWVUtMWVmcm1zYlFUQmYzd1MzLXFlcF8zZVZGUUhqNHBoUVZpYUYwaVhZQkxlZjBoeHJkaVhXYkxJQWJIZGpDcg?oc=5",
+        "summary": "蚂蚁阿福App新版发布！联动真人医生把关，AI也能实现“望闻问切”了 ThePaper.cn",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-11-23T13:18+08:00",
+        "published_ts": 1795411084,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "f51300710444",
+        "title": "一青年裁员暴食后确诊脂肪肝，用阿福减重近40斤，减掉脂肪肝、重启人生。AI阿福已帮超10万人从BMI肥胖变正常。 #AI #健康 #蚂蚁阿福 #蚂蚁阿福生态大会 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG5UYXJIS25Lb2FhSjVBU083SlV3VHNtSVBFdUtsNEQtbFVVYVJHLTg1VzhzdEtocVozOFlUN21JR2x0cmVNOU5JZmRsREVISzhiaVBZRjlvWHhxNkFCaENWS0lnXzVzLUJBSzZta1dLTDBOdXJ2Y2k2THdLa1I2ckNoSnRfOGhKd0dzRA?oc=5",
+        "summary": "一青年裁员暴食后确诊脂肪肝，用阿福减重近40斤，减掉脂肪肝、重启人生。AI阿福已帮超10万人从BMI肥胖变正常。 #AI #健康 #蚂蚁阿福 #蚂蚁阿福生态大会 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T12:46+08:00",
+        "published_ts": 1795409201,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "17e7e49134b8",
+        "title": "医渡科技2027财年中期AI for Medical新签订单增长98% - 东方财富网",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aOE9HTXFseWt4Z3NMQVFTMW92NVY2bWxld1VqUFhjY1NqQnUyTk9PdVFpcVVpUWFtSzlNSU9XT1NoejlCWS1zd3MxMlRBVjdVNC1Fb3JmMmI2dzNnVmcxenNONHpqUQ?oc=5",
+        "summary": "医渡科技2027财年中期AI for Medical新签订单增长98% 东方财富网",
+        "source": "GN·医渡科技",
+        "lang": "zh",
+        "published": "2026-11-23T12:46+08:00",
+        "published_ts": 1795409176,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "2090e991350e",
+        "title": "对着镜头也能看病，蚂蚁阿福全新升级，AI健康手环、戒指同步亮相 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMndTamJKNUxXV0RIUklFaEw5ZE1RUVkyaGQ1djBNaGtUU0VTRVItREFZUndfeWkxdU1zdzJaMHJQRFo5cFNuc0tYTmVYVzlYTVFPNGQzUVBrN1BTd3c2Vlp5YUZhRWpoajlOUG1WeHAxb04yUDktV3NMX1NnaFc3bUhEaW90cFRqWmpxQw?oc=5",
+        "summary": "对着镜头也能看病，蚂蚁阿福全新升级，AI健康手环、戒指同步亮相 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T12:40+08:00",
+        "published_ts": 1795408830,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "09f67be637e4",
+        "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗AI能力 - 上观新闻",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrekRackQ2S1Y5ZlpYbzZFZFM0UTBKQW1vMFlMcVVhOE9IY051TDVXSkNDMklZT0ctNng5Q2Fabkc2Qzhzd0hNZVFWU3ZyRDdwSXVGR2JLUGxFOXpobnc?oc=5",
+        "summary": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗AI能力 上观新闻",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-11-23T12:29+08:00",
+        "published_ts": 1795408140,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "985fefe6954e",
+        "title": "百灵医疗健康大模型LingSante家族发布！蚂蚁阿福能AI望闻问切了 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ib3FCblNzOC1HRnFqZ2stTXRiUWdjdl94OUdyRTUxMlRwYllKcXBiWV9vWjh5NUZGaTdEWjZNMUxWc0FmODFuT3RFVU5pQzQ5ZHVWMXdXa1Q?oc=5",
+        "summary": "百灵医疗健康大模型LingSante家族发布！蚂蚁阿福能AI望闻问切了 驱动之家",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T12:20+08:00",
+        "published_ts": 1795407600,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "9a6260b4cfdc",
+        "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康 - 雷峰网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JbFZKZWFhSEw2djR3Z3U0dW05ckZYVHcwdFZiUW4xTEViQVNBb2xvcDdtM0dPTEZBUi1CTHpVZjNuOUc1TURrcmR6NG52ZTdRd0kyT1dpd2N6MFdDWGRVRWhLNGF4RHhsS2dRbkpVZWhFXzV2NWFF?oc=5",
+        "summary": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康 雷峰网",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T12:10+08:00",
+        "published_ts": 1795407000,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "fc698f41639e",
+        "title": "AI也能“望闻问切”了，小毛病在家打个视频就能问|蚂蚁阿福App新版发布，可联动三甲医生在线把关 - 温州新闻网",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tYkNvTFM0TWlEZ0ZSUUlGZy1mZ28xSGo0UldsWjdhQVJJcm51dDFGQmxwWmh5anFPWXVjYzY1ZUVhNFV1UlV3VXNocnpZeHE5cDRjY0lBNkMtcDRiZXNuZDYtQnE1Qk5KWGs0QQ?oc=5",
+        "summary": "AI也能“望闻问切”了，小毛病在家打个视频就能问|蚂蚁阿福App新版发布，可联动三甲医生在线把关 温州新闻网",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T12:03+08:00",
+        "published_ts": 1795406638,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "9ab7eb7d04d3",
+        "title": "蚂蚁 CEO 韩歆毅：阿福已有 1.5 亿用户成全球最大 AI 健康应用，呼吁医保、商保从“治病”延伸到“健康” - 光通信Pro",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FMElwdVZlQ2lReU1oV2F5TWNDSm9nSEZOYlg5Nk1iQTNBUk9WNXlxU09MV1FJUW1xZWJscGFaSUNBakFncGpISV9wMldMcWQwVFNDa3RGZw?oc=5",
+        "summary": "蚂蚁 CEO 韩歆毅：阿福已有 1.5 亿用户成全球最大 AI 健康应用，呼吁医保、商保从“治病”延伸到“健康” 光通信Pro",
+        "source": "GN·蚂蚁保健康",
+        "lang": "zh",
+        "published": "2026-11-23T11:45+08:00",
+        "published_ts": 1795405524,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "c858a80ccfd7",
+        "title": "国内首个！蚂蚁阿福上线实时视频功能，实现AI“望闻问切” - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2REZGlDMmNuNkJhTERJY3N6eTdqRXFGZUVza2xFaEdxRmpwc1FKQmtjTzVzN2dwRkRLSGZTZlRNbktwdm0ySDBsY2E1MnM4R0JGUmpYdmRPLXZsVmk3S0RoU25CVzhUZDlhdFI0WFUwd0hLQjFrQTdjMTZ5RzJFaW9IX0EtQTZ1dEFjOQ?oc=5",
+        "summary": "国内首个！蚂蚁阿福上线实时视频功能，实现AI“望闻问切” Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T11:31+08:00",
+        "published_ts": 1795404660,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "46335f89ae5d",
+        "title": "阿福用户已达1.5亿！蚂蚁CEO韩歆毅：AI更大价值是让人少生病、少生大病 - 驱动之家",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95RGd4VGgtNDhMX1ZTb3FVSHJxTTFSR0poUjBHTGw4RVhlTlBHdzNlNEpaQmJ2cWdhQ3k3enM3RlR3UkNRZmlBWWtLV0JfWHlHRVBTNm5KZVY?oc=5",
+        "summary": "阿福用户已达1.5亿！蚂蚁CEO韩歆毅：AI更大价值是让人少生病、少生大病 驱动之家",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T11:29+08:00",
+        "published_ts": 1795404540,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "6da438547596",
+        "title": "蚂蚁阿福发布AI健康手环、AI健康戒指 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3BJbllRRnpqR2Y0V25hdVJxeTFXREhnTEp2emdYR0R4SWdTVFdoamJBLWZ6dmQ4a2ZDdzhlLXItd1JDZWFkWmoyMWxnVUxyYU9ZcDhXN0kxZUltXy1saVJmSXVfeWZSM1Nxdnhqa2p2bzQyUXMtYlhfT3Q0VktnQ2Q3enBHWGM2?oc=5",
+        "summary": "蚂蚁阿福发布AI健康手环、AI健康戒指 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T11:17+08:00",
+        "published_ts": 1795403820,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "3a13277d37b9",
+        "title": "蚂蚁阿福发布全新AI健康手环“福环”和AI健康戒指“福戒” - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFNseWpyT0RuWjhFamNmS2ppTm80bnluWk5mUDlBUHB2aHlwRHAtaV9jNVlRR3VLa0NONXhnTm5jdVJNakt6cUdrbXpLaEtmeV9wY1c4ZWZ4ZG1EcW5vZElLN0kxcHZzNGhsNW9tZk1hc0RMZnN4UUdGa2VyNEFMUTZtZUhZNE9F?oc=5",
+        "summary": "蚂蚁阿福发布全新AI健康手环“福环”和AI健康戒指“福戒” Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T11:08+08:00",
+        "published_ts": 1795403339,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "5669c65ef648",
+        "title": "一图看懂|医渡科技(02158)中期业绩：持续盈利，半年利润6131万元，AI医疗订单激增98%-证券之星 - 证券之星",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZ1JFdG1YUk1BU0NKYUZwMkowZkdaNW1lUUtaTW1MeFdKajFFN2pyOGMtVUR6MXVRRS1KVkc5ZHlnLTFGS3h1U3R6SlhVWWkwcWtuc0loZkJVSkc5Qmc?oc=5",
+        "summary": "一图看懂|医渡科技(02158)中期业绩：持续盈利，半年利润6131万元，AI医疗订单激增98%-证券之星 证券之星",
+        "source": "GN·医渡科技",
+        "lang": "zh",
+        "published": "2026-11-23T11:03+08:00",
+        "published_ts": 1795402983,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "82c74ba6d436",
+        "title": "蚂蚁集团CEO韩歆毅：AI放大健康服务供给能力 - 大河财立方",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NLWwtOXFoYU52cXRXaUN5NWZjRlk0clVtNmwtQWpDb0VlX2F2MWh4UGtaV2pyZU42ZUh1dVNqdksyVTVNaGZpbXRobUxLSHRWUHFWeGVVaEtJYTh0c1lidFhmRGN5RjhQZVE?oc=5",
+        "summary": "蚂蚁集团CEO韩歆毅：AI放大健康服务供给能力 大河财立方",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T11:00+08:00",
+        "published_ts": 1795402832,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "3a84366e6ad3",
+        "title": "微信生态医疗AI：重构就医流程的语义级操作系统 - CSDN",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qN2Fibkp0LWlxczFuWFVZUFF6ZENnWm9UWFo3TVJodjFiU1AwOFprTndpV1BQQUpQaVpEVVhZNUdudHpRcTB3LXdHWDctNW5ZbFlGM1RCdkRnQlJycG1r?oc=5",
+        "summary": "微信生态医疗AI：重构就医流程的语义级操作系统 CSDN",
+        "source": "GN·腾讯健康",
+        "lang": "zh",
+        "published": "2026-11-23T10:09+08:00",
+        "published_ts": 1795399780,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "4e822ad73f11",
+        "title": "2分钟看懂！蚂蚁阿福重磅升级，免费的私人AI健康管家来了 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1YxMllCR0ctU1NyUThNTFo3Vzh1ZXg2UGRZV3FBLW5DbEpGcHV5cVo5UUZPT1ZvMnB3bmVhbDFlanRzandGNG9Jelo5aHBDbjY4XzJOTHpNTFZoQnVyLUVHRjYwMFVnMGVfOGM0SHo2bUNlS1FfQTBHMUxCamdQLUU1dERsM3RW?oc=5",
+        "summary": "2分钟看懂！蚂蚁阿福重磅升级，免费的私人AI健康管家来了 Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T10:00+08:00",
+        "published_ts": 1795399200,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "e8b864972014",
+        "title": "国海研究 | 2027年年度策略：后AI时代关注哪些投资机会—晨听海之声1123 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OdTJHVzR2WEowanliS29sS25qMHdrazlaQlVLcllsUldwZktTV1hRdVhkN3FGNGdIQmNRNFRiVlVwTHp6bTFiRFY0cmNaVDVmSVByUFR2V3lmWUhXX1RRVF9zeW5PN3VoN1JMTHN2dnlZVDVkdUgwMA?oc=5",
+        "summary": "国海研究 | 2027年年度策略：后AI时代关注哪些投资机会—晨听海之声1123 新浪财经",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-23T08:36+08:00",
+        "published_ts": 1795394214,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "f12d49d49e5b",
+        "title": "做通用AI助手还是专业医学智囊？蚂蚁阿福医生版：全都要！ - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUhJNFkwcHdRbnFDYTdKVzJuXzd3RHp6V2pSZ3RDUzluN2hMbjZDdXpDcTM5UXJ0N2dYeGl5NUFPSUFqZG11VWU4N1MyOTdQTnVuWTRWV2IxaFcyUUdTSHhPWjFzaXJ3Tk1aZmJ2Y1dTQXFUdkRDODRLUW9GcnIxaFFXdWRMS0F3?oc=5",
+        "summary": "做通用AI助手还是专业医学智囊？蚂蚁阿福医生版：全都要！ Sohu",
+        "source": "GN·蚂蚁阿福",
+        "lang": "zh",
+        "published": "2026-11-23T08:17+08:00",
+        "published_ts": 1795393044,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "3283135eda24",
+        "title": "做通用AI助手还是专业医学智囊？蚂蚁阿福医生版：全都要！ - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkd0bGZBUU85NkNzYjF2bXBiblFRc0g4cEZVVGg3LVRtWDU3MG5EQzI3YVJ1MWJESldKS29QbEpRUFhiWnJSWUV1Qk80MTdGMWdjcFViODk1N3JZWXdSclY1aFpxa3dENkFKeTRNTWxJdC1xM1FsZ3U0LUNuTzlBSUx6emVjVTlwaDVV?oc=5",
+        "summary": "做通用AI助手还是专业医学智囊？蚂蚁阿福医生版：全都要！ Sohu",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-11-23T08:17+08:00",
+        "published_ts": 1795393044,
+        "category": "competitor_analysis"
+      },
       {
         "id": "0dfd66f9c77d",
         "title": "蚂蚁阿福再升级：接入全球医学数据库，医生也有AI助手了 - 雷科技",
@@ -36,7 +553,7 @@
         "source": "GN·蚂蚁阿福",
         "lang": "zh",
         "published": "2026-11-22T23:16+08:00",
-        "published_ts": 1795360585,
+        "published_ts": 1795360587,
         "category": "competitor_analysis"
       },
       {
@@ -73,14 +590,14 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "6f8fc571f25f",
-        "title": "蚂蚁集团CEO韩歆毅：AI不该替医生做决定，而要让每个决定建立在更扎实的证据上 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDVIcUxtNXZtbDlTZ3R4SkdGTHo5RWRrOS1IbjZEYmEyZ3l4QTZCMHI5bGNlcXVMQVg0UFBiNmJDNEVnSmdmbnhmWGhweFk2Y2Z6RXNZenM5V2wwZ1FoWDVUMGd4cFpReTNhYlJyZ1EyTFZJWEpFQnExQ3hia3BmR2d6Q3lCQjVG?oc=5",
-        "summary": "蚂蚁集团CEO韩歆毅：AI不该替医生做决定，而要让每个决定建立在更扎实的证据上 Sohu",
-        "source": "GN·蚂蚁阿福",
+        "id": "6ebd2cf2105e",
+        "title": "蚂蚁靠金融补贴、京东靠卖药兜底：大厂绕开医保的医疗AI试验 - 36氪",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTZzBqUEhkelFSd1NZb3A5VVp4QkVwT0VfYzI5azYxOWxJcERURGk1SjlXcjJEaDk3TmJxQ3dVbXRYaVJrSE5mdkNQd1pLUQ?oc=5",
+        "summary": "蚂蚁靠金融补贴、京东靠卖药兜底：大厂绕开医保的医疗AI试验 36氪",
+        "source": "GN·京东健康",
         "lang": "zh",
-        "published": "2026-11-22T20:29+08:00",
-        "published_ts": 1795350575,
+        "published": "2026-11-22T20:02+08:00",
+        "published_ts": 1795348920,
         "category": "competitor_analysis"
       },
       {
@@ -91,40 +608,7 @@
         "source": "GN·蚂蚁阿福",
         "lang": "zh",
         "published": "2026-11-22T18:41+08:00",
-        "published_ts": 1795344060,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "320d0365443a",
-        "title": "蚂蚁CEO韩歆毅谈医生与AI：模型能力越强，人的专业价值越凸显 - 动脉网",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9STUE5UWE5RjBaZlVESGhoS29rNzFoNXhsc1pHM19zakJkdW1Rek0wSDBWWDBqR3VweG1Ec05HdVYtbUF6TWVJ?oc=5",
-        "summary": "蚂蚁CEO韩歆毅谈医生与AI：模型能力越强，人的专业价值越凸显 动脉网",
-        "source": "GN·蚂蚁阿福",
-        "lang": "zh",
-        "published": "2026-11-22T16:16+08:00",
-        "published_ts": 1795335360,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "1ae4c84186df",
-        "title": "#媒体原创 11月22日-23日，2026蚂蚁阿福医疗健康生态大会在广州举行。大会以“AI 新动能，普惠新健康”为主题，共设1场开幕式暨主论坛、4场专题讨论会、“未来健康中心”主题展览。在22日下午的《AI赋能下的未来医院》主题分论坛上，医疗健康领域专家与产业创新力 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX19MLWVBdzhIcjc5MUg2ZGRDWVZKUmlOZE85ZUtBSDRzLThkTTEtZmZOT0VBb1BweDVfdG1RNngwSXhoMG5qYjhVLXl3S1k2SUNRYmotTWZramdtRnZvOGlNNjNIWkQ3TC1XNG5KdEhoajQ3eGJYR2hMakpkcExaM1dqMl8tSnJyM2EyUQ?oc=5",
-        "summary": "#媒体原创 11月22日-23日，2026蚂蚁阿福医疗健康生态大会在广州举行。大会以“AI 新动能，普惠新健康”为主题，共设1场开幕式暨主论坛、4场专题讨论会、“未来健康中心”主题展览。在22日下午的《AI赋能下的未来医院》主题分论坛上，医疗健康领域专家与产业创新力 Sohu",
-        "source": "GN·蚂蚁阿福",
-        "lang": "zh",
-        "published": "2026-11-22T15:45+08:00",
-        "published_ts": 1795333544,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "faa3d4ee6faf",
-        "title": "蚂蚁集团CEO韩歆毅：人工智能已走到临床很多环节，相信AI可以成为连接医患延续照顾的可靠纽带 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHZKV2x3ZmVjMWh4YWVDTXh4a29FdFpSYjlnX183UktPZkR0VkFkZXRlREkteFFRbklrT1JfUE1iX0tEenB3Q3RobFlrSXlFNV9nMExyaUxlNl9PWmV6ejhHcC1zdllLUGxaWDRPdGpITV9aQWhwUTVmaExBNHdQVFRlVzFNalZJbHhWXzdPdFIyanZTcmhyLThPelBGS19mSlJFNk9pZ200dmM?oc=5",
-        "summary": "蚂蚁集团CEO韩歆毅：人工智能已走到临床很多环节，相信AI可以成为连接医患延续照顾的可靠纽带 新浪财经",
-        "source": "GN·蚂蚁阿福",
-        "lang": "zh",
-        "published": "2026-11-22T15:22+08:00",
-        "published_ts": 1795332120,
+        "published_ts": 1795344109,
         "category": "competitor_analysis"
       },
       {
@@ -136,6 +620,39 @@
         "lang": "zh",
         "published": "2026-11-20T20:38+08:00",
         "published_ts": 1795178316,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "ba53a5822941",
+        "title": "AI 中医用量暴增11倍，一门古老医学正在经历什么？ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zTU9HTG5nUG9ZMl9XanNIaFhXRnV2TXduSnRUZ3o5SDVlZlVzSTFvc29VVTR6dFFBNVdLQU02eDZhTjczaFdmT3NKQW1GQVhIUElMN2RSVFo1Ulk5YmtGLUdsd0Q2RGI4YS05TDZ3?oc=5",
+        "summary": "AI 中医用量暴增11倍，一门古老医学正在经历什么？ 新浪财经",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-20T19:37+08:00",
+        "published_ts": 1795174665,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "923eb779e6d7",
+        "title": "医疗AI：慌啥子嘛？ - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMRU0xTkZrOTA5cGloYlh2d0RJMjVpeXF5d2VLcDdaVWU1WEQxUjQza1lCTzhDOWFNbzRhUF8wWWRWaG53aGpsNFA5Qzh4eVpFS2c?oc=5",
+        "summary": "医疗AI：慌啥子嘛？ Sohu",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-20T18:32+08:00",
+        "published_ts": 1795170767,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "4609c377176a",
+        "title": "京东物理AI探向纵深 - 凤凰网科技",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FN2FGYWlRVnNWUGt0UWhUUzJCbmxmamFvZTdFc19yb29VVkNOYVRXMWJOdlpBaWVUQUVWVDRIUlFhWkFGeTVtMGJIcXY?oc=5",
+        "summary": "京东物理AI探向纵深 凤凰网科技",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-20T14:39+08:00",
+        "published_ts": 1795156781,
         "category": "competitor_analysis"
       },
       {
@@ -161,14 +678,25 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "304b83cf6fd9",
-        "title": "蚂蚁集团上半年利润增长17% ，系投资收益上浮，将持续投入AI - 北京商报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UTE52ZVc4bDJRNGl5UVc1cnAtbUR5QTg1WWJKbzV0Z1RWcXowcGtvMEFjR2M0a0NkMW55a0xwZlFWNTZaNFhzQU11WE54Q19GYU8zb09CSWlTT3Q0?oc=5",
-        "summary": "蚂蚁集团上半年利润增长17% ，系投资收益上浮，将持续投入AI 北京商报",
-        "source": "GN·支付宝医疗健康",
+        "id": "ea4fdcb89948",
+        "title": "AI软件周报：DeepSeek千亿融资落地，31家出资方名单曝光；原京东健康王丁虓加入面壁智能；字节Seed背景亓鲁兼任影石首席AI官；千问办公开放第三方模型接入…_科技_i黑马 - iheima",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aMExFWjNhazN5cFUyTXdBTURCak5jOW9uQ3R3NU9fRGhJODVVNXJsNWRJZGxiM0dsaWw4TTZyb0NvRkJaWFprZ2R3NDRqSzVmVzBMcg?oc=5",
+        "summary": "AI软件周报：DeepSeek千亿融资落地，31家出资方名单曝光；原京东健康王丁虓加入面壁智能；字节Seed背景亓鲁兼任影石首席AI官；千问办公开放第三方模型接入…_科技_i黑马 iheima",
+        "source": "GN·京东健康",
         "lang": "zh",
-        "published": "2026-11-19T22:20+08:00",
-        "published_ts": 1795098053,
+        "published": "2026-11-19T17:55+08:00",
+        "published_ts": 1795082100,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "222f3c2bb769",
+        "title": "2026/11/19 彭博社：腾讯AI投入加码，分析师称未来两年回报仍不明朗 - 腾讯新闻",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fSVZXdFF0SERfbExIbk5BY295RnpFcVR5XzBpOVJhb2RHMW5PRnFJQnFVelVpOEkzUUhvb2pPTmNVV3VRNUlHdW9ycURFeVpBb0c2eXNB?oc=5",
+        "summary": "2026/11/19 彭博社：腾讯AI投入加码，分析师称未来两年回报仍不明朗 腾讯新闻",
+        "source": "GN·腾讯健康",
+        "lang": "zh",
+        "published": "2026-11-19T15:58+08:00",
+        "published_ts": 1795075118,
         "category": "competitor_analysis"
       },
       {
@@ -183,9 +711,20 @@
         "category": "competitor_analysis"
       },
       {
-        "id": "de009275a902",
+        "id": "fb69dce4e878",
+        "title": "【港股收评】三大指数齐跌！医药、黄金板块集体承压，半导体、AI软件逆势走强 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5czktTEhnUHEzZGpZVXVSVENhdmlxeTdlMU9Dc01MejhEd2dxRDV2X3g2bVlySUJWUUoxVUNxY19KLTlNdEpUZjNtZHVJaDlGaEJNRmtQN3F6VXhmcF9kZUJRSkRsNFU?oc=5",
+        "summary": "【港股收评】三大指数齐跌！医药、黄金板块集体承压，半导体、AI软件逆势走强 Sohu",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-18T16:44+08:00",
+        "published_ts": 1794991489,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "9b168c60cab3",
         "title": "京东健康Q3财报：营收破200亿元增16.9% 日均AI健康服务交互量同比增长超5倍 - 亿邦动力",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92SFRXX1dCWHhxbXo5elRVdmZ5UzdaZy1RYUJLZE92ZTBnLVdmeml2NWlnMkJLTFdYdzQwRjJpb2drUUhheFE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UMkN6ZjctLUVtNEZlUV9jaW5oYnVfTU1hYWZ4aVBCby02MG9xZFJ0cWYwaXVFbENUY2Q5TEpnUUpRUUtxQUNMLVhkeG5SZ3hhUWEyS1V3?oc=5",
         "summary": "京东健康Q3财报：营收破200亿元增16.9% 日均AI健康服务交互量同比增长超5倍 亿邦动力",
         "source": "GN·京东健康",
         "lang": "zh",
@@ -205,6 +744,72 @@
         "category": "competitor_analysis"
       },
       {
+        "id": "272e663b2524",
+        "title": "创想三维AI建模平台MakeNow上线参数化建模功能和AI 3D创作台- 快讯 - 亿邦动力",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTTVpJRGhqQy1ud1RRdTlqdVZSVmdaYTlIZlppaUV1YlJvTmlnZURSZUNjVVcyOUZlb1hRbzFCZmxiSTNLbVBXV3d6RXJZR2Q2M0s0RA?oc=5",
+        "summary": "创想三维AI建模平台MakeNow上线参数化建模功能和AI 3D创作台- 快讯 亿邦动力",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-18T11:50+08:00",
+        "published_ts": 1794973810,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "d56d5fd81a78",
+        "title": "当AI开始读懂肿瘤：中国医疗大模型的循证突围 - 动脉网",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NRm90SkpMUU1UQzJsUVQ0N0NsYTZxQ25ZcGdJSk5LWWJhZW52S0h6SWc5STcwcllxWnhVVnY5QjYtUTBfN3lj?oc=5",
+        "summary": "当AI开始读懂肿瘤：中国医疗大模型的循证突围 动脉网",
+        "source": "GN·医渡科技",
+        "lang": "zh",
+        "published": "2026-11-18T09:29+08:00",
+        "published_ts": 1794965340,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "c887d6c8311f",
+        "title": "Nvidia不拟恢复对华AI晶片出口 恒指跌213点 京东系绩后挨沽 专家料恐试22800点｜港股收市 - 星島頭條",
+        "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPT2V5Qk1QSVJvQWVGU0t1eE9XcjVUdm1Jc0l3SG9VamZTblU1anBpeG5iM2NIb2Vnc0xTcHpfVmNla1dMMmt4U2tOci0ybGdGR3htckh3TXl4dFk2ZkNNckRYYVBrQVpnTjM3QXpNeUZuWHNTUjlGQ2xiZURfazNQQ2E0bVE3SEV0dEdUZEZGUEdSUFc0MFl3UmhWMmdqZ2x3ZlJFMkgzS2ZEbFpXZWdVUGlKWmRycGtQUnVoRXZYblF3dXZjTVpldVpIcGh3cjZmYW85Uk1HdmdiQTkwTWtBSkdlSU9BWE4yZF85WGFidnIzR0Vod19VLXZEejdJenhHc0hfMEtCeWEzN0RzZTdKbmUzQkthTnRiNzNpaDA0eFZNVC1OQjNVMHJoU0V3cXJtNUlwei0wRDhHTlN3Mll0eHFKQno5Z1FxQVlMVDZEOGJPeU1saDhZUmJ0UkJMSVFOaXZQRDI0U2kwdFJBSG8xUGVWZUxsZHl2Uk9ZTloxUUVWYnZRV3ZYZVR2SlU5RzQtcXpfRFdCRncyRVZ6WHhzOXhVdV94YzMyaUtsbXcxSDFTa2NUMFJzY3NwQUhjZw?oc=5",
+        "summary": "Nvidia不拟恢复对华AI晶片出口 恒指跌213点 京东系绩后挨沽 专家料恐试22800点｜港股收市 星島頭條",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-18T09:27+08:00",
+        "published_ts": 1794965251,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "acd82a0a05ca",
+        "title": "京东健康发布2026年Q3业绩：单季首发新药超50款 AI交互量增超5倍 - 腾讯新闻",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55T2dIQ2UzczlQc2dLNFY2Ym83TV85Zlh1ZVR5aF9laWJmNGpxaUR2WWc2eFA3TV9ULUNGNDd6M21aZkxvVlQ5cFh6SHZtOGV0OG5YYUNB?oc=5",
+        "summary": "京东健康发布2026年Q3业绩：单季首发新药超50款 AI交互量增超5倍 腾讯新闻",
+        "source": "GN·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-11-17T22:10+08:00",
+        "published_ts": 1794924620,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "530a5dc9a5cf",
+        "title": "京东CFO单甦：AI投入集中软件应用层无需承担大额资本开支 - 观点网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wSkNzVUcteTlsUlktSVZDNEt1dnBTVkt1TmlYZ09XZmdzSWdPWlZfenFMUlFtWUl2NmRxdG15TVcxbjMtTlVwQjVFNVRVcWJlbENVNlNKdTNUTTgxcUZFQ2xn?oc=5",
+        "summary": "京东CFO单甦：AI投入集中软件应用层无需承担大额资本开支 观点网",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-17T21:40+08:00",
+        "published_ts": 1794922820,
+        "category": "competitor_analysis"
+      },
+      {
+        "id": "500de8e59b13",
+        "title": "京东CFO单甦：AI投入集中软件应用层无需承担大额资本开支 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5aXhJYkhUZ012Rm1yQmVUS2JqSWxDYlh2R1RIMER6X3NkWFhOQTFQSTRzU0RYeEd1OVdMOTNSLUJKdlRZXzhKS3VOenE?oc=5",
+        "summary": "京东CFO单甦：AI投入集中软件应用层无需承担大额资本开支 凤凰网",
+        "source": "GN·京东健康",
+        "lang": "zh",
+        "published": "2026-11-17T21:40+08:00",
+        "published_ts": 1794922820,
+        "category": "competitor_analysis"
+      },
+      {
         "id": "30cee9fac674",
         "title": "京东健康发布2026 Q3业绩单季首发超50款新药AI交互量增超5倍 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazY0bnBpXzVxSDhEdWZFeDZlT0lZZm5sV2NmaV8yRmhDcmgxbk5sRGhDSUUzVHotbzZZS21ROTM3WWZQNzFTZzFCVW8zQmEyei1jRVdTQlJTVEE3cS00cEhCaWUwdThSOUlzQ3lpYXVsVG5oczEyejI3YVdybGt5c3ZKeXZvQQ?oc=5",
@@ -214,31 +819,207 @@
         "published": "2026-11-17T17:36+08:00",
         "published_ts": 1794908171,
         "category": "competitor_analysis"
-      },
-      {
-        "id": "7021ee7ce98c",
-        "title": "医疗AI：慌啥子嘛？ - 36氪",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42SjdnSW15anFMc2NFUjlNdUMtT2RsVnJKRUU2NlJpWUVkd0VScjJjSWZvdldnUUZNT2tJUjlWZFkyaFdZYVFJZmt0THVyUQ?oc=5",
-        "summary": "医疗AI：慌啥子嘛？ 36氪",
-        "source": "GN·蚂蚁保健康",
-        "lang": "zh",
-        "published": "2026-11-17T04:12+08:00",
-        "published_ts": 1794859920,
-        "category": "competitor_analysis"
-      },
-      {
-        "id": "bfb46effaa0b",
-        "title": "灯塔AI助力腾讯地图数据看板工作提效5-10倍 - TOM科技",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nYWlXaG4tT1dHUjdQMnVodnJDbjF6WTdDWWVLMTlWbXhKNFhSZ1hFbnF6MkE5TTVSSWZXLTI4QmxmZHk4aUNTVkdWZ016QjZlYy1tQU53?oc=5",
-        "summary": "灯塔AI助力腾讯地图数据看板工作提效5-10倍 TOM科技",
-        "source": "GN·腾讯健康",
-        "lang": "zh",
-        "published": "2026-11-16T17:27+08:00",
-        "published_ts": 1794821220,
-        "category": "competitor_analysis"
       }
     ],
     "ai_health_product": [
+      {
+        "id": "dc81f7ffc7f6",
+        "title": "从千人一方到一人一方，健康大模型正在改写规则 - 大河财立方",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BbE9lTDg4S21uV0pURUd4eXIyNzhPMTVtMHkxWkwzZWljeVlTY0U2RXV1b0VhZ0xSaXdzQTNDZTNkRHFlazkzczdSTlVzbGx0LUFyRnJTMUx5MG80QkN1dWY4dDE1QjRRNVE?oc=5",
+        "summary": "从千人一方到一人一方，健康大模型正在改写规则 大河财立方",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-11-23T21:14+08:00",
+        "published_ts": 1795439665,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "f0fa29af8299",
+        "title": "Mach7 与 Rad AI 计划为放射科医生整合阅片与报告流程 - Unite.AI",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2ZGVnlqMFZfelM0LTdXOS1IRjY5NzJwYzhjTlg4SUZ5OGNGb1hCem9RbFRzZVp1NlVMb0RZT3p4ZEZyQnVTSWs0eWVheGNETDdrS1h6Z2tkSmItbjBDeWZFQXZZQTRDbmgwLWpJRmFib1ZoaHgxN2l4d0hlNUdXR0JKSjd6SURUV0dmTnNBMkZrNEpBbklNU0FsQQ?oc=5",
+        "summary": "Mach7 与 Rad AI 计划为放射科医生整合阅片与报告流程 Unite.AI",
+        "source": "GN·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-11-23T20:21+08:00",
+        "published_ts": 1795436464,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "670ed236f3d0",
+        "title": "一张眼底图像筛出早产儿视网膜病变！四项成果集中发布，AI黑科技串起妇幼全周期健康服务链条 - 紫牛新闻",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04blh0Mmg3WHJISUI2NUJsNHM1ak0yZEYtZEd4SVR6Y2FCZTFXNVhiQnU5R3drLVhfb195b0VINEgxNVlHZm1WblYtbGxGa1lfZ3JaaVZaYmpfTVhpNVF5QWN1ZDlTWjhY?oc=5",
+        "summary": "一张眼底图像筛出早产儿视网膜病变！四项成果集中发布，AI黑科技串起妇幼全周期健康服务链条 紫牛新闻",
+        "source": "GN·院长谈 AI",
+        "lang": "zh",
+        "published": "2026-11-23T19:21+08:00",
+        "published_ts": 1795432860,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "2a8ec73c7a10",
+        "title": "蚂蚁靠金融补贴、京东靠卖药兜底：大厂绕开医保的医疗AI试验 - 潮起网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9veFBfUWdOOURibDJlNnU0T1VKd2Nob21yTTI3cl84OFRab2RhRFh0cmxBQklJbHVjeUlNbUloemFlQWp4TUFvbmVEUGJTU2d5WDZkMHdyM1FxUGJDMWwwY1lDcw?oc=5",
+        "summary": "蚂蚁靠金融补贴、京东靠卖药兜底：大厂绕开医保的医疗AI试验 潮起网",
+        "source": "GN·AI 影像诊断",
+        "lang": "zh",
+        "published": "2026-11-23T18:30+08:00",
+        "published_ts": 1795429842,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "968501f0230f",
+        "title": "蚂蚁健康发布四大AI医疗健康模型，阿福推“视频看病”及国际版APP - 星岛环球网",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zR3g0TElGMkpTLVdEZGFsR0dSeVhFd3M3LTVjdUIybjVKUEFEMS1uUzlaUzJ1UXFOSFY5V2xNNWpUQ0tCNncwbTEydGJEMURONmQwRVpPNDB0UDEzMGxWbVFQUjl5Szg?oc=5",
+        "summary": "蚂蚁健康发布四大AI医疗健康模型，阿福推“视频看病”及国际版APP 星岛环球网",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-11-23T17:31+08:00",
+        "published_ts": 1795426260,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "aafb2a7e1611",
+        "title": "正式签约！东莞松山湖将打造未来智慧医疗新样板 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkpUTkZvR2tRWlBWUjVkRUxXXzVBTkRaeGJaX0Z0NHR5TTFVTkRhU3pjNHd3dWVCcGloSXF2Y3M3V0VpVWpVR1FveWhMZ1BjTU9oajlMa1lMVkl0dURDbzF1aTNxNThCcGEwbVdvNktjZ05YTkpzQmFqTHpfWXBuX2haMWpQM0NpOGk3d0JYOA?oc=5",
+        "summary": "正式签约！东莞松山湖将打造未来智慧医疗新样板 21财经",
+        "source": "GN·大模型医疗落地",
+        "lang": "zh",
+        "published": "2026-11-23T17:20+08:00",
+        "published_ts": 1795425628,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "06ef2d675554",
+        "title": "蚂蚁健康发布四大AI医疗健康模型，阿福推“视频看病”及国际版APP - 星岛环球网",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45MnJvaFNFRmR5NjlRcmhfVjdVTDV5UklLMTBmMFpYeUJrMFFyTFZidGRxa3l5SVMzYnZ3MWxaMW5UdFo3SHc0dzYzWE5LUGMxMDloWkRpeXhaMFFKREtHcm5rcFo?oc=5",
+        "summary": "蚂蚁健康发布四大AI医疗健康模型，阿福推“视频看病”及国际版APP 星岛环球网",
+        "source": "GN·AI 医疗产品",
+        "lang": "zh",
+        "published": "2026-11-23T17:06+08:00",
+        "published_ts": 1795424760,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "69b0c4a659ec",
+        "title": "【明日主题前瞻】蚂蚁百灵医疗健康大模型家族宣布全面开源_市场测评_市场_中金在线 - 中金在线",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FVlNMZWpZS0hVbVNhcFdWVjBUU3lUakR0UnRiZ2YxNFYyWUJzUmMyc1A3OHk3dkdMcjAxOU1LamNtM1hNUVpMM3drZUpfTTdVX19fclhoOE1lS1FVb1VXQXcwOUUwZmkyY2ZYOG1vRHlFQQ?oc=5",
+        "summary": "【明日主题前瞻】蚂蚁百灵医疗健康大模型家族宣布全面开源_市场测评_市场_中金在线 中金在线",
+        "source": "GN·医疗 AI 上市",
+        "lang": "zh",
+        "published": "2026-11-23T16:50+08:00",
+        "published_ts": 1795423822,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "3111ea4e9070",
+        "title": "亮亮视野携手桐轩医疗，以AR+AI技术助力国际医学专业交流 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVG03Yl9jVXl2ZHRZWVloX2ZmRkNiTEhyNmswT1R1YTBIVW85Vi1XaEU3N1REbExubWRfNDhocHdmZlZZVXBseXJsd0dqVGs3U3pVT1J6UG9CZDhJWldMTWxib0h4aU9WLW05di1YbW15X0tlV1FLNkRtQVpnUkdmTjVyNXUtNGti?oc=5",
+        "summary": "亮亮视野携手桐轩医疗，以AR+AI技术助力国际医学专业交流 Sohu",
+        "source": "GN·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-11-23T16:29+08:00",
+        "published_ts": 1795422554,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "f2e2c2064d46",
+        "title": "AI听咳嗽识别呼吸道疾病，准确率约90% - Pasquale Pillitteri",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IdUFjWFdCQzNCblR0R0RpVEgwem1nS0hPb1kyN0xrQi1fbEVmUUlFb25rbmE0ZDdHa3BGZ1VGaGRmcmlhaTBLd3ZaYVFGZ1g2XzNxSWl5V2xoSGdWbUVjazhRYm1UNzBpVzZ3V1BrMWVpSE1QVmxrNXUtQQ?oc=5",
+        "summary": "AI听咳嗽识别呼吸道疾病，准确率约90% Pasquale Pillitteri",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-11-23T16:16+08:00",
+        "published_ts": 1795421817,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "4f0906d3a24e",
+        "title": "蚂蚁集团开始开放发布 LingSante 医疗 AI 模型权重 - Unite.AI",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTkpTRnhNcGY4S3NqVWdiVC1xdUpWV1JwZVR6TmxSVFVaN2E5YUpzUWZqMl9zNHRFa0Q1VkZiUGF0NlpDVGZ6ZHpTX1ZPdmJyNFRWVlRIVVROZ2JDLWVVU2dBX1JHZzZNMGpXNzhHRzJnaGI5VGMzdklWamxjTU5KaDdydWxSTlBzNmRxUzVZRjZxcHp5ZHlSZ0ZiWQ?oc=5",
+        "summary": "蚂蚁集团开始开放发布 LingSante 医疗 AI 模型权重 Unite.AI",
+        "source": "GN·医疗 AI 上市",
+        "lang": "zh",
+        "published": "2026-11-23T15:47+08:00",
+        "published_ts": 1795420024,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "65dfe11d42d8",
+        "title": "我国腔内影像领域实现世界首创性突破 AI+医疗器械彰显竞争力 - 财联社电报",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FLWlrbEVNR1FlV2dGREdWVVBnRDgya1ljUzVWUVNXV0RkcVR4YWtJNGxpTXVZcm1IRndoQ3J2NmZ0Y1lRWWc?oc=5",
+        "summary": "我国腔内影像领域实现世界首创性突破 AI+医疗器械彰显竞争力 财联社电报",
+        "source": "GN·医疗 AI 上市",
+        "lang": "zh",
+        "published": "2026-11-23T15:44+08:00",
+        "published_ts": 1795419840,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "4418de70888e",
+        "title": "钟南山院士谈AI：医疗健康领域必须有专业AI，医学容不得半点“差不多” - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSG5BeHlNRll5X0UwWXViZGVvNlhxUDE1ZUVlME53aHgyLXlRX01EMG5CdzZmakFfY1F5eXMzVUNxblBXN1h3Ri1rR1pyajM1ZXJUcXE4UkNtanUzNFphVmo3MUZNS3h6SUFGUlhvajQ1ZUd4V3ZMLTlJa0hZSmVmTVRPakhqNVdFNTRDazFWUQ?oc=5",
+        "summary": "钟南山院士谈AI：医疗健康领域必须有专业AI，医学容不得半点“差不多” Sohu",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-11-23T15:34+08:00",
+        "published_ts": 1795419255,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "86ea35823dbb",
+        "title": "钟南山院士：医疗健康领域必须有专业AI 医学容不得半点“差不多” - 紫牛新闻",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WanZDOGlDR3JUbzVFVFR4T1pfeGdNVTM5bGRnSS1GOHVBaEZITjFUT2ZQYXl2RzB1YWJmS2lpUkVLb2VJN3ZvVlNTU2pkcFMxcFl4MDZNcmstM1lhc28tZms1dk1VY1NY?oc=5",
+        "summary": "钟南山院士：医疗健康领域必须有专业AI 医学容不得半点“差不多” 紫牛新闻",
+        "source": "GN·医疗 AI 上市",
+        "lang": "zh",
+        "published": "2026-11-23T15:25+08:00",
+        "published_ts": 1795418700,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "65ac0c03becb",
+        "title": "从“AI中医”到草本护肤 海外客商西安探寻中医药新商机 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByeGQtY01tNi1PbXFCQzN5THVUdkJDWDlDMnJwS3o1OXp4aFZYSkZUTXJpR3M5UUNoMFBORXJjMGtrTnN2SktzUWY3MlNYelVFaGVoQmxjaWhxaUJfTlA0ZDc2SG9aTG5rOExn?oc=5",
+        "summary": "从“AI中医”到草本护肤 海外客商西安探寻中医药新商机 中国新闻网",
+        "source": "GN·AI 医院采购",
+        "lang": "zh",
+        "published": "2026-11-23T13:39+08:00",
+        "published_ts": 1795412340,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "860a2a36f574",
+        "title": "从临床验证到基层落地：任选九在线缩水如何重塑医学影像AI应用逻辑 - 集微网",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1teDhGd2pIc0psaE4xZEhETGtwNU5yNWJmSWh6QXYxeHQxZ0ZOcUUwa3dMdFRpOVdxeWt4bFptTThhZU0zQmpYQ1ktTmVwTkJjVXRHaWZsMmJzYzB2Z05uZDNQcC1ULXdWbV8tRUlCeUQ1Ung5eUE?oc=5",
+        "summary": "从临床验证到基层落地：任选九在线缩水如何重塑医学影像AI应用逻辑 集微网",
+        "source": "GN·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-11-23T11:56+08:00",
+        "published_ts": 1795406161,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "edbb362b02e8",
+        "title": "AI智能体如何重构临床证据获取：从检索到闭环决策 - CSDN",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9INXNZaUU2ZXdIbElaNDdtZkx3ZFVBbUVHRExZODg1aHNCSGwtOHhRQnRMQVh2cTAxR0I1ZXQ5V25wT0xSdGx0SzdneXFob3dwU21uOEZwTHppeUNnb2R3?oc=5",
+        "summary": "AI智能体如何重构临床证据获取：从检索到闭环决策 CSDN",
+        "source": "GN·卫健委 AI",
+        "lang": "zh",
+        "published": "2026-11-23T10:45+08:00",
+        "published_ts": 1795401929,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "f71231b813b9",
+        "title": "字节小荷健康未重新扩编，仍保持百余人规模，并开始为豆包等内部业务提供医疗支持 - 虎嗅网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54ck9wSVk0X2p6bUJ0OEI4V1doSDN6bkZZMFdrYmNjMTZSZXJpOHVQQjBsdHludkFIbDBIZnlMRWE2REU5WVJIZ0w2a3A2VjllSlhxVg?oc=5",
+        "summary": "字节小荷健康未重新扩编，仍保持百余人规模，并开始为豆包等内部业务提供医疗支持 虎嗅网",
+        "source": "GN·AI 医疗产品",
+        "lang": "zh",
+        "published": "2026-11-23T09:40+08:00",
+        "published_ts": 1795398043,
+        "category": "ai_health_product"
+      },
       {
         "id": "7fac1e5eb41e",
         "title": "蚂蚁集团CEO韩歆毅：AI始终只是辅助工具 临床决策交给专业医师 - 观点网",
@@ -262,14 +1043,25 @@
         "category": "ai_health_product"
       },
       {
-        "id": "56a286ad752a",
-        "title": "AI问诊靠谱吗？哪些建议容易踩坑？医生解答 - 央广网",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1OEFlUVVORmgtbkxlMkZPNmRXNVV5amhOVFQ5OWJZNGhGMEdIMG93VzZ0ejlzZjJsMld6OTZvYXNSYUk1Sk5VbUtuZzJTS3otYVc3d19pUHgwY29laFY0U0YyTUhBM1JXcGdqdkdsMzNBUQ?oc=5",
-        "summary": "AI问诊靠谱吗？哪些建议容易踩坑？医生解答 央广网",
+        "id": "3050168341b6",
+        "title": "【明日主题前瞻】蚂蚁百灵医疗健康大模型家族宣布全面开源 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81OW9FeVQ0dnVCWkxoSlF0djkxVUMxZjRGTlF3TWlpN3dWMXpsUEtRYkVVXzZ4NWVQc2NaMEt4eG54NkdqYTc1eg?oc=5",
+        "summary": "【明日主题前瞻】蚂蚁百灵医疗健康大模型家族宣布全面开源 财联社",
+        "source": "GN·大模型医疗落地",
+        "lang": "zh",
+        "published": "2026-11-22T15:01+08:00",
+        "published_ts": 1795330860,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "7d24471e75f7",
+        "title": "AI问诊靠谱吗？哪些建议容易踩坑？医生解答 - 华商网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84MlRtMThBWHoxeGRZbUlLdFpsaGFoMG51R2Z1NU5VYmRKTUtmSlg4MTVGYmxBQW9pRHNPcEZNUlRwUHFfeUQ5a2g4UjB1UVpIOUNLMURtXzZoVGpXa3c?oc=5",
+        "summary": "AI问诊靠谱吗？哪些建议容易踩坑？医生解答 华商网",
         "source": "GN·AI 影像诊断",
         "lang": "zh",
-        "published": "2026-11-22T07:35+08:00",
-        "published_ts": 1795304141,
+        "published": "2026-11-22T09:03+08:00",
+        "published_ts": 1795309392,
         "category": "ai_health_product"
       },
       {
@@ -277,10 +1069,32 @@
         "title": "AI赋能医院治理提质增效！广东首家“法务+行政”一体化医院智能体正式落地 - Sohu",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmY2OWMyNXAtTndHRFNFTndPTnZuUGZadm1TLXdiOFBld2tOTXIyUmtSN2dnNVkzTU1oY3l4R1Y3cG5pdzVKQUZQSWRIOTJYclZZZ21TZ0xLSVJfcHdqUGNIemxBS0pFRkhrdnB3VzNTcWg0bWFZWnZ4YlAwcGxaWklmT0VpeEM5?oc=5",
         "summary": "AI赋能医院治理提质增效！广东首家“法务+行政”一体化医院智能体正式落地 Sohu",
-        "source": "GN·AI 医院采购",
+        "source": "GN·医院 AI 采购金额",
         "lang": "zh",
         "published": "2026-11-21T20:41+08:00",
         "published_ts": 1795264916,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "2400b2000f26",
+        "title": "计算万物 湘约未来｜世界计算大会谈AI医疗的边界：AI能管慢病，不能下诊断 - 新湖南",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95aGRWVkQyZVdrX09OWTI0bmhEVzRpYVIxNlE3Y3pLbHBSYzc5RUpXX3hyOFRjVXJVbnJBMWdWY194Um5PRmttbjJBZWlQN0M1NkZPSW5Mc0RyWUhvSy1R?oc=5",
+        "summary": "计算万物 湘约未来｜世界计算大会谈AI医疗的边界：AI能管慢病，不能下诊断 新湖南",
+        "source": "GN·AI 医疗产品",
+        "lang": "zh",
+        "published": "2026-11-21T18:50+08:00",
+        "published_ts": 1795258232,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "70f8cfdc5f97",
+        "title": "林水音：AI或可改善医疗服务 无法取代护士关怀病患 - 光华日报",
+        "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQMXdDcC16QlBtVThwYmNNZVdSUU9ETm9uUmE2Wk5nY0h5NVVoRC1oRGs1d08weFpKOEhOYnRUaHQ3T3Z5M0VjRGtrRURkbURDUllVMjl0RWZmc29QaUYycXJaQWtyV1RaU3BRZkhFSWthRnNlMGRBNXl0T3RveGlQUVJ4NndCZUYyOWVrTzBzWlBNS1YxWWF6dkhaRkQtZFFJb3JrS2RyT2dhWXZzQktVV2ZTZzFzejlJMGxZRXNuR3QtUG9qOTljWVZvNUlrOHBDdTZxTmU0UVhGcGwwU0doNlBGZzBkTlh0aU53SEVhZlVFRVpxVFAyandDb3l0R0ZHTWJVcEN3MlVPeml2NnQ2anFOYUd1Zlh5dGFYQnVCZmdXVzhLeXl0N2NrOEFmaWJkdWtMRjN1ZHRyYXhBTFJaNHoyQk5BdTdacjNIU2ZnQQ?oc=5",
+        "summary": "林水音：AI或可改善医疗服务 无法取代护士关怀病患 光华日报",
+        "source": "GN·院长谈 AI",
+        "lang": "zh",
+        "published": "2026-11-21T17:09+08:00",
+        "published_ts": 1795252187,
         "category": "ai_health_product"
       },
       {
@@ -306,14 +1120,25 @@
         "category": "ai_health_product"
       },
       {
-        "id": "c3a4ca1623e6",
-        "title": "医疗健康产业日报(11.20) : AI医疗突破 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1NPd1RKSnpBd3UwdUM2YnFjMTBTd2FpaXpRc0d4Z3Y5YXRCdDRsa0x5ZnFNd1cwanNNdFVUZkhFVmw4YWcwQ0E1ek9JUWM1a2NzOGtkYTZ0WUZMNHZUMW10T3ZhNmllOG81ODY4VHRuRFdNRHM0MHlWMGhIR3JsX1FBeFkxQ1E1?oc=5",
-        "summary": "医疗健康产业日报(11.20) : AI医疗突破 Sohu",
-        "source": "GN·AI 医疗融资",
+        "id": "afa5ad74701f",
+        "title": "北京东城挂牌三家AI医药国际产业园 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ3QzVXI0S0NsRmxwY2g0aU53VmxuS1VxYVZvVlNKMmVGYVhqYkZTaEQ2eU5fMmxZNmJxS19BWHF3emp0OHlTYlJJWXkxa003RzRyRnJocGUxN2hieGRfQ05GZEJ3VjNEU2t6TmgtTm9nZU1FaHEwLVNuQnhCNTMyWEdlZ2lLQU5Jd0Y4?oc=5",
+        "summary": "北京东城挂牌三家AI医药国际产业园 Sohu",
+        "source": "GN·AI 医疗器械",
         "lang": "zh",
-        "published": "2026-11-21T11:12+08:00",
-        "published_ts": 1795230720,
+        "published": "2026-11-21T13:37+08:00",
+        "published_ts": 1795239420,
+        "category": "ai_health_product"
+      },
+      {
+        "id": "f208149c2e4b",
+        "title": "澳大利亚与美国人工智能赋能医疗器械监管格局的比较分析：基于 FDA 与 TGA 清单的横断面研究 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wZG9TMDFGaVB2ZnlnNG1JeW9SX29JaW5SdHV6dDFtMDhacVV6bW55Z2RIZHJjX1o4NF95ZWNXWjNqbS15UWtLUy1nREVHMnBZRk1OUXMyR09aVkVEQkVKOE1EeW1MR0hGWURlTG9n?oc=5",
+        "summary": "澳大利亚与美国人工智能赋能医疗器械监管格局的比较分析：基于 FDA 与 TGA 清单的横断面研究 生物通",
+        "source": "GN·AI 医疗器械",
+        "lang": "zh",
+        "published": "2026-11-21T11:39+08:00",
+        "published_ts": 1795232352,
         "category": "ai_health_product"
       },
       {
@@ -321,7 +1146,7 @@
         "title": "AI制药的定价时刻：分子值多少钱，谁说了算？【影响力对谈第二期】 - 动脉网",
         "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vSHhiTXc2VkVpaHVlOUJIejBpaVFMYlFmZGp2Zk1LMmxubW9zSTJwbHQxQVVSX09Ea2NjaE5UcXRBRGdRYjhZ?oc=5",
         "summary": "AI制药的定价时刻：分子值多少钱，谁说了算？【影响力对谈第二期】 动脉网",
-        "source": "GN·AI 医疗并购",
+        "source": "GN·AI 医疗投资",
         "lang": "zh",
         "published": "2026-11-21T08:00+08:00",
         "published_ts": 1795219200,
@@ -337,143 +1162,66 @@
         "published": "2026-11-21T06:39+08:00",
         "published_ts": 1795214390,
         "category": "ai_health_product"
-      },
-      {
-        "id": "166ad1d2f5ee",
-        "title": "从“AI中医”到草本护肤 海外客商西安探寻中医药新商机 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WNllXekNpaE1FVHJJZ3ZZZUdQWk54Zmc1WHJHcXBpQTZZYWZnU0puN216c2FnX0F1VVpicW1GTzBvWVF4eXo4ZWFpUGJfbTV2aGZmMTFoaEMxM1dvc1JpbU96ZHNQSURU?oc=5",
-        "summary": "从“AI中医”到草本护肤 海外客商西安探寻中医药新商机 中国新闻网",
-        "source": "GN·AI 医院采购",
-        "lang": "zh",
-        "published": "2026-11-20T19:49+08:00",
-        "published_ts": 1795175373,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "1af34df8eca8",
-        "title": "百年华东医院探索AI赋能老年医学和个体化健康长寿管理模式 - 上海新闻",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UWlFmMGRHMEZ6Q0FLaGJZcVQ3aDR4UDRMMkxhNzJIVkxLaHdPc0JmbnZtazcwbWtZR0ZJTWFFNENzMkdKdHh2NVh2bV8tYm9wbzFNYVBESkg5d2lWeHpndU5NaENVTzhRNkkzWA?oc=5",
-        "summary": "百年华东医院探索AI赋能老年医学和个体化健康长寿管理模式 上海新闻",
-        "source": "GN·医院院长 AI",
-        "lang": "zh",
-        "published": "2026-11-20T19:24+08:00",
-        "published_ts": 1795173840,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "32edea29c320",
-        "title": "观察｜张江生物医药“能力出海”：平台、AI与生态撑起全球通道 - ThePaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51ckFlTXBKX2lBVlRaN29INnRyLXZGNVYyMFk4eWtGeXpiaFRySkxqSXNBYjFoMUt5WnNJZTBfaUxuOG9hWk5fT0N2Y19fMFBkdGllM09aczJibEZiWmxPNA?oc=5",
-        "summary": "观察｜张江生物医药“能力出海”：平台、AI与生态撑起全球通道 ThePaper.cn",
-        "source": "GN·AI 医药 IPO",
-        "lang": "zh",
-        "published": "2026-11-20T19:10+08:00",
-        "published_ts": 1795173033,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "0c0bcbc7d93d",
-        "title": "医疗AI：慌啥子嘛？ - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajl3d3dGRnRZMDdvdnN0NHppbzYtM2EtOVAwX1EtLVNxREhWRy0taHV5TjFEUVZfTkZ2S1pNcVMzSUswMC1PcnVfVGNzcVB6N3FNNlRkbWx2TzNqbDA3eDNqcDBUUnJpSExuMUtNZUtYRUtnQzduQkdLUzNaRmxtdmpBYnlhTWFqSXo2VERVMWdiSEh0MmJrWDQ3WmRxWTBD?oc=5",
-        "summary": "医疗AI：慌啥子嘛？ Sohu",
-        "source": "GN·AI 影像诊断",
-        "lang": "zh",
-        "published": "2026-11-20T18:32+08:00",
-        "published_ts": 1795170767,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "8f04f82784a6",
-        "title": "北京东城挂牌三家AI医药国际产业园 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEVSSWY2OHJhdVdrN0VoVnRIejd2VUJSUW82aXc1dkhpR2pzSmhGa0dHS2N2ZThJdlB3VnZBOW1DRjQyck5HMHBnR2NyLVJoRElxMFdxOWlUNzFLdjhGS19VdG9IcURkUHlQM2VjaGJyLWROdGNKUmpReUtxRjIxN1J1R2ZRTnBrdUh1aA?oc=5",
-        "summary": "北京东城挂牌三家AI医药国际产业园 Sohu",
-        "source": "GN·AI 医疗器械",
-        "lang": "zh",
-        "published": "2026-11-20T14:47+08:00",
-        "published_ts": 1795157231,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "77c658c7f10f",
-        "title": "两项研究显示面部照片AI可分层死亡风险，但临床应用与责任边界仍待明确 - 虎嗅网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lSzhFWTJxNTI4RXp6SDJKM0ZBaXctaU1DcGhYZlh6NUFLSkZsaWJKRG9KcjI4Ym1vUXVfM1ZrdjJkendwd2FldXVLTENjX0ZoNkt4NQ?oc=5",
-        "summary": "两项研究显示面部照片AI可分层死亡风险，但临床应用与责任边界仍待明确 虎嗅网",
-        "source": "GN·AI 医院采购",
-        "lang": "zh",
-        "published": "2026-11-20T14:45+08:00",
-        "published_ts": 1795157138,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "a707aaa70b4a",
-        "title": "Global AI Health 100发布在即：全球医疗AI创新有了一份公共坐标 - 动脉网",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNbXB3dmE5OERWTWRINTlILTZzeHc1UXF6dU0zRlRVYmMwNmJYdDFjWXFrLURfempvN2NpZWtRMlJORk5sbHZV?oc=5",
-        "summary": "Global AI Health 100发布在即：全球医疗AI创新有了一份公共坐标 动脉网",
-        "source": "GN·AI 医疗产品",
-        "lang": "zh",
-        "published": "2026-11-20T14:00+08:00",
-        "published_ts": 1795154400,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "d97530e77435",
-        "title": "鱼跃医疗：近百款产品亮相MEDICA，加快AI技术与医疗器械融合 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rVjZZZnV4M1ZITHBSR1NnRTZyazFsMkNNM0l4UlBMaHhJalY2WmoteDJCYmlaelZKTFRsOW1YNDFnMzgwQ0xiUmYwdFRuVmhaWjlXRUdaTnJ4LTBiMUhvQ2RYNA?oc=5",
-        "summary": "鱼跃医疗：近百款产品亮相MEDICA，加快AI技术与医疗器械融合 东方财富",
-        "source": "GN·AI 医疗产品",
-        "lang": "zh",
-        "published": "2026-11-20T13:22+08:00",
-        "published_ts": 1795152177,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "f54674a9b95a",
-        "title": "解放分析 | 读胸部CT意外发现肠癌：AI如何做好医生“另一双眼睛” - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OdW1UbXh4MlNjdjZQcGVLeWNXM3h3Szd2U011VVdzQmNLZG5MSVNSUEo4RDVGRE1va0d5Z1hQQkQ1Tlk3dERVbVZxekxsYS03eTZWNERB?oc=5",
-        "summary": "解放分析 | 读胸部CT意外发现肠癌：AI如何做好医生“另一双眼睛” Sohu",
-        "source": "GN·AI 影像诊断",
-        "lang": "zh",
-        "published": "2026-11-20T12:55+08:00",
-        "published_ts": 1795150537,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "1592b80bc6c0",
-        "title": "全球一半的钱流向AI，AI医疗的钱流向哪里？ - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0RFdDVBcklxNHAxWXNFbW1Fc1F4RUY4S3FHcTJ2OXM5RVV0Si1Jam9MTExSWUlNUE5idUlqVDN4VndRQmtJdGZWR1Z4czlhOVBtZ0NWbkM0S1pzbFZzRjZxejFwZ0MyNGM2MkdiSEd0Q2wxVUNBMXpRNFZZaDRpNGJSSXJrc2k2?oc=5",
-        "summary": "全球一半的钱流向AI，AI医疗的钱流向哪里？ Sohu",
-        "source": "GN·AI 影像诊断",
-        "lang": "zh",
-        "published": "2026-11-20T10:00+08:00",
-        "published_ts": 1795140000,
-        "category": "ai_health_product"
-      },
-      {
-        "id": "32e12124411d",
-        "title": "从AI辅助诊断到跨设备算力协同，大学生的脑洞正在鸿蒙上“跑”起来 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEVWNGRVWV9fSjM4eFBLa1JBN1JEenZQMjRyS2g2SDR3aXN3U0pWNHN6U0lVbEtRUUxJdmp6X0ZaX19oTHRNRXd5SC1tRXBveVlDTHcxZ2NSRmZEOHZxdzhGRmFLSjAwYURwQmhQeFA4WE15YjV3aVBISnZrUlA4SnM3RU1fNlRXS3BTeQ?oc=5",
-        "summary": "从AI辅助诊断到跨设备算力协同，大学生的脑洞正在鸿蒙上“跑”起来 Sohu",
-        "source": "GN·AI 影像诊断",
-        "lang": "zh",
-        "published": "2026-11-20T09:46+08:00",
-        "published_ts": 1795139161,
-        "category": "ai_health_product"
       }
     ],
     "ai_health_project": [
       {
-        "id": "ffeb60905fc9",
-        "title": "华康洁净：预中标9405.64万元医疗专项工程施工项目 - www.caiwennews.com",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwd0dtWGhRd3BMSUFTMzV1dDZsMF9ObG4yanBUSHV3MnBBUTI2Z0w5b3M1LU9wMzI3TzJ5aTVNNkVXXzJwSWZ3WW9nRmM2bHN2Q3p2YzVaSV9lWnhi?oc=5",
-        "summary": "华康洁净：预中标9405.64万元医疗专项工程施工项目 www.caiwennews.com",
-        "source": "GN·AI 医疗招标",
+        "id": "3956423d9c69",
+        "title": "华康洁净：中标四川省老年医院医疗专项工程项目 - www.caiwennews.com",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zMlNHMkVtZVUxRmZ5T3VlYjBXdWRNU0t5M21TOXFBSEJMX2JDa05zbl9RVEVQeDlfU21yWTN2QU5qSUQ1Y3M0alFpLUttOUhFQUZZbExKc29ldnJT?oc=5",
+        "summary": "华康洁净：中标四川省老年医院医疗专项工程项目 www.caiwennews.com",
+        "source": "GN·医疗 AI 中标",
         "lang": "zh",
-        "published": "2026-11-16T17:40+08:00",
-        "published_ts": 1794822009,
+        "published": "2026-11-23T16:50+08:00",
+        "published_ts": 1795423805,
+        "category": "ai_health_project"
+      },
+      {
+        "id": "6d76bfb42fb9",
+        "title": "全球AI制药融资创新高，港股通医疗ETF易方达（520850）标的指数涨超4%_公司报道_港股_证券之星 - 证券之星",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUEdyZFozTDBSX0t4d3d4dFREVXdKeWw0OThFNUpEeU1rRkFpSFZ1c2d6bWlWbG1wSS1DM0J5TGZCWEQxUlJ2UV9TRmZZcXY0VmhWdXBEWEpnYnduYUE?oc=5",
+        "summary": "全球AI制药融资创新高，港股通医疗ETF易方达（520850）标的指数涨超4%_公司报道_港股_证券之星 证券之星",
+        "source": "GN·AI 医疗融资",
+        "lang": "zh",
+        "published": "2026-11-23T14:11+08:00",
+        "published_ts": 1795414296,
         "category": "ai_health_project"
       }
     ],
     "ai_health_funding": [
+      {
+        "id": "cc472c73c2af",
+        "title": "上市药企原副总裁，到AI制药企业做CEO - 网易新闻客户端",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1POTF5S0xfbVVVMXRpekRHVXc2YXhJeVhlYWlzem1tZnAzQ2EyT3JSdWI3N1hoN2ZNTDRXcHAtOXYzUVoySzM5dFZrUVhyZ2g3alR4NFI2TFBOSW45?oc=5",
+        "summary": "上市药企原副总裁，到AI制药企业做CEO 网易新闻客户端",
+        "source": "GN·AI 医药 IPO",
+        "lang": "zh",
+        "published": "2026-11-23T18:30+08:00",
+        "published_ts": 1795429800,
+        "category": "ai_health_funding"
+      },
+      {
+        "id": "618ba0f7f1a1",
+        "title": "医疗AI初创公司Boltz获1.1亿美元融资，加速小分子药物研发-AI应用 - 至顶网",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V3R0T3RRdmZHWGwyN01zVG9HT2N6T19DT2oxQmFXeTVZZG5jU2xlZ25XWDhDT1dNTUplY012c3d6N1BrVlV6Y1lVb3NpeTExYmJzMzJjcmtvU2M3ZmdDLUY0VVFTZFFyeG43NUpSTQ?oc=5",
+        "summary": "医疗AI初创公司Boltz获1.1亿美元融资，加速小分子药物研发-AI应用 至顶网",
+        "source": "GN·AI 医疗融资",
+        "lang": "zh",
+        "published": "2026-11-23T14:18+08:00",
+        "published_ts": 1795414722,
+        "category": "ai_health_funding"
+      },
+      {
+        "id": "1f25f8d7a63a",
+        "title": "240亿美元141笔并购！全球AI医疗狂飙 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2lDVnlYdjVZbGZBaTBkb0g4a3BzV210ZURHNndpNFdnY3N4c3ZwcVZVQkJaX1J4V0RDdHFzUHFSbmRBSHBSdkJRYWZXOHktblRKVThCcjNwSTFhcU5ZMXRiVTF2MjlFT092M1RiMG9QQWR4Q1JiczlBRTV2UWpPTnRoNXNrYkFN?oc=5",
+        "summary": "240亿美元141笔并购！全球AI医疗狂飙 Sohu",
+        "source": "GN·AI 医疗投资",
+        "lang": "zh",
+        "published": "2026-11-23T10:30+08:00",
+        "published_ts": 1795401043,
+        "category": "ai_health_funding"
+      },
       {
         "id": "2bd0e7daf09a",
         "title": "OD真人APP集团完成B轮融资，加速AI医疗产业布局 - iheima",
@@ -484,62 +1232,40 @@
         "published": "2026-11-21T04:08+08:00",
         "published_ts": 1795205305,
         "category": "ai_health_funding"
-      },
-      {
-        "id": "ede3c3fea3b3",
-        "title": "热门板块速睇：港股AI医疗概念股走弱，英矽智能领跌 - Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjB4M1FsNG1DWGtNbGlaLTlDVFN3cnZCQWJkOE42Z1A4N051TTNjWWs5S0VfdUVTWnV1NGFVYlp6Y2ZVa1c1cVBHMnd6eGFKOU1lZFVncGI4Vml6bTVIT29KQ3VRTHUwT09BWVFwQlp6MVJhMWZ5OEZyMWpZeTVXV2I5WFRGbVppeERXc2VRUFpYSHVBanVFcU1mai1YSFNqdnJiRk9PN0tCZHNoOWtLRWNETFY2Qnc?oc=5",
-        "summary": "热门板块速睇：港股AI医疗概念股走弱，英矽智能领跌 Moomoo",
-        "source": "GN·AI 医疗投资",
-        "lang": "zh",
-        "published": "2026-11-20T15:40+08:00",
-        "published_ts": 1795160400,
-        "category": "ai_health_funding"
-      },
-      {
-        "id": "396ac4d406d1",
-        "title": "Anthropic上市引发抗议，焦点涉及人工智能安全与医疗保健 - Unite.AI",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMExkcUpMU0NGNXJCR2RjZnNnVkdUQWVwZkdWdWh1ZVJtaXVncWFiaThsbXdSQ3ZZRTg4UXBULVd0VDJ6YlJRMnBLUkg2SkZOU0xxRW8xWmRuMjBSaHdQQVo2TURJM3VlZWh6MkpiUmFkRFFTdHFLMVJyVkl6NXdFVVJBYWJla3RRanJsajQ0QQ?oc=5",
-        "summary": "Anthropic上市引发抗议，焦点涉及人工智能安全与医疗保健 Unite.AI",
-        "source": "GN·医疗 AI 上市",
-        "lang": "zh",
-        "published": "2026-11-20T07:46+08:00",
-        "published_ts": 1795131962,
-        "category": "ai_health_funding"
       }
     ],
     "ai_hospital_speech": [
       {
-        "id": "7acd8a44328b",
-        "title": "21专访丨清华大学苏世民书院院长、人工智能国际治理研究院院长薛澜：AI治理是全球公共产品 - 东方财富网",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yTGJWdmhhTkJ0ZGhwbmFmYlhfV3R6c241OFNzWTFsWm1mN2ZzWm9vY21uWl9qa1JLN2d4M21vak9uSFRvS3kxSW1nMHZfTE1ncl83bE9ILUJ1WnMxeW5JX0NlUzNXQQ?oc=5",
-        "summary": "21专访丨清华大学苏世民书院院长、人工智能国际治理研究院院长薛澜：AI治理是全球公共产品 东方财富网",
-        "source": "GN·院长讲话 AI",
-        "lang": "zh",
-        "published": "2026-11-21T07:23+08:00",
-        "published_ts": 1795216987,
-        "category": "ai_hospital_speech"
-      },
-      {
-        "id": "63590138763f",
+        "id": "591739959f7c",
         "title": "21专访丨清华大学苏世民书院院长、人工智能国际治理研究院院长薛澜：AI治理是全球公共产品- 21经济网 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWdsZDBFdGNucm5hV0lLZmtyclVHQ2ptNzQxYUxJWGFEV1lrTjlLNlR0QzlCMEpTS3JrbzVDc1Q3dk5WTTZfMnhIdkY4M3FoaW5hUTVqVWdJUFpPdWZ0OHhjelZYYjA0QnRpRVRUelNqQkdJNmxmcXZXaXBYMFJDNFJkN2kxQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNU1IWkpSX0FqZS1IN0ZXRnlMVmZsM2prXzE3NjM5OGRXUkVoVVpxSWphYjBxa0tJVzhBN2dhMl9CcEYzYWZWVUxZTXlsV1d4MXNFTmxYbG9URWxNb1gyRWMwWUFYUnh2aWhwZ1ZZOVI3bGVwcTB5bTRVcmJaZW9NdzRlbTlsZw?oc=5",
         "summary": "21专访丨清华大学苏世民书院院长、人工智能国际治理研究院院长薛澜：AI治理是全球公共产品- 21经济网 21财经",
-        "source": "GN·院长谈大模型",
+        "source": "GN·院长讲话 AI",
         "lang": "zh",
         "published": "2026-11-21T07:00+08:00",
         "published_ts": 1795215600,
         "category": "ai_hospital_speech"
       },
       {
-        "id": "37a2e9bee2da",
-        "title": "向着健康长寿发力！华东医院长寿医学中心启动，老年医学AI白皮书同步发布 - 上观新闻",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6QUVmbjlaQXZ6VVA3bkYxNUhuSjNOTWJPVDVKd3I5dDdhS2xFQ2JQV3RUc2pxRmtMM19qVFFQSHVZa2wwdE9JUUJrZHU4SjhERXVrVGszelAtZw?oc=5",
-        "summary": "向着健康长寿发力！华东医院长寿医学中心启动，老年医学AI白皮书同步发布 上观新闻",
+        "id": "7489fe7c047a",
+        "title": "向着健康长寿发力！华东医院长寿医学中心启动，老年医学AI白皮书同步发布 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjlQU1hpYVBEZDZyVUg1MFlhRm5hMWRXOTlGbkRrR2VRdmdtS0s2VXVPUTR0eWxmSmQzVUY3WjVlNjFic3ZzU1NLZmpTM0lxcE1SQUlGZFpUTlRwT3J2Q0dTUGRhWUVWLV9aZ2J5YjlrVk9NRW5lMjhfaThjYjh4bVdsbVZzM3VnZEFRYQ?oc=5",
+        "summary": "向着健康长寿发力！华东医院长寿医学中心启动，老年医学AI白皮书同步发布 Sohu",
         "source": "GN·医院院长 AI",
         "lang": "zh",
         "published": "2026-11-20T16:06+08:00",
-        "published_ts": 1795161960,
+        "published_ts": 1795162000,
+        "category": "ai_hospital_speech"
+      },
+      {
+        "id": "4d2ca17b5f56",
+        "title": "健康保险审查评价院将引进人工智能(AI),提高国民的医疗使用便利性,提高诊疗费审查效率。 但是,在正式构建系统之前,确保预算和人力将成为关键。 审查评价院院长洪承权（照片）19日在记者见面会上表示，\".. - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LX3RZQlh4MklzRzRMbGY3aE9saFdxN04tRHZ2YWx5eGN0RE5aaGpzRGNEZXR6WlBfNENhSGcwcUF5S1laVzhHNTVrTDZ5ZWwweXc?oc=5",
+        "summary": "健康保险审查评价院将引进人工智能(AI),提高国民的医疗使用便利性,提高诊疗费审查效率。 但是,在正式构建系统之前,确保预算和人力将成为关键。 审查评价院院长洪承权（照片）19日在记者见面会上表示，\".. 매일경제",
+        "source": "GN·院长谈 AI",
+        "lang": "zh",
+        "published": "2026-11-19T16:35+08:00",
+        "published_ts": 1795077308,
         "category": "ai_hospital_speech"
       },
       {
@@ -547,21 +1273,21 @@
         "title": "《吕院长拆县》第19期 · 新疆伊吾县： 怎么把煤和风变成重庆的AI算力？ - 中华网",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NUHNTT19UYi04U2RyQ3RrRXgtZWxiRUVJMWd6R3J6NjVnRk05VFUyZjRkYXI4SkRjUmxiaHgwVmJRNWw3N0piNVkwNHZHVU05SWhaVEt5SEF2MmRsOEF6TEo0RFpDUmkwRGNTMg?oc=5",
         "summary": "《吕院长拆县》第19期 · 新疆伊吾县： 怎么把煤和风变成重庆的AI算力？ 中华网",
-        "source": "GN·院长讲话 AI",
+        "source": "GN·院长谈大模型",
         "lang": "zh",
         "published": "2026-11-19T15:41+08:00",
         "published_ts": 1795074106,
         "category": "ai_hospital_speech"
       },
       {
-        "id": "60a53a0920b4",
-        "title": "北大数学院院长刘若川：AI解题已现超越趋势，但数学最重要的在于理解 - 凤凰网",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pTDdldUhQVFQ1ZlhvZGNJY3U0Q0dYbXBvSDU5SW9BQWNzYkxsZ2c5R1Vtc0ZwOFZMd3VFd2ZINllMam4za1hZNmpDU3k4M3lwWkE?oc=5",
-        "summary": "北大数学院院长刘若川：AI解题已现超越趋势，但数学最重要的在于理解 凤凰网",
+        "id": "1c27194d6757",
+        "title": "哈佛院长：AI正在拆掉大学的第二道护城河 - 风闻",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NelprU0RvRk5JX1ZoTm4yV0R6RmdPN0JIQ1I3X3RmeXVqRXg1aUNZU3YzODliVldJeG5fZ2xPVEY2WGNMR0Vac3F2OXhyOXdNSDNIN2o1c2pZOG8?oc=5",
+        "summary": "哈佛院长：AI正在拆掉大学的第二道护城河 风闻",
         "source": "GN·院长讲话 AI",
         "lang": "zh",
-        "published": "2026-11-19T15:27+08:00",
-        "published_ts": 1795073271,
+        "published": "2026-11-19T06:00+08:00",
+        "published_ts": 1795039250,
         "category": "ai_hospital_speech"
       },
       {
@@ -587,14 +1313,14 @@
         "category": "ai_hospital_speech"
       },
       {
-        "id": "375e1c2704c2",
-        "title": "中国电子云副总裁、科技创新与数字经济研究院院长李树翀：AI≠大模型， “数据+行业知识+数字化技术”创新模式没有过时 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00cDRhM3dLekxTb19MVmlvRTV0SFF6ZGg1Vm9xUEEtQnJhUmd4MkZUMzhWeVpPWEp3eVpVb2tyZkxzb1VJSWRoa0pfYkNQUXVIc2RmcUtNRWctQlBGRTVwNU1QeW1WZVJrU3dMZEJNOG0?oc=5",
-        "summary": "中国电子云副总裁、科技创新与数字经济研究院院长李树翀：AI≠大模型， “数据+行业知识+数字化技术”创新模式没有过时 中国科技网",
-        "source": "GN·院长谈大模型",
+        "id": "7709a7ab3982",
+        "title": "京东集团副总裁，已任北邮人工智能学院院长 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13bm5vSDRzWWpUTlpkd3d4YWplMGVOdnhoYi1pVEp0eVRLbElGTUh4RlBoNHhNTWJBdmE4dkx4dG96WkpsUWJUc0dkaHk?oc=5",
+        "summary": "京东集团副总裁，已任北邮人工智能学院院长 凤凰网",
+        "source": "GN·院长讲话 AI",
         "lang": "zh",
-        "published": "2026-11-13T22:29+08:00",
-        "published_ts": 1794580187,
+        "published": "2026-11-13T16:00+08:00",
+        "published_ts": 1794556800,
         "category": "ai_hospital_speech"
       },
       {
@@ -602,7 +1328,7 @@
         "title": "北电院长“单团长”扈强：AI为何不能取代演员？张曼玉《甜蜜蜜》是个很好的例子 - ThePaper.cn",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OU2FGRUI2eDcwV3ZIVXgyUmFYUkJrSlR0S1c4U2hMamNFdklDWXN4TGhqTWQ5eGg4LXlTSml0enliT080dVBnbFAzUVNHdGpSeDhfa3E0MHpxSzhSeDNJLQ?oc=5",
         "summary": "北电院长“单团长”扈强：AI为何不能取代演员？张曼玉《甜蜜蜜》是个很好的例子 ThePaper.cn",
-        "source": "GN·院长讲话 AI",
+        "source": "GN·医院院长 AI",
         "lang": "zh",
         "published": "2026-11-12T16:00+08:00",
         "published_ts": 1794470400,
@@ -610,6 +1336,28 @@
       }
     ],
     "ai_health_gov_speech": [
+      {
+        "id": "99fe9ea9dffd",
+        "title": "广东省卫生健康委主任刘利群：AI赋能医疗产业是大势所趋 - 大河财立方",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56REVzTGg3VnhQeFVVWEJURXVzTGxKRlFRN09FTlpuWFVkQjQ1a3JyRjZ3Mm5BYlJjM2lNSWNMcm1wOGJ1N2YtckVNTU4zTmZWR19qUXBoSlk2Z3prM2ZEeDRaRTd2RWtCM2c?oc=5",
+        "summary": "广东省卫生健康委主任刘利群：AI赋能医疗产业是大势所趋 大河财立方",
+        "source": "GN·AI 医生应用",
+        "lang": "zh",
+        "published": "2026-11-23T11:30+08:00",
+        "published_ts": 1795404656,
+        "category": "ai_health_gov_speech"
+      },
+      {
+        "id": "6d847b4f2063",
+        "title": "广东省卫生健康委主任刘利群：AI赋能医疗产业是大势所趋 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2hiazhYekx0R3FQSnN2bm1fZXZvTnMwNHhJT3RPcUNaU0VkdFN0aHdjUVJ3UnlLTnU3VktqajhBSnJMQlcyOVZBRFFCZmdmdkZVR3NBRGtaWmtFYUgzRnBwZmhraUFCU3dPakJjQ2laaWIzUzJ6LTE4cXJGbERUY2UwNlIwVUVIUnpUQg?oc=5",
+        "summary": "广东省卫生健康委主任刘利群：AI赋能医疗产业是大势所趋 Sohu",
+        "source": "GN·卫健委医疗 AI",
+        "lang": "zh",
+        "published": "2026-11-23T11:30+08:00",
+        "published_ts": 1795404656,
+        "category": "ai_health_gov_speech"
+      },
       {
         "id": "328bf62ac672",
         "title": "AI驱动医学创新转化2026年度“优促计划”系列推介活动（海淀专场）举办 - 北京市卫生健康委员会",
